@@ -1,0 +1,1801 @@
+image_file,product_id,lighting,region_id,x1,y1,x2,y2,text,region_type,bg_kind
+P000_indoor.jpg,P000,indoor,P000_indoor_0,117,49,610,103,Zolecinmy Tablets,drug_name,foil
+P000_indoor.jpg,P000,indoor,P000_indoor_1,113,227,228,266,10 mg,strength,foil
+P000_indoor.jpg,P000,indoor,P000_indoor_2,34,373,350,398,Take 1 tablet twice daily,dosage,foil
+P000_indoor.jpg,P000,indoor,P000_indoor_3,110,511,373,529,Keep out of reach of children,warning,foil
+P000_indoor.jpg,P000,indoor,P000_indoor_4,91,633,218,642,Each tablet contains,other,foil
+P000_indoor.jpg,P000,indoor,P000_indoor_5,47,745,328,762,EXP 11/2026 B.No GX1488,expiry_batch,foil
+P000_daylight.jpg,P000,daylight,P000_daylight_0,117,50,666,103,Zolecinmy Tablets,drug_name,foil
+P000_daylight.jpg,P000,daylight,P000_daylight_1,113,228,224,264,10 mg,strength,foil
+P000_daylight.jpg,P000,daylight,P000_daylight_2,34,373,350,398,Take 1 tablet twice daily,dosage,foil
+P000_daylight.jpg,P000,daylight,P000_daylight_3,110,511,373,529,Keep out of reach of children,warning,foil
+P000_daylight.jpg,P000,daylight,P000_daylight_4,91,633,218,642,Each tablet contains,other,foil
+P000_daylight.jpg,P000,daylight,P000_daylight_5,47,745,328,762,EXP 11/2026 B.No GX1488,expiry_batch,foil
+P000_bulb_glare.jpg,P000,bulb_glare,P000_bulb_glare_0,117,50,666,103,Zolecinmy Tablets,drug_name,foil
+P000_bulb_glare.jpg,P000,bulb_glare,P000_bulb_glare_1,113,227,228,266,10 mg,strength,foil
+P000_bulb_glare.jpg,P000,bulb_glare,P000_bulb_glare_2,34,373,350,398,Take 1 tablet twice daily,dosage,foil
+P000_bulb_glare.jpg,P000,bulb_glare,P000_bulb_glare_3,110,511,422,529,Keep out of reach of children,warning,foil
+P000_bulb_glare.jpg,P000,bulb_glare,P000_bulb_glare_4,91,633,198,641,Each tablet contains,other,foil
+P000_bulb_glare.jpg,P000,bulb_glare,P000_bulb_glare_5,47,744,300,762,EXP 11/2026 B.No GX1488,expiry_batch,foil
+P001_indoor.jpg,P001,indoor,P001_indoor_0,40,51,371,105,Tomycef SR,drug_name,foil
+P001_indoor.jpg,P001,indoor,P001_indoor_1,97,212,205,252,5 mg,strength,foil
+P001_indoor.jpg,P001,indoor,P001_indoor_2,109,355,233,365,One tablet at bedtime,dosage,foil
+P001_indoor.jpg,P001,indoor,P001_indoor_3,37,443,173,455,Store below 25 C,warning,foil
+P001_indoor.jpg,P001,indoor,P001_indoor_4,67,537,256,556,Mkt by Arogya Labs,other,foil
+P001_indoor.jpg,P001,indoor,P001_indoor_5,86,674,195,681,EXP 02/2029 B.No ET6977,expiry_batch,foil
+P001_daylight.jpg,P001,daylight,P001_daylight_0,40,50,416,107,Tomycef SR,drug_name,foil
+P001_daylight.jpg,P001,daylight,P001_daylight_1,97,212,194,252,5 mg,strength,foil
+P001_daylight.jpg,P001,daylight,P001_daylight_2,109,355,233,365,One tablet at bedtime,dosage,foil
+P001_daylight.jpg,P001,daylight,P001_daylight_3,37,443,160,455,Store below 25 C,warning,foil
+P001_daylight.jpg,P001,daylight,P001_daylight_4,67,537,290,556,Mkt by Arogya Labs,other,foil
+P001_daylight.jpg,P001,daylight,P001_daylight_5,86,674,205,681,EXP 02/2029 B.No ET6977,expiry_batch,foil
+P001_bulb_glare.jpg,P001,bulb_glare,P001_bulb_glare_0,40,49,377,107,Tomycef SR,drug_name,foil
+P001_bulb_glare.jpg,P001,bulb_glare,P001_bulb_glare_1,97,212,194,252,5 mg,strength,foil
+P001_bulb_glare.jpg,P001,bulb_glare,P001_bulb_glare_2,109,355,233,365,One tablet at bedtime,dosage,foil
+P001_bulb_glare.jpg,P001,bulb_glare,P001_bulb_glare_3,37,443,160,455,Store below 25 C,warning,foil
+P001_bulb_glare.jpg,P001,bulb_glare,P001_bulb_glare_4,67,536,268,557,Mkt by Arogya Labs,other,foil
+P001_bulb_glare.jpg,P001,bulb_glare,P001_bulb_glare_5,86,674,195,681,EXP 02/2029 B.No ET6977,expiry_batch,foil
+P002_indoor.jpg,P002,indoor,P002_indoor_0,38,51,615,117,Zolestaloflox 500,drug_name,foil
+P002_indoor.jpg,P002,indoor,P002_indoor_1,81,234,134,265,20 mg,strength,foil
+P002_indoor.jpg,P002,indoor,P002_indoor_2,115,367,324,398,One tablet at bedtime,dosage,foil
+P002_indoor.jpg,P002,indoor,P002_indoor_3,71,498,176,521,Store below 25 C,warning,foil
+P002_indoor.jpg,P002,indoor,P002_indoor_4,102,615,245,640,Each tablet contains,other,foil
+P002_indoor.jpg,P002,indoor,P002_indoor_5,108,692,204,713,EXP 03/2029 B.No BX2796,expiry_batch,foil
+P002_daylight.jpg,P002,daylight,P002_daylight_0,38,52,574,115,Zolestaloflox 500,drug_name,foil
+P002_daylight.jpg,P002,daylight,P002_daylight_1,81,232,136,265,20 mg,strength,foil
+P002_daylight.jpg,P002,daylight,P002_daylight_2,115,368,316,397,One tablet at bedtime,dosage,foil
+P002_daylight.jpg,P002,daylight,P002_daylight_3,71,498,176,521,Store below 25 C,warning,foil
+P002_daylight.jpg,P002,daylight,P002_daylight_4,102,615,245,640,Each tablet contains,other,foil
+P002_daylight.jpg,P002,daylight,P002_daylight_5,108,692,204,713,EXP 03/2029 B.No BX2796,expiry_batch,foil
+P002_bulb_glare.jpg,P002,bulb_glare,P002_bulb_glare_0,38,52,680,117,Zolestaloflox 500,drug_name,foil
+P002_bulb_glare.jpg,P002,bulb_glare,P002_bulb_glare_1,81,232,136,265,20 mg,strength,foil
+P002_bulb_glare.jpg,P002,bulb_glare,P002_bulb_glare_2,115,368,316,397,One tablet at bedtime,dosage,foil
+P002_bulb_glare.jpg,P002,bulb_glare,P002_bulb_glare_3,71,498,160,520,Store below 25 C,warning,foil
+P002_bulb_glare.jpg,P002,bulb_glare,P002_bulb_glare_4,102,615,245,640,Each tablet contains,other,foil
+P002_bulb_glare.jpg,P002,bulb_glare,P002_bulb_glare_5,108,692,206,712,EXP 03/2029 B.No BX2796,expiry_batch,foil
+P003_indoor.jpg,P003,indoor,P003_indoor_0,100,48,496,95,Pinepataacin SR,drug_name,foil
+P003_indoor.jpg,P003,indoor,P003_indoor_1,76,206,164,228,650 mg,strength,foil
+P003_indoor.jpg,P003,indoor,P003_indoor_2,36,317,242,340,Dosage: as directed,dosage,foil
+P003_indoor.jpg,P003,indoor,P003_indoor_3,108,419,478,444,Keep out of reach of children,warning,foil
+P003_indoor.jpg,P003,indoor,P003_indoor_4,65,566,179,578,10 x 10 Tablets,other,foil
+P003_indoor.jpg,P003,indoor,P003_indoor_5,30,636,289,651,EXP 04/2026 B.No DR2290,expiry_batch,foil
+P003_daylight.jpg,P003,daylight,P003_daylight_0,100,49,476,94,Pinepataacin SR,drug_name,foil
+P003_daylight.jpg,P003,daylight,P003_daylight_1,76,206,153,227,650 mg,strength,foil
+P003_daylight.jpg,P003,daylight,P003_daylight_2,36,318,266,340,Dosage: as directed,dosage,foil
+P003_daylight.jpg,P003,daylight,P003_daylight_3,108,419,454,442,Keep out of reach of children,warning,foil
+P003_daylight.jpg,P003,daylight,P003_daylight_4,65,565,181,579,10 x 10 Tablets,other,foil
+P003_daylight.jpg,P003,daylight,P003_daylight_5,30,635,283,653,EXP 04/2026 B.No DR2290,expiry_batch,foil
+P003_bulb_glare.jpg,P003,bulb_glare,P003_bulb_glare_0,100,49,476,94,Pinepataacin SR,drug_name,foil
+P003_bulb_glare.jpg,P003,bulb_glare,P003_bulb_glare_1,76,205,155,228,650 mg,strength,foil
+P003_bulb_glare.jpg,P003,bulb_glare,P003_bulb_glare_2,36,317,241,339,Dosage: as directed,dosage,foil
+P003_bulb_glare.jpg,P003,bulb_glare,P003_bulb_glare_3,108,419,454,442,Keep out of reach of children,warning,foil
+P003_bulb_glare.jpg,P003,bulb_glare,P003_bulb_glare_4,65,566,179,578,10 x 10 Tablets,other,foil
+P003_bulb_glare.jpg,P003,bulb_glare,P003_bulb_glare_5,30,635,283,653,EXP 04/2026 B.No DR2290,expiry_batch,foil
+P004_indoor.jpg,P004,indoor,P004_indoor_0,113,49,372,98,Cefloxra SR,drug_name,foil
+P004_indoor.jpg,P004,indoor,P004_indoor_1,95,183,193,235,5 mg,strength,foil
+P004_indoor.jpg,P004,indoor,P004_indoor_2,48,307,288,345,1 tablet every 8 hours,dosage,foil
+P004_indoor.jpg,P004,indoor,P004_indoor_3,40,424,176,450,Store below 25 C,warning,foil
+P004_indoor.jpg,P004,indoor,P004_indoor_4,67,509,333,538,MRP Rs 45.60 incl of all taxes,other,foil
+P004_indoor.jpg,P004,indoor,P004_indoor_5,52,597,158,618,EXP 04/2028 B.No HY9834,expiry_batch,foil
+P004_daylight.jpg,P004,daylight,P004_daylight_0,113,49,372,98,Cefloxra SR,drug_name,foil
+P004_daylight.jpg,P004,daylight,P004_daylight_1,95,181,201,236,5 mg,strength,foil
+P004_daylight.jpg,P004,daylight,P004_daylight_2,48,308,315,345,1 tablet every 8 hours,dosage,foil
+P004_daylight.jpg,P004,daylight,P004_daylight_3,40,424,163,450,Store below 25 C,warning,foil
+P004_daylight.jpg,P004,daylight,P004_daylight_4,67,509,333,538,MRP Rs 45.60 incl of all taxes,other,foil
+P004_daylight.jpg,P004,daylight,P004_daylight_5,52,597,158,618,EXP 04/2028 B.No HY9834,expiry_batch,foil
+P004_bulb_glare.jpg,P004,bulb_glare,P004_bulb_glare_0,113,48,363,100,Cefloxra SR,drug_name,foil
+P004_bulb_glare.jpg,P004,bulb_glare,P004_bulb_glare_1,95,183,193,235,5 mg,strength,foil
+P004_bulb_glare.jpg,P004,bulb_glare,P004_bulb_glare_2,48,308,279,344,1 tablet every 8 hours,dosage,foil
+P004_bulb_glare.jpg,P004,bulb_glare,P004_bulb_glare_3,40,423,163,451,Store below 25 C,warning,foil
+P004_bulb_glare.jpg,P004,bulb_glare,P004_bulb_glare_4,67,508,332,539,MRP Rs 45.60 incl of all taxes,other,foil
+P004_bulb_glare.jpg,P004,bulb_glare,P004_bulb_glare_5,52,597,152,617,EXP 04/2028 B.No HY9834,expiry_batch,foil
+P005_indoor.jpg,P005,indoor,P005_indoor_0,62,51,421,114,Zilopine 500,drug_name,foil
+P005_indoor.jpg,P005,indoor,P005_indoor_1,80,196,150,218,10 mg,strength,foil
+P005_indoor.jpg,P005,indoor,P005_indoor_2,104,331,230,345,Take after food,dosage,foil
+P005_indoor.jpg,P005,indoor,P005_indoor_3,108,445,227,459,Schedule H drug,warning,foil
+P005_indoor.jpg,P005,indoor,P005_indoor_4,74,562,197,577,10 x 10 Tablets,other,foil
+P005_indoor.jpg,P005,indoor,P005_indoor_5,108,644,330,657,EXP 01/2027 B.No GX7396,expiry_batch,foil
+P005_daylight.jpg,P005,daylight,P005_daylight_0,62,51,421,114,Zilopine 500,drug_name,foil
+P005_daylight.jpg,P005,daylight,P005_daylight_1,80,196,150,218,10 mg,strength,foil
+P005_daylight.jpg,P005,daylight,P005_daylight_2,103,331,245,345,Take after food,dosage,foil
+P005_daylight.jpg,P005,daylight,P005_daylight_3,108,445,227,459,Schedule H drug,warning,foil
+P005_daylight.jpg,P005,daylight,P005_daylight_4,74,562,197,577,10 x 10 Tablets,other,foil
+P005_daylight.jpg,P005,daylight,P005_daylight_5,108,644,330,657,EXP 01/2027 B.No GX7396,expiry_batch,foil
+P005_bulb_glare.jpg,P005,bulb_glare,P005_bulb_glare_0,62,51,421,114,Zilopine 500,drug_name,foil
+P005_bulb_glare.jpg,P005,bulb_glare,P005_bulb_glare_1,80,195,152,220,10 mg,strength,foil
+P005_bulb_glare.jpg,P005,bulb_glare,P005_bulb_glare_2,104,331,230,345,Take after food,dosage,foil
+P005_bulb_glare.jpg,P005,bulb_glare,P005_bulb_glare_3,108,445,248,459,Schedule H drug,warning,foil
+P005_bulb_glare.jpg,P005,bulb_glare,P005_bulb_glare_4,74,563,195,576,10 x 10 Tablets,other,foil
+P005_bulb_glare.jpg,P005,bulb_glare,P005_bulb_glare_5,108,644,349,659,EXP 01/2027 B.No GX7396,expiry_batch,foil
+P006_indoor.jpg,P006,indoor,P006_indoor_0,115,53,799,130,Throtoprafor Tablets,drug_name,white
+P006_indoor.jpg,P006,indoor,P006_indoor_1,86,252,187,297,20 mg,strength,white
+P006_indoor.jpg,P006,indoor,P006_indoor_2,80,393,259,424,Take after food,dosage,white
+P006_indoor.jpg,P006,indoor,P006_indoor_3,71,526,417,560,Keep out of reach of children,warning,white
+P006_indoor.jpg,P006,indoor,P006_indoor_4,94,634,223,658,10 x 10 Tablets,other,white
+P006_indoor.jpg,P006,indoor,P006_indoor_5,108,731,352,757,EXP 03/2028 B.No HZ2188,expiry_batch,white
+P006_daylight.jpg,P006,daylight,P006_daylight_0,116,53,732,128,Throtoprafor Tablets,drug_name,white
+P006_daylight.jpg,P006,daylight,P006_daylight_1,86,252,187,297,20 mg,strength,white
+P006_daylight.jpg,P006,daylight,P006_daylight_2,79,393,260,426,Take after food,dosage,white
+P006_daylight.jpg,P006,daylight,P006_daylight_3,71,526,417,560,Keep out of reach of children,warning,white
+P006_daylight.jpg,P006,daylight,P006_daylight_4,94,634,223,658,10 x 10 Tablets,other,white
+P006_daylight.jpg,P006,daylight,P006_daylight_5,108,731,375,758,EXP 03/2028 B.No HZ2188,expiry_batch,white
+P006_bulb_glare.jpg,P006,bulb_glare,P006_bulb_glare_0,115,52,742,131,Throtoprafor Tablets,drug_name,white
+P006_bulb_glare.jpg,P006,bulb_glare,P006_bulb_glare_1,86,253,183,295,20 mg,strength,white
+P006_bulb_glare.jpg,P006,bulb_glare,P006_bulb_glare_2,79,393,260,426,Take after food,dosage,white
+P006_bulb_glare.jpg,P006,bulb_glare,P006_bulb_glare_3,71,526,441,562,Keep out of reach of children,warning,white
+P006_bulb_glare.jpg,P006,bulb_glare,P006_bulb_glare_4,94,635,208,658,10 x 10 Tablets,other,white
+P006_bulb_glare.jpg,P006,bulb_glare,P006_bulb_glare_5,108,731,349,759,EXP 03/2028 B.No HZ2188,expiry_batch,white
+P007_indoor.jpg,P007,indoor,P007_indoor_0,57,47,323,87,Cinfloxacinlevo,drug_name,white
+P007_indoor.jpg,P007,indoor,P007_indoor_1,65,159,142,198,5 mg,strength,white
+P007_indoor.jpg,P007,indoor,P007_indoor_2,58,295,237,322,Take after food,dosage,white
+P007_indoor.jpg,P007,indoor,P007_indoor_3,70,397,238,424,Schedule H drug,warning,white
+P007_indoor.jpg,P007,indoor,P007_indoor_4,91,518,255,539,Each tablet contains,other,white
+P007_indoor.jpg,P007,indoor,P007_indoor_5,31,586,193,604,EXP 05/2026 B.No AZ3143,expiry_batch,white
+P007_daylight.jpg,P007,daylight,P007_daylight_0,57,47,323,87,Cinfloxacinlevo,drug_name,white
+P007_daylight.jpg,P007,daylight,P007_daylight_1,65,159,142,198,5 mg,strength,white
+P007_daylight.jpg,P007,daylight,P007_daylight_2,59,295,218,321,Take after food,dosage,white
+P007_daylight.jpg,P007,daylight,P007_daylight_3,70,398,213,424,Schedule H drug,warning,white
+P007_daylight.jpg,P007,daylight,P007_daylight_4,91,518,235,539,Each tablet contains,other,white
+P007_daylight.jpg,P007,daylight,P007_daylight_5,31,585,177,605,EXP 05/2026 B.No AZ3143,expiry_batch,white
+P007_bulb_glare.jpg,P007,bulb_glare,P007_bulb_glare_0,57,48,319,85,Cinfloxacinlevo,drug_name,white
+P007_bulb_glare.jpg,P007,bulb_glare,P007_bulb_glare_1,65,159,142,198,5 mg,strength,white
+P007_bulb_glare.jpg,P007,bulb_glare,P007_bulb_glare_2,58,294,219,323,Take after food,dosage,white
+P007_bulb_glare.jpg,P007,bulb_glare,P007_bulb_glare_3,70,397,221,424,Schedule H drug,warning,white
+P007_bulb_glare.jpg,P007,bulb_glare,P007_bulb_glare_4,91,518,255,539,Each tablet contains,other,white
+P007_bulb_glare.jpg,P007,bulb_glare,P007_bulb_glare_5,31,586,193,604,EXP 05/2026 B.No AZ3143,expiry_batch,white
+P008_indoor.jpg,P008,indoor,P008_indoor_0,103,52,476,109,Ziixprata 500,drug_name,foil
+P008_indoor.jpg,P008,indoor,P008_indoor_1,62,246,175,272,650 mg,strength,foil
+P008_indoor.jpg,P008,indoor,P008_indoor_2,42,356,297,376,Take 1 tablet twice daily,dosage,foil
+P008_indoor.jpg,P008,indoor,P008_indoor_3,60,470,226,489,Schedule H drug,warning,foil
+P008_indoor.jpg,P008,indoor,P008_indoor_4,72,582,256,599,Each tablet contains,other,foil
+P008_indoor.jpg,P008,indoor,P008_indoor_5,69,693,216,702,EXP 08/2027 B.No DT6728,expiry_batch,foil
+P008_daylight.jpg,P008,daylight,P008_daylight_0,103,50,516,110,Ziixprata 500,drug_name,foil
+P008_daylight.jpg,P008,daylight,P008_daylight_1,62,246,175,272,650 mg,strength,foil
+P008_daylight.jpg,P008,daylight,P008_daylight_2,42,356,271,377,Take 1 tablet twice daily,dosage,foil
+P008_daylight.jpg,P008,daylight,P008_daylight_3,60,470,209,489,Schedule H drug,warning,foil
+P008_daylight.jpg,P008,daylight,P008_daylight_4,72,583,276,598,Each tablet contains,other,foil
+P008_daylight.jpg,P008,daylight,P008_daylight_5,69,692,201,703,EXP 08/2027 B.No DT6728,expiry_batch,foil
+P008_bulb_glare.jpg,P008,bulb_glare,P008_bulb_glare_0,103,52,476,109,Ziixprata 500,drug_name,foil
+P008_bulb_glare.jpg,P008,bulb_glare,P008_bulb_glare_1,62,245,164,272,650 mg,strength,foil
+P008_bulb_glare.jpg,P008,bulb_glare,P008_bulb_glare_2,43,357,265,376,Take 1 tablet twice daily,dosage,foil
+P008_bulb_glare.jpg,P008,bulb_glare,P008_bulb_glare_3,60,469,209,490,Schedule H drug,warning,foil
+P008_bulb_glare.jpg,P008,bulb_glare,P008_bulb_glare_4,72,583,276,598,Each tablet contains,other,foil
+P008_bulb_glare.jpg,P008,bulb_glare,P008_bulb_glare_5,69,692,203,700,EXP 08/2027 B.No DT6728,expiry_batch,foil
+P009_indoor.jpg,P009,indoor,P009_indoor_0,114,49,470,88,Locetoacin SR,drug_name,foil
+P009_indoor.jpg,P009,indoor,P009_indoor_1,44,173,134,199,250 mg,strength,foil
+P009_indoor.jpg,P009,indoor,P009_indoor_2,46,310,151,320,Dosage: as directed,dosage,foil
+P009_indoor.jpg,P009,indoor,P009_indoor_3,44,406,238,418,Do not exceed the stated dose,warning,foil
+P009_indoor.jpg,P009,indoor,P009_indoor_4,117,507,308,527,Mkt by Arogya Labs,other,foil
+P009_indoor.jpg,P009,indoor,P009_indoor_5,92,634,211,643,EXP 11/2026 B.No ER6067,expiry_batch,foil
+P009_daylight.jpg,P009,daylight,P009_daylight_0,114,50,461,87,Locetoacin SR,drug_name,foil
+P009_daylight.jpg,P009,daylight,P009_daylight_1,44,173,134,199,250 mg,strength,foil
+P009_daylight.jpg,P009,daylight,P009_daylight_2,46,310,151,320,Dosage: as directed,dosage,foil
+P009_daylight.jpg,P009,daylight,P009_daylight_3,44,406,259,417,Do not exceed the stated dose,warning,foil
+P009_daylight.jpg,P009,daylight,P009_daylight_4,117,508,329,526,Mkt by Arogya Labs,other,foil
+P009_daylight.jpg,P009,daylight,P009_daylight_5,92,634,211,643,EXP 11/2026 B.No ER6067,expiry_batch,foil
+P009_bulb_glare.jpg,P009,bulb_glare,P009_bulb_glare_0,114,49,510,88,Locetoacin SR,drug_name,foil
+P009_bulb_glare.jpg,P009,bulb_glare,P009_bulb_glare_1,44,173,134,199,250 mg,strength,foil
+P009_bulb_glare.jpg,P009,bulb_glare,P009_bulb_glare_2,46,310,157,322,Dosage: as directed,dosage,foil
+P009_bulb_glare.jpg,P009,bulb_glare,P009_bulb_glare_3,44,407,234,417,Do not exceed the stated dose,warning,foil
+P009_bulb_glare.jpg,P009,bulb_glare,P009_bulb_glare_4,117,508,297,526,Mkt by Arogya Labs,other,foil
+P009_bulb_glare.jpg,P009,bulb_glare,P009_bulb_glare_5,92,634,211,643,EXP 11/2026 B.No ER6067,expiry_batch,foil
+P010_indoor.jpg,P010,indoor,P010_indoor_0,91,52,473,106,Ixthromol,drug_name,white
+P010_indoor.jpg,P010,indoor,P010_indoor_1,46,200,138,233,5 mg,strength,white
+P010_indoor.jpg,P010,indoor,P010_indoor_2,115,341,406,362,One tablet at bedtime,dosage,white
+P010_indoor.jpg,P010,indoor,P010_indoor_3,31,459,308,471,Do not exceed the stated dose,warning,white
+P010_indoor.jpg,P010,indoor,P010_indoor_4,115,570,285,585,10 x 10 Tablets,other,white
+P010_indoor.jpg,P010,indoor,P010_indoor_5,50,705,277,722,EXP 08/2026 B.No HT4185,expiry_batch,white
+P010_daylight.jpg,P010,daylight,P010_daylight_0,91,51,435,106,Ixthromol,drug_name,white
+P010_daylight.jpg,P010,daylight,P010_daylight_1,46,199,129,234,5 mg,strength,white
+P010_daylight.jpg,P010,daylight,P010_daylight_2,115,341,406,362,One tablet at bedtime,dosage,white
+P010_daylight.jpg,P010,daylight,P010_daylight_3,31,459,262,471,Do not exceed the stated dose,warning,white
+P010_daylight.jpg,P010,daylight,P010_daylight_4,115,570,285,585,10 x 10 Tablets,other,white
+P010_daylight.jpg,P010,daylight,P010_daylight_5,50,706,303,722,EXP 08/2026 B.No HT4185,expiry_batch,white
+P010_bulb_glare.jpg,P010,bulb_glare,P010_bulb_glare_0,91,51,435,106,Ixthromol,drug_name,white
+P010_bulb_glare.jpg,P010,bulb_glare,P010_bulb_glare_1,46,200,138,233,5 mg,strength,white
+P010_bulb_glare.jpg,P010,bulb_glare,P010_bulb_glare_2,115,341,379,360,One tablet at bedtime,dosage,white
+P010_bulb_glare.jpg,P010,bulb_glare,P010_bulb_glare_3,31,459,308,471,Do not exceed the stated dose,warning,white
+P010_bulb_glare.jpg,P010,bulb_glare,P010_bulb_glare_4,115,569,268,586,10 x 10 Tablets,other,white
+P010_bulb_glare.jpg,P010,bulb_glare,P010_bulb_glare_5,50,705,277,722,EXP 08/2026 B.No HT4185,expiry_batch,white
+P011_indoor.jpg,P011,indoor,P011_indoor_0,94,47,302,77,Cindice SR,drug_name,colour
+P011_indoor.jpg,P011,indoor,P011_indoor_1,38,196,131,223,10 mg,strength,colour
+P011_indoor.jpg,P011,indoor,P011_indoor_2,115,328,378,354,Dosage: as directed,dosage,colour
+P011_indoor.jpg,P011,indoor,P011_indoor_3,114,434,237,448,Store below 25 C,warning,colour
+P011_indoor.jpg,P011,indoor,P011_indoor_4,111,569,277,584,Each tablet contains,other,colour
+P011_indoor.jpg,P011,indoor,P011_indoor_5,111,674,392,690,EXP 06/2028 B.No KX3267,expiry_batch,colour
+P011_daylight.jpg,P011,daylight,P011_daylight_0,94,47,281,78,Cindice SR,drug_name,colour
+P011_daylight.jpg,P011,daylight,P011_daylight_1,38,195,121,224,10 mg,strength,colour
+P011_daylight.jpg,P011,daylight,P011_daylight_2,115,328,362,352,Dosage: as directed,dosage,colour
+P011_daylight.jpg,P011,daylight,P011_daylight_3,114,435,250,447,Store below 25 C,warning,colour
+P011_daylight.jpg,P011,daylight,P011_daylight_4,111,570,273,583,Each tablet contains,other,colour
+P011_daylight.jpg,P011,daylight,P011_daylight_5,111,673,363,690,EXP 06/2028 B.No KX3267,expiry_batch,colour
+P011_bulb_glare.jpg,P011,bulb_glare,P011_bulb_glare_0,94,47,302,77,Cindice SR,drug_name,colour
+P011_bulb_glare.jpg,P011,bulb_glare,P011_bulb_glare_1,38,196,131,223,10 mg,strength,colour
+P011_bulb_glare.jpg,P011,bulb_glare,P011_bulb_glare_2,115,328,362,352,Dosage: as directed,dosage,colour
+P011_bulb_glare.jpg,P011,bulb_glare,P011_bulb_glare_3,114,435,250,447,Store below 25 C,warning,colour
+P011_bulb_glare.jpg,P011,bulb_glare,P011_bulb_glare_4,111,569,295,583,Each tablet contains,other,colour
+P011_bulb_glare.jpg,P011,bulb_glare,P011_bulb_glare_5,111,674,392,690,EXP 06/2028 B.No KX3267,expiry_batch,colour
+P012_indoor.jpg,P012,indoor,P012_indoor_0,115,53,799,109,Imediacin Tablets,drug_name,colour
+P012_indoor.jpg,P012,indoor,P012_indoor_1,86,247,186,274,250 mg,strength,colour
+P012_indoor.jpg,P012,indoor,P012_indoor_2,92,351,313,373,1 tablet every 8 hours,dosage,colour
+P012_indoor.jpg,P012,indoor,P012_indoor_3,39,440,176,452,Store below 25 C,warning,colour
+P012_indoor.jpg,P012,indoor,P012_indoor_4,64,508,121,514,10 x 10 Tablets,other,colour
+P012_indoor.jpg,P012,indoor,P012_indoor_5,90,589,226,597,EXP 01/2029 B.No AX8022,expiry_batch,colour
+P012_daylight.jpg,P012,daylight,P012_daylight_0,115,53,799,109,Imediacin Tablets,drug_name,colour
+P012_daylight.jpg,P012,daylight,P012_daylight_1,86,247,186,274,250 mg,strength,colour
+P012_daylight.jpg,P012,daylight,P012_daylight_2,92,351,313,373,1 tablet every 8 hours,dosage,colour
+P012_daylight.jpg,P012,daylight,P012_daylight_3,39,440,176,452,Store below 25 C,warning,colour
+P012_daylight.jpg,P012,daylight,P012_daylight_4,64,507,125,515,10 x 10 Tablets,other,colour
+P012_daylight.jpg,P012,daylight,P012_daylight_5,90,590,252,599,EXP 01/2029 B.No AX8022,expiry_batch,colour
+P012_bulb_glare.jpg,P012,bulb_glare,P012_bulb_glare_0,115,54,722,108,Imediacin Tablets,drug_name,colour
+P012_bulb_glare.jpg,P012,bulb_glare,P012_bulb_glare_1,86,245,190,275,250 mg,strength,colour
+P012_bulb_glare.jpg,P012,bulb_glare,P012_bulb_glare_2,92,351,313,373,1 tablet every 8 hours,dosage,colour
+P012_bulb_glare.jpg,P012,bulb_glare,P012_bulb_glare_3,39,439,185,453,Store below 25 C,warning,colour
+P012_bulb_glare.jpg,P012,bulb_glare,P012_bulb_glare_4,64,507,132,514,10 x 10 Tablets,other,colour
+P012_bulb_glare.jpg,P012,bulb_glare,P012_bulb_glare_5,90,589,236,600,EXP 01/2029 B.No AX8022,expiry_batch,colour
+P013_indoor.jpg,P013,indoor,P013_indoor_0,66,53,359,104,Tintinzole,drug_name,white
+P013_indoor.jpg,P013,indoor,P013_indoor_1,94,196,171,215,650 mg,strength,white
+P013_indoor.jpg,P013,indoor,P013_indoor_2,43,305,368,329,One tablet at bedtime,dosage,white
+P013_indoor.jpg,P013,indoor,P013_indoor_3,118,432,436,451,Do not exceed the stated dose,warning,white
+P013_indoor.jpg,P013,indoor,P013_indoor_4,60,555,288,573,Each tablet contains,other,white
+P013_indoor.jpg,P013,indoor,P013_indoor_5,92,677,224,688,EXP 05/2026 B.No AZ7149,expiry_batch,white
+P013_daylight.jpg,P013,daylight,P013_daylight_0,66,53,359,104,Tintinzole,drug_name,white
+P013_daylight.jpg,P013,daylight,P013_daylight_1,94,196,171,215,650 mg,strength,white
+P013_daylight.jpg,P013,daylight,P013_daylight_2,43,307,338,328,One tablet at bedtime,dosage,white
+P013_daylight.jpg,P013,daylight,P013_daylight_3,118,432,436,451,Do not exceed the stated dose,warning,white
+P013_daylight.jpg,P013,daylight,P013_daylight_4,60,555,313,572,Each tablet contains,other,white
+P013_daylight.jpg,P013,daylight,P013_daylight_5,92,677,224,688,EXP 05/2026 B.No AZ7149,expiry_batch,white
+P013_bulb_glare.jpg,P013,bulb_glare,P013_bulb_glare_0,65,53,399,106,Tintinzole,drug_name,white
+P013_bulb_glare.jpg,P013,bulb_glare,P013_bulb_glare_1,94,196,163,216,650 mg,strength,white
+P013_bulb_glare.jpg,P013,bulb_glare,P013_bulb_glare_2,43,306,404,328,One tablet at bedtime,dosage,white
+P013_bulb_glare.jpg,P013,bulb_glare,P013_bulb_glare_3,118,433,472,450,Do not exceed the stated dose,warning,white
+P013_bulb_glare.jpg,P013,bulb_glare,P013_bulb_glare_4,60,555,288,573,Each tablet contains,other,white
+P013_bulb_glare.jpg,P013,bulb_glare,P013_bulb_glare_5,92,678,238,687,EXP 05/2026 B.No AZ7149,expiry_batch,white
+P014_indoor.jpg,P014,indoor,P014_indoor_0,70,46,353,82,Levomyimeacin,drug_name,white
+P014_indoor.jpg,P014,indoor,P014_indoor_1,59,210,131,233,20 mg,strength,white
+P014_indoor.jpg,P014,indoor,P014_indoor_2,99,316,284,336,Take after food,dosage,white
+P014_indoor.jpg,P014,indoor,P014_indoor_3,104,397,260,406,Do not exceed the stated dose,warning,white
+P014_indoor.jpg,P014,indoor,P014_indoor_4,71,495,229,512,Mkt by Arogya Labs,other,white
+P014_indoor.jpg,P014,indoor,P014_indoor_5,43,601,164,608,EXP 04/2029 B.No GZ1470,expiry_batch,white
+P014_daylight.jpg,P014,daylight,P014_daylight_0,70,47,384,82,Levomyimeacin,drug_name,white
+P014_daylight.jpg,P014,daylight,P014_daylight_1,59,210,131,233,20 mg,strength,white
+P014_daylight.jpg,P014,daylight,P014_daylight_2,98,315,307,336,Take after food,dosage,white
+P014_daylight.jpg,P014,daylight,P014_daylight_3,104,397,277,405,Do not exceed the stated dose,warning,white
+P014_daylight.jpg,P014,daylight,P014_daylight_4,71,494,231,512,Mkt by Arogya Labs,other,white
+P014_daylight.jpg,P014,daylight,P014_daylight_5,43,601,164,608,EXP 04/2029 B.No GZ1470,expiry_batch,white
+P014_bulb_glare.jpg,P014,bulb_glare,P014_bulb_glare_0,70,46,353,82,Levomyimeacin,drug_name,white
+P014_bulb_glare.jpg,P014,bulb_glare,P014_bulb_glare_1,59,209,134,235,20 mg,strength,white
+P014_bulb_glare.jpg,P014,bulb_glare,P014_bulb_glare_2,98,314,285,337,Take after food,dosage,white
+P014_bulb_glare.jpg,P014,bulb_glare,P014_bulb_glare_3,104,397,260,406,Do not exceed the stated dose,warning,white
+P014_bulb_glare.jpg,P014,bulb_glare,P014_bulb_glare_4,71,494,249,512,Mkt by Arogya Labs,other,white
+P014_bulb_glare.jpg,P014,bulb_glare,P014_bulb_glare_5,43,601,152,609,EXP 04/2029 B.No GZ1470,expiry_batch,white
+P015_indoor.jpg,P015,indoor,P015_indoor_0,42,48,440,83,Pradicinmet SR,drug_name,white
+P015_indoor.jpg,P015,indoor,P015_indoor_1,93,216,143,232,10 mg,strength,white
+P015_indoor.jpg,P015,indoor,P015_indoor_2,67,294,296,315,Take 1 tablet twice daily,dosage,white
+P015_indoor.jpg,P015,indoor,P015_indoor_3,92,425,170,433,Store below 25 C,warning,white
+P015_indoor.jpg,P015,indoor,P015_indoor_4,95,511,280,525,Each tablet contains,other,white
+P015_indoor.jpg,P015,indoor,P015_indoor_5,30,598,128,604,EXP 12/2027 B.No FX9779,expiry_batch,white
+P015_daylight.jpg,P015,daylight,P015_daylight_0,42,48,440,83,Pradicinmet SR,drug_name,white
+P015_daylight.jpg,P015,daylight,P015_daylight_1,93,215,151,232,10 mg,strength,white
+P015_daylight.jpg,P015,daylight,P015_daylight_2,67,294,322,314,Take 1 tablet twice daily,dosage,white
+P015_daylight.jpg,P015,daylight,P015_daylight_3,92,425,170,433,Store below 25 C,warning,white
+P015_daylight.jpg,P015,daylight,P015_daylight_4,95,510,292,526,Each tablet contains,other,white
+P015_daylight.jpg,P015,daylight,P015_daylight_5,30,598,136,605,EXP 12/2027 B.No FX9779,expiry_batch,white
+P015_bulb_glare.jpg,P015,bulb_glare,P015_bulb_glare_0,42,49,382,82,Pradicinmet SR,drug_name,white
+P015_bulb_glare.jpg,P015,bulb_glare,P015_bulb_glare_1,93,216,143,232,10 mg,strength,white
+P015_bulb_glare.jpg,P015,bulb_glare,P015_bulb_glare_2,67,294,322,314,Take 1 tablet twice daily,dosage,white
+P015_bulb_glare.jpg,P015,bulb_glare,P015_bulb_glare_3,92,425,170,433,Store below 25 C,warning,white
+P015_bulb_glare.jpg,P015,bulb_glare,P015_bulb_glare_4,95,511,280,525,Each tablet contains,other,white
+P015_bulb_glare.jpg,P015,bulb_glare,P015_bulb_glare_5,30,598,128,604,EXP 12/2027 B.No FX9779,expiry_batch,white
+P016_indoor.jpg,P016,indoor,P016_indoor_0,75,49,309,93,Cestapanto,drug_name,colour
+P016_indoor.jpg,P016,indoor,P016_indoor_1,104,204,176,232,10 mg,strength,colour
+P016_indoor.jpg,P016,indoor,P016_indoor_2,44,333,164,349,One tablet at bedtime,dosage,colour
+P016_indoor.jpg,P016,indoor,P016_indoor_3,84,441,307,460,Protect from light and moisture,warning,colour
+P016_indoor.jpg,P016,indoor,P016_indoor_4,108,545,262,567,10 x 10 Tablets,other,colour
+P016_indoor.jpg,P016,indoor,P016_indoor_5,74,627,245,642,EXP 10/2028 B.No BY2940,expiry_batch,colour
+P016_daylight.jpg,P016,daylight,P016_daylight_0,75,48,324,94,Cestapanto,drug_name,colour
+P016_daylight.jpg,P016,daylight,P016_daylight_1,104,204,187,233,10 mg,strength,colour
+P016_daylight.jpg,P016,daylight,P016_daylight_2,44,333,164,349,One tablet at bedtime,dosage,colour
+P016_daylight.jpg,P016,daylight,P016_daylight_3,84,441,353,460,Protect from light and moisture,warning,colour
+P016_daylight.jpg,P016,daylight,P016_daylight_4,108,546,283,568,10 x 10 Tablets,other,colour
+P016_daylight.jpg,P016,daylight,P016_daylight_5,74,627,259,644,EXP 10/2028 B.No BY2940,expiry_batch,colour
+P016_bulb_glare.jpg,P016,bulb_glare,P016_bulb_glare_0,75,49,309,93,Cestapanto,drug_name,colour
+P016_bulb_glare.jpg,P016,bulb_glare,P016_bulb_glare_1,104,204,176,232,10 mg,strength,colour
+P016_bulb_glare.jpg,P016,bulb_glare,P016_bulb_glare_2,44,333,177,348,One tablet at bedtime,dosage,colour
+P016_bulb_glare.jpg,P016,bulb_glare,P016_bulb_glare_3,84,441,353,460,Protect from light and moisture,warning,colour
+P016_bulb_glare.jpg,P016,bulb_glare,P016_bulb_glare_4,108,546,283,568,10 x 10 Tablets,other,colour
+P016_bulb_glare.jpg,P016,bulb_glare,P016_bulb_glare_5,74,626,240,644,EXP 10/2028 B.No BY2940,expiry_batch,colour
+P017_indoor.jpg,P017,indoor,P017_indoor_0,70,51,484,116,Tomyacin SR,drug_name,colour
+P017_indoor.jpg,P017,indoor,P017_indoor_1,84,245,201,279,650 mg,strength,colour
+P017_indoor.jpg,P017,indoor,P017_indoor_2,51,382,318,405,1 tablet every 8 hours,dosage,colour
+P017_indoor.jpg,P017,indoor,P017_indoor_3,44,529,228,546,Store below 25 C,warning,colour
+P017_indoor.jpg,P017,indoor,P017_indoor_4,107,666,305,682,Each tablet contains,other,colour
+P017_indoor.jpg,P017,indoor,P017_indoor_5,50,774,209,784,EXP 11/2027 B.No GX9922,expiry_batch,colour
+P017_daylight.jpg,P017,daylight,P017_daylight_0,70,52,531,115,Tomyacin SR,drug_name,colour
+P017_daylight.jpg,P017,daylight,P017_daylight_1,84,245,201,279,650 mg,strength,colour
+P017_daylight.jpg,P017,daylight,P017_daylight_2,51,381,291,405,1 tablet every 8 hours,dosage,colour
+P017_daylight.jpg,P017,daylight,P017_daylight_3,44,529,228,546,Store below 25 C,warning,colour
+P017_daylight.jpg,P017,daylight,P017_daylight_4,107,666,309,684,Each tablet contains,other,colour
+P017_daylight.jpg,P017,daylight,P017_daylight_5,50,776,224,787,EXP 11/2027 B.No GX9922,expiry_batch,colour
+P017_bulb_glare.jpg,P017,bulb_glare,P017_bulb_glare_0,70,52,531,115,Tomyacin SR,drug_name,colour
+P017_bulb_glare.jpg,P017,bulb_glare,P017_bulb_glare_1,84,247,197,277,650 mg,strength,colour
+P017_bulb_glare.jpg,P017,bulb_glare,P017_bulb_glare_2,51,382,282,404,1 tablet every 8 hours,dosage,colour
+P017_bulb_glare.jpg,P017,bulb_glare,P017_bulb_glare_3,44,529,249,547,Store below 25 C,warning,colour
+P017_bulb_glare.jpg,P017,bulb_glare,P017_bulb_glare_4,107,666,309,684,Each tablet contains,other,colour
+P017_bulb_glare.jpg,P017,bulb_glare,P017_bulb_glare_5,50,775,207,787,EXP 11/2027 B.No GX9922,expiry_batch,colour
+P018_indoor.jpg,P018,indoor,P018_indoor_0,96,50,549,109,Zistalopan 500,drug_name,colour
+P018_indoor.jpg,P018,indoor,P018_indoor_1,76,184,166,222,5 mg,strength,colour
+P018_indoor.jpg,P018,indoor,P018_indoor_2,63,317,216,334,Take after food,dosage,colour
+P018_indoor.jpg,P018,indoor,P018_indoor_3,52,441,144,452,Store below 25 C,warning,colour
+P018_indoor.jpg,P018,indoor,P018_indoor_4,85,567,196,579,Mkt by Arogya Labs,other,colour
+P018_indoor.jpg,P018,indoor,P018_indoor_5,101,636,345,651,EXP 06/2029 B.No FZ2713,expiry_batch,colour
+P018_daylight.jpg,P018,daylight,P018_daylight_0,96,52,513,107,Zistalopan 500,drug_name,colour
+P018_daylight.jpg,P018,daylight,P018_daylight_1,76,185,176,221,5 mg,strength,colour
+P018_daylight.jpg,P018,daylight,P018_daylight_2,63,318,234,333,Take after food,dosage,colour
+P018_daylight.jpg,P018,daylight,P018_daylight_3,52,441,144,450,Store below 25 C,warning,colour
+P018_daylight.jpg,P018,daylight,P018_daylight_4,85,567,196,579,Mkt by Arogya Labs,other,colour
+P018_daylight.jpg,P018,daylight,P018_daylight_5,101,636,364,653,EXP 06/2029 B.No FZ2713,expiry_batch,colour
+P018_bulb_glare.jpg,P018,bulb_glare,P018_bulb_glare_0,96,50,599,109,Zistalopan 500,drug_name,colour
+P018_bulb_glare.jpg,P018,bulb_glare,P018_bulb_glare_1,76,185,176,221,5 mg,strength,colour
+P018_bulb_glare.jpg,P018,bulb_glare,P018_bulb_glare_2,63,318,205,333,Take after food,dosage,colour
+P018_bulb_glare.jpg,P018,bulb_glare,P018_bulb_glare_3,52,441,144,450,Store below 25 C,warning,colour
+P018_bulb_glare.jpg,P018,bulb_glare,P018_bulb_glare_4,85,567,208,578,Mkt by Arogya Labs,other,colour
+P018_bulb_glare.jpg,P018,bulb_glare,P018_bulb_glare_5,101,636,394,652,EXP 06/2029 B.No FZ2713,expiry_batch,colour
+P019_indoor.jpg,P019,indoor,P019_indoor_0,82,51,415,115,Metvapa 500,drug_name,foil
+P019_indoor.jpg,P019,indoor,P019_indoor_1,104,230,192,276,5 mg,strength,foil
+P019_indoor.jpg,P019,indoor,P019_indoor_2,64,350,264,374,One tablet at bedtime,dosage,foil
+P019_indoor.jpg,P019,indoor,P019_indoor_3,32,425,232,448,Do not exceed the stated dose,warning,foil
+P019_indoor.jpg,P019,indoor,P019_indoor_4,30,530,163,558,Mkt by Arogya Labs,other,foil
+P019_indoor.jpg,P019,indoor,P019_indoor_5,37,597,219,623,EXP 02/2029 B.No BM3522,expiry_batch,foil
+P019_daylight.jpg,P019,daylight,P019_daylight_0,82,50,491,116,Metvapa 500,drug_name,foil
+P019_daylight.jpg,P019,daylight,P019_daylight_1,104,230,192,276,5 mg,strength,foil
+P019_daylight.jpg,P019,daylight,P019_daylight_2,64,350,227,374,One tablet at bedtime,dosage,foil
+P019_daylight.jpg,P019,daylight,P019_daylight_3,32,425,232,448,Do not exceed the stated dose,warning,foil
+P019_daylight.jpg,P019,daylight,P019_daylight_4,30,530,163,558,Mkt by Arogya Labs,other,foil
+P019_daylight.jpg,P019,daylight,P019_daylight_5,37,598,239,622,EXP 02/2029 B.No BM3522,expiry_batch,foil
+P019_bulb_glare.jpg,P019,bulb_glare,P019_bulb_glare_0,82,50,450,116,Metvapa 500,drug_name,foil
+P019_bulb_glare.jpg,P019,bulb_glare,P019_bulb_glare_1,104,230,192,276,5 mg,strength,foil
+P019_bulb_glare.jpg,P019,bulb_glare,P019_bulb_glare_2,64,350,264,374,One tablet at bedtime,dosage,foil
+P019_bulb_glare.jpg,P019,bulb_glare,P019_bulb_glare_3,32,426,212,449,Do not exceed the stated dose,warning,foil
+P019_bulb_glare.jpg,P019,bulb_glare,P019_bulb_glare_4,30,531,178,557,Mkt by Arogya Labs,other,foil
+P019_bulb_glare.jpg,P019,bulb_glare,P019_bulb_glare_5,37,598,239,622,EXP 02/2029 B.No BM3522,expiry_batch,foil
+P020_indoor.jpg,P020,indoor,P020_indoor_0,92,49,337,83,Pramysta 500,drug_name,white
+P020_indoor.jpg,P020,indoor,P020_indoor_1,95,150,215,188,10 mg,strength,white
+P020_indoor.jpg,P020,indoor,P020_indoor_2,43,271,164,286,Take after food,dosage,white
+P020_indoor.jpg,P020,indoor,P020_indoor_3,63,364,367,382,Do not exceed the stated dose,warning,white
+P020_indoor.jpg,P020,indoor,P020_indoor_4,75,459,199,470,Each tablet contains,other,white
+P020_indoor.jpg,P020,indoor,P020_indoor_5,81,564,325,579,EXP 01/2028 B.No HM7246,expiry_batch,white
+P020_daylight.jpg,P020,daylight,P020_daylight_0,92,47,388,84,Pramysta 500,drug_name,white
+P020_daylight.jpg,P020,daylight,P020_daylight_1,95,150,228,187,10 mg,strength,white
+P020_daylight.jpg,P020,daylight,P020_daylight_2,43,271,178,285,Take after food,dosage,white
+P020_daylight.jpg,P020,daylight,P020_daylight_3,63,364,367,382,Do not exceed the stated dose,warning,white
+P020_daylight.jpg,P020,daylight,P020_daylight_4,75,459,192,468,Each tablet contains,other,white
+P020_daylight.jpg,P020,daylight,P020_daylight_5,81,563,300,579,EXP 01/2028 B.No HM7246,expiry_batch,white
+P020_bulb_glare.jpg,P020,bulb_glare,P020_bulb_glare_0,92,49,337,83,Pramysta 500,drug_name,white
+P020_bulb_glare.jpg,P020,bulb_glare,P020_bulb_glare_1,95,152,205,186,10 mg,strength,white
+P020_bulb_glare.jpg,P020,bulb_glare,P020_bulb_glare_2,43,271,164,286,Take after food,dosage,white
+P020_bulb_glare.jpg,P020,bulb_glare,P020_bulb_glare_3,63,364,367,382,Do not exceed the stated dose,warning,white
+P020_bulb_glare.jpg,P020,bulb_glare,P020_bulb_glare_4,75,459,199,470,Each tablet contains,other,white
+P020_bulb_glare.jpg,P020,bulb_glare,P020_bulb_glare_5,81,564,305,577,EXP 01/2028 B.No HM7246,expiry_batch,white
+P021_indoor.jpg,P021,indoor,P021_indoor_0,42,47,284,86,Tacefpanpra,drug_name,foil
+P021_indoor.jpg,P021,indoor,P021_indoor_1,73,200,179,231,40 mg,strength,foil
+P021_indoor.jpg,P021,indoor,P021_indoor_2,32,349,281,364,One tablet at bedtime,dosage,foil
+P021_indoor.jpg,P021,indoor,P021_indoor_3,59,453,322,468,Keep out of reach of children,warning,foil
+P021_indoor.jpg,P021,indoor,P021_indoor_4,119,572,189,580,Mkt by Arogya Labs,other,foil
+P021_indoor.jpg,P021,indoor,P021_indoor_5,87,689,211,696,EXP 12/2028 B.No AX6314,expiry_batch,foil
+P021_daylight.jpg,P021,daylight,P021_daylight_0,42,47,284,86,Tacefpanpra,drug_name,foil
+P021_daylight.jpg,P021,daylight,P021_daylight_1,73,200,179,231,40 mg,strength,foil
+P021_daylight.jpg,P021,daylight,P021_daylight_2,32,349,281,364,One tablet at bedtime,dosage,foil
+P021_daylight.jpg,P021,daylight,P021_daylight_3,59,452,296,469,Keep out of reach of children,warning,foil
+P021_daylight.jpg,P021,daylight,P021_daylight_4,119,571,190,580,Mkt by Arogya Labs,other,foil
+P021_daylight.jpg,P021,daylight,P021_daylight_5,87,688,220,697,EXP 12/2028 B.No AX6314,expiry_batch,foil
+P021_bulb_glare.jpg,P021,bulb_glare,P021_bulb_glare_0,42,47,312,85,Tacefpanpra,drug_name,foil
+P021_bulb_glare.jpg,P021,bulb_glare,P021_bulb_glare_1,73,200,179,231,40 mg,strength,foil
+P021_bulb_glare.jpg,P021,bulb_glare,P021_bulb_glare_2,32,348,256,365,One tablet at bedtime,dosage,foil
+P021_bulb_glare.jpg,P021,bulb_glare,P021_bulb_glare_3,59,452,296,469,Keep out of reach of children,warning,foil
+P021_bulb_glare.jpg,P021,bulb_glare,P021_bulb_glare_4,119,572,189,580,Mkt by Arogya Labs,other,foil
+P021_bulb_glare.jpg,P021,bulb_glare,P021_bulb_glare_5,87,688,220,697,EXP 12/2028 B.No AX6314,expiry_batch,foil
+P022_indoor.jpg,P022,indoor,P022_indoor_0,41,49,321,113,Myamsta SR,drug_name,colour
+P022_indoor.jpg,P022,indoor,P022_indoor_1,100,197,217,246,250 mg,strength,colour
+P022_indoor.jpg,P022,indoor,P022_indoor_2,32,342,289,383,Dosage: as directed,dosage,colour
+P022_indoor.jpg,P022,indoor,P022_indoor_3,104,488,305,528,Schedule H drug,warning,colour
+P022_indoor.jpg,P022,indoor,P022_indoor_4,107,577,373,610,Mfd by Healwell Pharma Ltd,other,colour
+P022_indoor.jpg,P022,indoor,P022_indoor_5,79,686,242,711,EXP 12/2028 B.No AM7484,expiry_batch,colour
+P022_daylight.jpg,P022,daylight,P022_daylight_0,41,49,321,113,Myamsta SR,drug_name,colour
+P022_daylight.jpg,P022,daylight,P022_daylight_1,100,198,230,245,250 mg,strength,colour
+P022_daylight.jpg,P022,daylight,P022_daylight_2,32,342,336,384,Dosage: as directed,dosage,colour
+P022_daylight.jpg,P022,daylight,P022_daylight_3,104,489,295,526,Schedule H drug,warning,colour
+P022_daylight.jpg,P022,daylight,P022_daylight_4,107,577,345,610,Mfd by Healwell Pharma Ltd,other,colour
+P022_daylight.jpg,P022,daylight,P022_daylight_5,79,687,254,714,EXP 12/2028 B.No AM7484,expiry_batch,colour
+P022_bulb_glare.jpg,P022,bulb_glare,P022_bulb_glare_0,41,50,352,112,Myamsta SR,drug_name,colour
+P022_bulb_glare.jpg,P022,bulb_glare,P022_bulb_glare_1,100,197,217,246,250 mg,strength,colour
+P022_bulb_glare.jpg,P022,bulb_glare,P022_bulb_glare_2,32,342,305,384,Dosage: as directed,dosage,colour
+P022_bulb_glare.jpg,P022,bulb_glare,P022_bulb_glare_3,104,489,295,526,Schedule H drug,warning,colour
+P022_bulb_glare.jpg,P022,bulb_glare,P022_bulb_glare_4,107,577,345,610,Mfd by Healwell Pharma Ltd,other,colour
+P022_bulb_glare.jpg,P022,bulb_glare,P022_bulb_glare_5,79,686,242,711,EXP 12/2028 B.No AM7484,expiry_batch,colour
+P023_indoor.jpg,P023,indoor,P023_indoor_0,115,46,389,82,Imezicinacin 500,drug_name,white
+P023_indoor.jpg,P023,indoor,P023_indoor_1,74,208,136,233,650 mg,strength,white
+P023_indoor.jpg,P023,indoor,P023_indoor_2,99,314,261,338,Dosage: as directed,dosage,white
+P023_indoor.jpg,P023,indoor,P023_indoor_3,45,417,206,441,Store below 25 C,warning,white
+P023_indoor.jpg,P023,indoor,P023_indoor_4,87,513,249,533,Each tablet contains,other,white
+P023_indoor.jpg,P023,indoor,P023_indoor_5,40,634,304,656,EXP 12/2028 B.No BT2233,expiry_batch,white
+P023_daylight.jpg,P023,daylight,P023_daylight_0,115,47,383,80,Imezicinacin 500,drug_name,white
+P023_daylight.jpg,P023,daylight,P023_daylight_1,74,208,136,233,650 mg,strength,white
+P023_daylight.jpg,P023,daylight,P023_daylight_2,99,314,261,338,Dosage: as directed,dosage,white
+P023_daylight.jpg,P023,daylight,P023_daylight_3,45,417,206,441,Store below 25 C,warning,white
+P023_daylight.jpg,P023,daylight,P023_daylight_4,87,512,271,533,Each tablet contains,other,white
+P023_daylight.jpg,P023,daylight,P023_daylight_5,40,634,304,656,EXP 12/2028 B.No BT2233,expiry_batch,white
+P023_bulb_glare.jpg,P023,bulb_glare,P023_bulb_glare_0,115,47,419,81,Imezicinacin 500,drug_name,white
+P023_bulb_glare.jpg,P023,bulb_glare,P023_bulb_glare_1,74,210,134,233,650 mg,strength,white
+P023_bulb_glare.jpg,P023,bulb_glare,P023_bulb_glare_2,99,315,251,337,Dosage: as directed,dosage,white
+P023_bulb_glare.jpg,P023,bulb_glare,P023_bulb_glare_3,45,418,206,440,Store below 25 C,warning,white
+P023_bulb_glare.jpg,P023,bulb_glare,P023_bulb_glare_4,87,513,249,533,Each tablet contains,other,white
+P023_bulb_glare.jpg,P023,bulb_glare,P023_bulb_glare_5,40,633,277,656,EXP 12/2028 B.No BT2233,expiry_batch,white
+P024_indoor.jpg,P024,indoor,P024_indoor_0,91,54,676,122,Tamyflox Tablets,drug_name,colour
+P024_indoor.jpg,P024,indoor,P024_indoor_1,94,254,218,295,40 mg,strength,colour
+P024_indoor.jpg,P024,indoor,P024_indoor_2,97,398,189,408,Take after food,dosage,colour
+P024_indoor.jpg,P024,indoor,P024_indoor_3,58,502,238,513,Do not exceed the stated dose,warning,colour
+P024_indoor.jpg,P024,indoor,P024_indoor_4,80,569,213,578,MRP Rs 45.60 incl of all taxes,other,colour
+P024_indoor.jpg,P024,indoor,P024_indoor_5,96,660,334,677,EXP 06/2029 B.No CT2622,expiry_batch,colour
+P024_daylight.jpg,P024,daylight,P024_daylight_0,91,54,676,122,Tamyflox Tablets,drug_name,colour
+P024_daylight.jpg,P024,daylight,P024_daylight_1,94,255,214,294,40 mg,strength,colour
+P024_daylight.jpg,P024,daylight,P024_daylight_2,97,399,196,410,Take after food,dosage,colour
+P024_daylight.jpg,P024,daylight,P024_daylight_3,58,501,234,511,Do not exceed the stated dose,warning,colour
+P024_daylight.jpg,P024,daylight,P024_daylight_4,80,570,213,577,MRP Rs 45.60 incl of all taxes,other,colour
+P024_daylight.jpg,P024,daylight,P024_daylight_5,96,660,334,677,EXP 06/2029 B.No CT2622,expiry_batch,colour
+P024_bulb_glare.jpg,P024,bulb_glare,P024_bulb_glare_0,91,54,676,122,Tamyflox Tablets,drug_name,colour
+P024_bulb_glare.jpg,P024,bulb_glare,P024_bulb_glare_1,94,255,214,294,40 mg,strength,colour
+P024_bulb_glare.jpg,P024,bulb_glare,P024_bulb_glare_2,97,399,208,409,Take after food,dosage,colour
+P024_bulb_glare.jpg,P024,bulb_glare,P024_bulb_glare_3,58,501,234,511,Do not exceed the stated dose,warning,colour
+P024_bulb_glare.jpg,P024,bulb_glare,P024_bulb_glare_4,80,569,213,578,MRP Rs 45.60 incl of all taxes,other,colour
+P024_bulb_glare.jpg,P024,bulb_glare,P024_bulb_glare_5,96,660,340,675,EXP 06/2029 B.No CT2622,expiry_batch,colour
+P025_indoor.jpg,P025,indoor,P025_indoor_0,38,52,499,103,Cefmolixflox,drug_name,foil
+P025_indoor.jpg,P025,indoor,P025_indoor_1,67,235,221,278,20 mg,strength,foil
+P025_indoor.jpg,P025,indoor,P025_indoor_2,95,379,372,398,One tablet at bedtime,dosage,foil
+P025_indoor.jpg,P025,indoor,P025_indoor_3,73,500,167,509,Store below 25 C,warning,foil
+P025_indoor.jpg,P025,indoor,P025_indoor_4,113,625,431,644,Mfd by Healwell Pharma Ltd,other,foil
+P025_indoor.jpg,P025,indoor,P025_indoor_5,42,711,189,720,EXP 03/2028 B.No CX1422,expiry_batch,foil
+P025_daylight.jpg,P025,daylight,P025_daylight_0,38,52,434,101,Cefmolixflox,drug_name,foil
+P025_daylight.jpg,P025,daylight,P025_daylight_1,67,235,205,278,20 mg,strength,foil
+P025_daylight.jpg,P025,daylight,P025_daylight_2,95,379,372,398,One tablet at bedtime,dosage,foil
+P025_daylight.jpg,P025,daylight,P025_daylight_3,73,500,167,509,Store below 25 C,warning,foil
+P025_daylight.jpg,P025,daylight,P025_daylight_4,113,625,431,644,Mfd by Healwell Pharma Ltd,other,foil
+P025_daylight.jpg,P025,daylight,P025_daylight_5,42,711,189,720,EXP 03/2028 B.No CX1422,expiry_batch,foil
+P025_bulb_glare.jpg,P025,bulb_glare,P025_bulb_glare_0,38,51,452,103,Cefmolixflox,drug_name,foil
+P025_bulb_glare.jpg,P025,bulb_glare,P025_bulb_glare_1,67,235,221,278,20 mg,strength,foil
+P025_bulb_glare.jpg,P025,bulb_glare,P025_bulb_glare_2,95,379,372,398,One tablet at bedtime,dosage,foil
+P025_bulb_glare.jpg,P025,bulb_glare,P025_bulb_glare_3,73,500,158,508,Store below 25 C,warning,foil
+P025_bulb_glare.jpg,P025,bulb_glare,P025_bulb_glare_4,113,625,379,644,Mfd by Healwell Pharma Ltd,other,foil
+P025_bulb_glare.jpg,P025,bulb_glare,P025_bulb_glare_5,42,712,202,722,EXP 03/2028 B.No CX1422,expiry_batch,foil
+P026_indoor.jpg,P026,indoor,P026_indoor_0,58,53,445,117,Molcintin SR,drug_name,foil
+P026_indoor.jpg,P026,indoor,P026_indoor_1,77,227,180,273,40 mg,strength,foil
+P026_indoor.jpg,P026,indoor,P026_indoor_2,104,351,249,378,1 tablet every 8 hours,dosage,foil
+P026_indoor.jpg,P026,indoor,P026_indoor_3,89,440,352,471,Keep out of reach of children,warning,foil
+P026_indoor.jpg,P026,indoor,P026_indoor_4,60,549,314,577,Mfd by Healwell Pharma Ltd,other,foil
+P026_indoor.jpg,P026,indoor,P026_indoor_5,81,675,202,697,EXP 09/2028 B.No HR8048,expiry_batch,foil
+P026_daylight.jpg,P026,daylight,P026_daylight_0,58,53,483,119,Molcintin SR,drug_name,foil
+P026_daylight.jpg,P026,daylight,P026_daylight_1,77,227,180,273,40 mg,strength,foil
+P026_daylight.jpg,P026,daylight,P026_daylight_2,104,352,234,378,1 tablet every 8 hours,dosage,foil
+P026_daylight.jpg,P026,daylight,P026_daylight_3,89,440,352,471,Keep out of reach of children,warning,foil
+P026_daylight.jpg,P026,daylight,P026_daylight_4,60,549,314,577,Mfd by Healwell Pharma Ltd,other,foil
+P026_daylight.jpg,P026,daylight,P026_daylight_5,81,675,202,697,EXP 09/2028 B.No HR8048,expiry_batch,foil
+P026_bulb_glare.jpg,P026,bulb_glare,P026_bulb_glare_0,58,52,441,119,Molcintin SR,drug_name,foil
+P026_bulb_glare.jpg,P026,bulb_glare,P026_bulb_glare_1,77,226,195,274,40 mg,strength,foil
+P026_bulb_glare.jpg,P026,bulb_glare,P026_bulb_glare_2,104,352,234,378,1 tablet every 8 hours,dosage,foil
+P026_bulb_glare.jpg,P026,bulb_glare,P026_bulb_glare_3,89,440,352,471,Keep out of reach of children,warning,foil
+P026_bulb_glare.jpg,P026,bulb_glare,P026_bulb_glare_4,60,548,289,578,Mfd by Healwell Pharma Ltd,other,foil
+P026_bulb_glare.jpg,P026,bulb_glare,P026_bulb_glare_5,81,676,215,697,EXP 09/2028 B.No HR8048,expiry_batch,foil
+P027_indoor.jpg,P027,indoor,P027_indoor_0,71,46,328,76,Mettinmet SR,drug_name,colour
+P027_indoor.jpg,P027,indoor,P027_indoor_1,78,189,191,230,5 mg,strength,colour
+P027_indoor.jpg,P027,indoor,P027_indoor_2,94,351,306,372,1 tablet every 8 hours,dosage,colour
+P027_indoor.jpg,P027,indoor,P027_indoor_3,44,462,190,476,Store below 25 C,warning,colour
+P027_indoor.jpg,P027,indoor,P027_indoor_4,55,545,180,554,Mfd by Healwell Pharma Ltd,other,colour
+P027_indoor.jpg,P027,indoor,P027_indoor_5,66,668,365,684,EXP 09/2027 B.No CM8900,expiry_batch,colour
+P027_daylight.jpg,P027,daylight,P027_daylight_0,71,47,357,75,Mettinmet SR,drug_name,colour
+P027_daylight.jpg,P027,daylight,P027_daylight_1,78,189,191,230,5 mg,strength,colour
+P027_daylight.jpg,P027,daylight,P027_daylight_2,94,351,306,372,1 tablet every 8 hours,dosage,colour
+P027_daylight.jpg,P027,daylight,P027_daylight_3,44,462,190,476,Store below 25 C,warning,colour
+P027_daylight.jpg,P027,daylight,P027_daylight_4,55,544,181,555,Mfd by Healwell Pharma Ltd,other,colour
+P027_daylight.jpg,P027,daylight,P027_daylight_5,66,668,365,684,EXP 09/2027 B.No CM8900,expiry_batch,colour
+P027_bulb_glare.jpg,P027,bulb_glare,P027_bulb_glare_0,71,47,307,74,Mettinmet SR,drug_name,colour
+P027_bulb_glare.jpg,P027,bulb_glare,P027_bulb_glare_1,78,190,176,229,5 mg,strength,colour
+P027_bulb_glare.jpg,P027,bulb_glare,P027_bulb_glare_2,94,351,314,373,1 tablet every 8 hours,dosage,colour
+P027_bulb_glare.jpg,P027,bulb_glare,P027_bulb_glare_3,44,461,190,477,Store below 25 C,warning,colour
+P027_bulb_glare.jpg,P027,bulb_glare,P027_bulb_glare_4,55,545,180,554,Mfd by Healwell Pharma Ltd,other,colour
+P027_bulb_glare.jpg,P027,bulb_glare,P027_bulb_glare_5,66,668,335,685,EXP 09/2027 B.No CM8900,expiry_batch,colour
+P028_indoor.jpg,P028,indoor,P028_indoor_0,108,52,595,111,Forziminmet SR,drug_name,colour
+P028_indoor.jpg,P028,indoor,P028_indoor_1,33,207,156,252,650 mg,strength,colour
+P028_indoor.jpg,P028,indoor,P028_indoor_2,97,307,309,340,1 tablet every 8 hours,dosage,colour
+P028_indoor.jpg,P028,indoor,P028_indoor_3,52,383,198,404,Protect from light and moisture,warning,colour
+P028_indoor.jpg,P028,indoor,P028_indoor_4,94,481,357,512,Mfd by Healwell Pharma Ltd,other,colour
+P028_indoor.jpg,P028,indoor,P028_indoor_5,80,593,213,613,EXP 10/2026 B.No AY3579,expiry_batch,colour
+P028_daylight.jpg,P028,daylight,P028_daylight_0,108,51,619,113,Forziminmet SR,drug_name,colour
+P028_daylight.jpg,P028,daylight,P028_daylight_1,33,206,175,253,650 mg,strength,colour
+P028_daylight.jpg,P028,daylight,P028_daylight_2,97,307,341,341,1 tablet every 8 hours,dosage,colour
+P028_daylight.jpg,P028,daylight,P028_daylight_3,52,383,186,404,Protect from light and moisture,warning,colour
+P028_daylight.jpg,P028,daylight,P028_daylight_4,94,481,357,512,Mfd by Healwell Pharma Ltd,other,colour
+P028_daylight.jpg,P028,daylight,P028_daylight_5,80,594,225,615,EXP 10/2026 B.No AY3579,expiry_batch,colour
+P028_bulb_glare.jpg,P028,bulb_glare,P028_bulb_glare_0,108,51,676,113,Forziminmet SR,drug_name,colour
+P028_bulb_glare.jpg,P028,bulb_glare,P028_bulb_glare_1,33,206,175,253,650 mg,strength,colour
+P028_bulb_glare.jpg,P028,bulb_glare,P028_bulb_glare_2,97,307,309,340,1 tablet every 8 hours,dosage,colour
+P028_bulb_glare.jpg,P028,bulb_glare,P028_bulb_glare_3,52,383,186,404,Protect from light and moisture,warning,colour
+P028_bulb_glare.jpg,P028,bulb_glare,P028_bulb_glare_4,94,480,388,512,Mfd by Healwell Pharma Ltd,other,colour
+P028_bulb_glare.jpg,P028,bulb_glare,P028_bulb_glare_5,80,593,210,616,EXP 10/2026 B.No AY3579,expiry_batch,colour
+P029_indoor.jpg,P029,indoor,P029_indoor_0,67,48,354,89,Ceamlevozole,drug_name,foil
+P029_indoor.jpg,P029,indoor,P029_indoor_1,71,191,173,231,40 mg,strength,foil
+P029_indoor.jpg,P029,indoor,P029_indoor_2,89,318,290,346,Take 1 tablet twice daily,dosage,foil
+P029_indoor.jpg,P029,indoor,P029_indoor_3,36,441,186,461,Protect from light and moisture,warning,foil
+P029_indoor.jpg,P029,indoor,P029_indoor_4,38,537,127,558,10 x 10 Tablets,other,foil
+P029_indoor.jpg,P029,indoor,P029_indoor_5,30,613,196,636,EXP 08/2026 B.No FR8033,expiry_batch,foil
+P029_daylight.jpg,P029,daylight,P029_daylight_0,67,48,354,89,Ceamlevozole,drug_name,foil
+P029_daylight.jpg,P029,daylight,P029_daylight_1,71,190,163,231,40 mg,strength,foil
+P029_daylight.jpg,P029,daylight,P029_daylight_2,88,317,295,346,Take 1 tablet twice daily,dosage,foil
+P029_daylight.jpg,P029,daylight,P029_daylight_3,36,441,186,461,Protect from light and moisture,warning,foil
+P029_daylight.jpg,P029,daylight,P029_daylight_4,38,536,137,557,10 x 10 Tablets,other,foil
+P029_daylight.jpg,P029,daylight,P029_daylight_5,30,614,215,636,EXP 08/2026 B.No FR8033,expiry_batch,foil
+P029_bulb_glare.jpg,P029,bulb_glare,P029_bulb_glare_0,67,47,401,90,Ceamlevozole,drug_name,foil
+P029_bulb_glare.jpg,P029,bulb_glare,P029_bulb_glare_1,71,190,163,231,40 mg,strength,foil
+P029_bulb_glare.jpg,P029,bulb_glare,P029_bulb_glare_2,89,318,290,346,Take 1 tablet twice daily,dosage,foil
+P029_bulb_glare.jpg,P029,bulb_glare,P029_bulb_glare_3,36,441,186,461,Protect from light and moisture,warning,foil
+P029_bulb_glare.jpg,P029,bulb_glare,P029_bulb_glare_4,38,536,126,556,10 x 10 Tablets,other,foil
+P029_bulb_glare.jpg,P029,bulb_glare,P029_bulb_glare_5,30,614,201,634,EXP 08/2026 B.No FR8033,expiry_batch,foil
+P030_indoor.jpg,P030,indoor,P030_indoor_0,113,52,445,107,Zitinmol,drug_name,white
+P030_indoor.jpg,P030,indoor,P030_indoor_1,86,230,155,253,10 mg,strength,white
+P030_indoor.jpg,P030,indoor,P030_indoor_2,103,313,249,329,Take after food,dosage,white
+P030_indoor.jpg,P030,indoor,P030_indoor_3,95,392,284,410,Store below 25 C,warning,white
+P030_indoor.jpg,P030,indoor,P030_indoor_4,38,512,167,528,10 x 10 Tablets,other,white
+P030_indoor.jpg,P030,indoor,P030_indoor_5,57,634,225,647,EXP 08/2029 B.No FM6179,expiry_batch,white
+P030_daylight.jpg,P030,daylight,P030_daylight_0,113,54,389,106,Zitinmol,drug_name,white
+P030_daylight.jpg,P030,daylight,P030_daylight_1,86,230,163,253,10 mg,strength,white
+P030_daylight.jpg,P030,daylight,P030_daylight_2,102,313,250,331,Take after food,dosage,white
+P030_daylight.jpg,P030,daylight,P030_daylight_3,95,392,284,410,Store below 25 C,warning,white
+P030_daylight.jpg,P030,daylight,P030_daylight_4,38,512,167,528,10 x 10 Tablets,other,white
+P030_daylight.jpg,P030,daylight,P030_daylight_5,57,635,230,645,EXP 08/2029 B.No FM6179,expiry_batch,white
+P030_bulb_glare.jpg,P030,bulb_glare,P030_bulb_glare_0,113,54,389,106,Zitinmol,drug_name,white
+P030_bulb_glare.jpg,P030,bulb_glare,P030_bulb_glare_1,86,230,163,253,10 mg,strength,white
+P030_bulb_glare.jpg,P030,bulb_glare,P030_bulb_glare_2,103,313,249,329,Take after food,dosage,white
+P030_bulb_glare.jpg,P030,bulb_glare,P030_bulb_glare_3,95,392,284,410,Store below 25 C,warning,white
+P030_bulb_glare.jpg,P030,bulb_glare,P030_bulb_glare_4,38,512,167,528,10 x 10 Tablets,other,white
+P030_bulb_glare.jpg,P030,bulb_glare,P030_bulb_glare_5,57,635,230,645,EXP 08/2029 B.No FM6179,expiry_batch,white
+P031_indoor.jpg,P031,indoor,P031_indoor_0,63,47,323,83,Mypradi 500,drug_name,foil
+P031_indoor.jpg,P031,indoor,P031_indoor_1,31,194,111,212,250 mg,strength,foil
+P031_indoor.jpg,P031,indoor,P031_indoor_2,56,274,266,295,1 tablet every 8 hours,dosage,foil
+P031_indoor.jpg,P031,indoor,P031_indoor_3,83,395,437,412,Do not exceed the stated dose,warning,foil
+P031_indoor.jpg,P031,indoor,P031_indoor_4,44,520,178,535,10 x 10 Tablets,other,foil
+P031_indoor.jpg,P031,indoor,P031_indoor_5,40,647,206,660,EXP 10/2027 B.No FZ5634,expiry_batch,foil
+P031_daylight.jpg,P031,daylight,P031_daylight_0,63,47,323,83,Mypradi 500,drug_name,foil
+P031_daylight.jpg,P031,daylight,P031_daylight_1,31,195,96,212,250 mg,strength,foil
+P031_daylight.jpg,P031,daylight,P031_daylight_2,56,274,289,294,1 tablet every 8 hours,dosage,foil
+P031_daylight.jpg,P031,daylight,P031_daylight_3,83,394,401,413,Do not exceed the stated dose,warning,foil
+P031_daylight.jpg,P031,daylight,P031_daylight_4,44,520,196,535,10 x 10 Tablets,other,foil
+P031_daylight.jpg,P031,daylight,P031_daylight_5,40,647,206,660,EXP 10/2027 B.No FZ5634,expiry_batch,foil
+P031_bulb_glare.jpg,P031,bulb_glare,P031_bulb_glare_0,63,46,297,83,Mypradi 500,drug_name,foil
+P031_bulb_glare.jpg,P031,bulb_glare,P031_bulb_glare_1,31,195,96,212,250 mg,strength,foil
+P031_bulb_glare.jpg,P031,bulb_glare,P031_bulb_glare_2,56,274,266,295,1 tablet every 8 hours,dosage,foil
+P031_bulb_glare.jpg,P031,bulb_glare,P031_bulb_glare_3,83,394,401,413,Do not exceed the stated dose,warning,foil
+P031_bulb_glare.jpg,P031,bulb_glare,P031_bulb_glare_4,44,519,180,536,10 x 10 Tablets,other,foil
+P031_bulb_glare.jpg,P031,bulb_glare,P031_bulb_glare_5,40,647,206,660,EXP 10/2027 B.No FZ5634,expiry_batch,foil
+P032_indoor.jpg,P032,indoor,P032_indoor_0,41,52,581,111,Atorminpamin SR,drug_name,foil
+P032_indoor.jpg,P032,indoor,P032_indoor_1,107,203,229,240,10 mg,strength,foil
+P032_indoor.jpg,P032,indoor,P032_indoor_2,101,358,355,375,One tablet at bedtime,dosage,foil
+P032_indoor.jpg,P032,indoor,P032_indoor_3,38,475,184,491,Store below 25 C,warning,foil
+P032_indoor.jpg,P032,indoor,P032_indoor_4,56,562,258,579,Mfd by Healwell Pharma Ltd,other,foil
+P032_indoor.jpg,P032,indoor,P032_indoor_5,68,649,316,664,EXP 06/2029 B.No DY3253,expiry_batch,foil
+P032_daylight.jpg,P032,daylight,P032_daylight_0,41,51,608,114,Atorminpamin SR,drug_name,foil
+P032_daylight.jpg,P032,daylight,P032_daylight_1,107,203,216,240,10 mg,strength,foil
+P032_daylight.jpg,P032,daylight,P032_daylight_2,101,358,355,375,One tablet at bedtime,dosage,foil
+P032_daylight.jpg,P032,daylight,P032_daylight_3,38,475,184,491,Store below 25 C,warning,foil
+P032_daylight.jpg,P032,daylight,P032_daylight_4,56,563,280,578,Mfd by Healwell Pharma Ltd,other,foil
+P032_daylight.jpg,P032,daylight,P032_daylight_5,68,649,316,664,EXP 06/2029 B.No DY3253,expiry_batch,foil
+P032_bulb_glare.jpg,P032,bulb_glare,P032_bulb_glare_0,41,51,672,113,Atorminpamin SR,drug_name,foil
+P032_bulb_glare.jpg,P032,bulb_glare,P032_bulb_glare_1,107,205,213,239,10 mg,strength,foil
+P032_bulb_glare.jpg,P032,bulb_glare,P032_bulb_glare_2,101,358,355,375,One tablet at bedtime,dosage,foil
+P032_bulb_glare.jpg,P032,bulb_glare,P032_bulb_glare_3,38,476,200,490,Store below 25 C,warning,foil
+P032_bulb_glare.jpg,P032,bulb_glare,P032_bulb_glare_4,56,563,256,578,Mfd by Healwell Pharma Ltd,other,foil
+P032_bulb_glare.jpg,P032,bulb_glare,P032_bulb_glare_5,68,649,332,666,EXP 06/2029 B.No DY3253,expiry_batch,foil
+P033_indoor.jpg,P033,indoor,P033_indoor_0,38,47,403,80,Cefmetcefam 500,drug_name,colour
+P033_indoor.jpg,P033,indoor,P033_indoor_1,54,169,157,202,10 mg,strength,colour
+P033_indoor.jpg,P033,indoor,P033_indoor_2,42,284,197,295,One tablet at bedtime,dosage,colour
+P033_indoor.jpg,P033,indoor,P033_indoor_3,103,393,289,416,Schedule H drug,warning,colour
+P033_indoor.jpg,P033,indoor,P033_indoor_4,65,530,371,547,MRP Rs 45.60 incl of all taxes,other,colour
+P033_indoor.jpg,P033,indoor,P033_indoor_5,33,674,165,682,EXP 10/2027 B.No EX8873,expiry_batch,colour
+P033_daylight.jpg,P033,daylight,P033_daylight_0,38,48,375,78,Cefmetcefam 500,drug_name,colour
+P033_daylight.jpg,P033,daylight,P033_daylight_1,54,167,160,203,10 mg,strength,colour
+P033_daylight.jpg,P033,daylight,P033_daylight_2,42,284,182,296,One tablet at bedtime,dosage,colour
+P033_daylight.jpg,P033,daylight,P033_daylight_3,103,393,310,417,Schedule H drug,warning,colour
+P033_daylight.jpg,P033,daylight,P033_daylight_4,65,530,371,547,MRP Rs 45.60 incl of all taxes,other,colour
+P033_daylight.jpg,P033,daylight,P033_daylight_5,33,674,156,681,EXP 10/2027 B.No EX8873,expiry_batch,colour
+P033_bulb_glare.jpg,P033,bulb_glare,P033_bulb_glare_0,38,48,375,78,Cefmetcefam 500,drug_name,colour
+P033_bulb_glare.jpg,P033,bulb_glare,P033_bulb_glare_1,54,168,172,203,10 mg,strength,colour
+P033_bulb_glare.jpg,P033,bulb_glare,P033_bulb_glare_2,42,284,197,295,One tablet at bedtime,dosage,colour
+P033_bulb_glare.jpg,P033,bulb_glare,P033_bulb_glare_3,103,393,290,418,Schedule H drug,warning,colour
+P033_bulb_glare.jpg,P033,bulb_glare,P033_bulb_glare_4,65,530,371,547,MRP Rs 45.60 incl of all taxes,other,colour
+P033_bulb_glare.jpg,P033,bulb_glare,P033_bulb_glare_5,33,673,152,682,EXP 10/2027 B.No EX8873,expiry_batch,colour
+P034_indoor.jpg,P034,indoor,P034_indoor_0,77,50,426,102,Tinpafloxce,drug_name,colour
+P034_indoor.jpg,P034,indoor,P034_indoor_1,98,241,150,257,20 mg,strength,colour
+P034_indoor.jpg,P034,indoor,P034_indoor_2,81,343,367,360,One tablet at bedtime,dosage,colour
+P034_indoor.jpg,P034,indoor,P034_indoor_3,91,471,166,481,Schedule H drug,warning,colour
+P034_indoor.jpg,P034,indoor,P034_indoor_4,74,537,199,546,Mfd by Healwell Pharma Ltd,other,colour
+P034_indoor.jpg,P034,indoor,P034_indoor_5,118,655,236,662,EXP 03/2029 B.No BZ4893,expiry_batch,colour
+P034_daylight.jpg,P034,daylight,P034_daylight_0,77,50,426,102,Tinpafloxce,drug_name,colour
+P034_daylight.jpg,P034,daylight,P034_daylight_1,98,240,161,257,20 mg,strength,colour
+P034_daylight.jpg,P034,daylight,P034_daylight_2,81,343,367,360,One tablet at bedtime,dosage,colour
+P034_daylight.jpg,P034,daylight,P034_daylight_3,91,472,158,481,Schedule H drug,warning,colour
+P034_daylight.jpg,P034,daylight,P034_daylight_4,74,537,199,546,Mfd by Healwell Pharma Ltd,other,colour
+P034_daylight.jpg,P034,daylight,P034_daylight_5,118,655,224,662,EXP 03/2029 B.No BZ4893,expiry_batch,colour
+P034_bulb_glare.jpg,P034,bulb_glare,P034_bulb_glare_0,77,49,391,103,Tinpafloxce,drug_name,colour
+P034_bulb_glare.jpg,P034,bulb_glare,P034_bulb_glare_1,98,241,150,257,20 mg,strength,colour
+P034_bulb_glare.jpg,P034,bulb_glare,P034_bulb_glare_2,81,343,367,360,One tablet at bedtime,dosage,colour
+P034_bulb_glare.jpg,P034,bulb_glare,P034_bulb_glare_3,91,471,166,481,Schedule H drug,warning,colour
+P034_bulb_glare.jpg,P034,bulb_glare,P034_bulb_glare_4,74,536,214,546,Mfd by Healwell Pharma Ltd,other,colour
+P034_bulb_glare.jpg,P034,bulb_glare,P034_bulb_glare_5,118,655,224,662,EXP 03/2029 B.No BZ4893,expiry_batch,colour
+P035_indoor.jpg,P035,indoor,P035_indoor_0,105,48,324,92,Ixceminmy,drug_name,foil
+P035_indoor.jpg,P035,indoor,P035_indoor_1,79,159,183,191,650 mg,strength,foil
+P035_indoor.jpg,P035,indoor,P035_indoor_2,117,304,230,320,1 tablet every 8 hours,dosage,foil
+P035_indoor.jpg,P035,indoor,P035_indoor_3,93,413,254,429,Protect from light and moisture,warning,foil
+P035_indoor.jpg,P035,indoor,P035_indoor_4,80,504,238,527,Mkt by Arogya Labs,other,foil
+P035_indoor.jpg,P035,indoor,P035_indoor_5,52,580,185,594,EXP 12/2028 B.No CX6772,expiry_batch,foil
+P035_daylight.jpg,P035,daylight,P035_daylight_0,105,48,324,92,Ixceminmy,drug_name,foil
+P035_daylight.jpg,P035,daylight,P035_daylight_1,79,159,169,190,650 mg,strength,foil
+P035_daylight.jpg,P035,daylight,P035_daylight_2,117,304,255,321,1 tablet every 8 hours,dosage,foil
+P035_daylight.jpg,P035,daylight,P035_daylight_3,93,414,239,429,Protect from light and moisture,warning,foil
+P035_daylight.jpg,P035,daylight,P035_daylight_4,80,503,258,527,Mkt by Arogya Labs,other,foil
+P035_daylight.jpg,P035,daylight,P035_daylight_5,52,580,175,593,EXP 12/2028 B.No CX6772,expiry_batch,foil
+P035_bulb_glare.jpg,P035,bulb_glare,P035_bulb_glare_0,105,48,324,92,Ixceminmy,drug_name,foil
+P035_bulb_glare.jpg,P035,bulb_glare,P035_bulb_glare_1,79,159,183,191,650 mg,strength,foil
+P035_bulb_glare.jpg,P035,bulb_glare,P035_bulb_glare_2,117,304,241,322,1 tablet every 8 hours,dosage,foil
+P035_bulb_glare.jpg,P035,bulb_glare,P035_bulb_glare_3,93,413,254,429,Protect from light and moisture,warning,foil
+P035_bulb_glare.jpg,P035,bulb_glare,P035_bulb_glare_4,80,503,258,527,Mkt by Arogya Labs,other,foil
+P035_bulb_glare.jpg,P035,bulb_glare,P035_bulb_glare_5,52,580,185,594,EXP 12/2028 B.No CX6772,expiry_batch,foil
+P036_indoor.jpg,P036,indoor,P036_indoor_0,95,46,397,95,Pineprapine SR,drug_name,white
+P036_indoor.jpg,P036,indoor,P036_indoor_1,32,153,153,202,650 mg,strength,white
+P036_indoor.jpg,P036,indoor,P036_indoor_2,89,261,213,288,1 tablet every 8 hours,dosage,white
+P036_indoor.jpg,P036,indoor,P036_indoor_3,88,328,443,365,Protect from light and moisture,warning,white
+P036_indoor.jpg,P036,indoor,P036_indoor_4,51,429,171,455,Each tablet contains,other,white
+P036_indoor.jpg,P036,indoor,P036_indoor_5,105,505,250,531,EXP 05/2026 B.No GX8055,expiry_batch,white
+P036_daylight.jpg,P036,daylight,P036_daylight_0,95,46,397,95,Pineprapine SR,drug_name,white
+P036_daylight.jpg,P036,daylight,P036_daylight_1,32,154,149,200,650 mg,strength,white
+P036_daylight.jpg,P036,daylight,P036_daylight_2,89,261,202,286,1 tablet every 8 hours,dosage,white
+P036_daylight.jpg,P036,daylight,P036_daylight_3,88,328,416,364,Protect from light and moisture,warning,white
+P036_daylight.jpg,P036,daylight,P036_daylight_4,51,429,171,455,Each tablet contains,other,white
+P036_daylight.jpg,P036,daylight,P036_daylight_5,105,505,250,531,EXP 05/2026 B.No GX8055,expiry_batch,white
+P036_bulb_glare.jpg,P036,bulb_glare,P036_bulb_glare_0,95,46,367,96,Pineprapine SR,drug_name,white
+P036_bulb_glare.jpg,P036,bulb_glare,P036_bulb_glare_1,32,154,149,200,650 mg,strength,white
+P036_bulb_glare.jpg,P036,bulb_glare,P036_bulb_glare_2,89,261,202,286,1 tablet every 8 hours,dosage,white
+P036_bulb_glare.jpg,P036,bulb_glare,P036_bulb_glare_3,88,328,416,364,Protect from light and moisture,warning,white
+P036_bulb_glare.jpg,P036,bulb_glare,P036_bulb_glare_4,51,428,169,453,Each tablet contains,other,white
+P036_bulb_glare.jpg,P036,bulb_glare,P036_bulb_glare_5,105,505,250,531,EXP 05/2026 B.No GX8055,expiry_batch,white
+P037_indoor.jpg,P037,indoor,P037_indoor_0,98,50,624,93,Amstaratin Tablets,drug_name,white
+P037_indoor.jpg,P037,indoor,P037_indoor_1,85,226,195,255,500 mg,strength,white
+P037_indoor.jpg,P037,indoor,P037_indoor_2,101,319,229,335,Take after food,dosage,white
+P037_indoor.jpg,P037,indoor,P037_indoor_3,54,411,430,434,Protect from light and moisture,warning,white
+P037_indoor.jpg,P037,indoor,P037_indoor_4,34,497,252,519,Mkt by Arogya Labs,other,white
+P037_indoor.jpg,P037,indoor,P037_indoor_5,72,623,309,636,EXP 06/2028 B.No HX3255,expiry_batch,white
+P037_daylight.jpg,P037,daylight,P037_daylight_0,98,50,624,93,Amstaratin Tablets,drug_name,white
+P037_daylight.jpg,P037,daylight,P037_daylight_1,85,226,219,256,500 mg,strength,white
+P037_daylight.jpg,P037,daylight,P037_daylight_2,101,320,243,334,Take after food,dosage,white
+P037_daylight.jpg,P037,daylight,P037_daylight_3,54,410,392,434,Protect from light and moisture,warning,white
+P037_daylight.jpg,P037,daylight,P037_daylight_4,34,497,252,519,Mkt by Arogya Labs,other,white
+P037_daylight.jpg,P037,daylight,P037_daylight_5,72,623,309,636,EXP 06/2028 B.No HX3255,expiry_batch,white
+P037_bulb_glare.jpg,P037,bulb_glare,P037_bulb_glare_0,98,50,684,93,Amstaratin Tablets,drug_name,white
+P037_bulb_glare.jpg,P037,bulb_glare,P037_bulb_glare_1,85,225,206,256,500 mg,strength,white
+P037_bulb_glare.jpg,P037,bulb_glare,P037_bulb_glare_2,101,320,243,334,Take after food,dosage,white
+P037_bulb_glare.jpg,P037,bulb_glare,P037_bulb_glare_3,54,411,381,433,Protect from light and moisture,warning,white
+P037_bulb_glare.jpg,P037,bulb_glare,P037_bulb_glare_4,34,498,291,520,Mkt by Arogya Labs,other,white
+P037_bulb_glare.jpg,P037,bulb_glare,P037_bulb_glare_5,72,623,309,636,EXP 06/2028 B.No HX3255,expiry_batch,white
+P038_indoor.jpg,P038,indoor,P038_indoor_0,42,48,584,92,Atormytathro Tablets,drug_name,foil
+P038_indoor.jpg,P038,indoor,P038_indoor_1,95,159,193,193,10 mg,strength,foil
+P038_indoor.jpg,P038,indoor,P038_indoor_2,84,316,210,330,Take after food,dosage,foil
+P038_indoor.jpg,P038,indoor,P038_indoor_3,31,389,289,403,Do not exceed the stated dose,warning,foil
+P038_indoor.jpg,P038,indoor,P038_indoor_4,75,467,252,477,MRP Rs 45.60 incl of all taxes,other,foil
+P038_indoor.jpg,P038,indoor,P038_indoor_5,91,562,235,573,EXP 01/2028 B.No KR7044,expiry_batch,foil
+P038_daylight.jpg,P038,daylight,P038_daylight_0,42,48,494,90,Atormytathro Tablets,drug_name,foil
+P038_daylight.jpg,P038,daylight,P038_daylight_1,95,161,190,191,10 mg,strength,foil
+P038_daylight.jpg,P038,daylight,P038_daylight_2,83,315,211,331,Take after food,dosage,foil
+P038_daylight.jpg,P038,daylight,P038_daylight_3,31,389,289,403,Do not exceed the stated dose,warning,foil
+P038_daylight.jpg,P038,daylight,P038_daylight_4,75,467,252,477,MRP Rs 45.60 incl of all taxes,other,foil
+P038_daylight.jpg,P038,daylight,P038_daylight_5,91,561,238,570,EXP 01/2028 B.No KR7044,expiry_batch,foil
+P038_bulb_glare.jpg,P038,bulb_glare,P038_bulb_glare_0,42,48,494,90,Atormytathro Tablets,drug_name,foil
+P038_bulb_glare.jpg,P038,bulb_glare,P038_bulb_glare_1,95,160,204,192,10 mg,strength,foil
+P038_bulb_glare.jpg,P038,bulb_glare,P038_bulb_glare_2,83,315,211,331,Take after food,dosage,foil
+P038_bulb_glare.jpg,P038,bulb_glare,P038_bulb_glare_3,31,389,289,403,Do not exceed the stated dose,warning,foil
+P038_bulb_glare.jpg,P038,bulb_glare,P038_bulb_glare_4,75,467,252,477,MRP Rs 45.60 incl of all taxes,other,foil
+P038_bulb_glare.jpg,P038,bulb_glare,P038_bulb_glare_5,91,562,235,573,EXP 01/2028 B.No KR7044,expiry_batch,foil
+P039_indoor.jpg,P039,indoor,P039_indoor_0,35,50,521,109,Cinthropan SR,drug_name,white
+P039_indoor.jpg,P039,indoor,P039_indoor_1,72,186,133,204,10 mg,strength,white
+P039_indoor.jpg,P039,indoor,P039_indoor_2,53,272,188,285,Dosage: as directed,dosage,white
+P039_indoor.jpg,P039,indoor,P039_indoor_3,48,383,267,397,Protect from light and moisture,warning,white
+P039_indoor.jpg,P039,indoor,P039_indoor_4,62,475,401,492,MRP Rs 45.60 incl of all taxes,other,white
+P039_indoor.jpg,P039,indoor,P039_indoor_5,38,585,276,599,EXP 10/2026 B.No KM3762,expiry_batch,white
+P039_daylight.jpg,P039,daylight,P039_daylight_0,35,50,521,109,Cinthropan SR,drug_name,white
+P039_daylight.jpg,P039,daylight,P039_daylight_1,72,186,133,204,10 mg,strength,white
+P039_daylight.jpg,P039,daylight,P039_daylight_2,53,272,174,285,Dosage: as directed,dosage,white
+P039_daylight.jpg,P039,daylight,P039_daylight_3,48,383,267,397,Protect from light and moisture,warning,white
+P039_daylight.jpg,P039,daylight,P039_daylight_4,62,474,368,491,MRP Rs 45.60 incl of all taxes,other,white
+P039_daylight.jpg,P039,daylight,P039_daylight_5,38,585,323,601,EXP 10/2026 B.No KM3762,expiry_batch,white
+P039_bulb_glare.jpg,P039,bulb_glare,P039_bulb_glare_0,35,52,455,107,Cinthropan SR,drug_name,white
+P039_bulb_glare.jpg,P039,bulb_glare,P039_bulb_glare_1,72,187,125,204,10 mg,strength,white
+P039_bulb_glare.jpg,P039,bulb_glare,P039_bulb_glare_2,53,272,174,285,Dosage: as directed,dosage,white
+P039_bulb_glare.jpg,P039,bulb_glare,P039_bulb_glare_3,48,383,267,397,Protect from light and moisture,warning,white
+P039_bulb_glare.jpg,P039,bulb_glare,P039_bulb_glare_4,62,475,401,492,MRP Rs 45.60 incl of all taxes,other,white
+P039_bulb_glare.jpg,P039,bulb_glare,P039_bulb_glare_5,38,584,294,601,EXP 10/2026 B.No KM3762,expiry_batch,white
+P040_indoor.jpg,P040,indoor,P040_indoor_0,100,49,585,93,Tinmolforlevo SR,drug_name,foil
+P040_indoor.jpg,P040,indoor,P040_indoor_1,75,175,158,197,500 mg,strength,foil
+P040_indoor.jpg,P040,indoor,P040_indoor_2,31,292,173,307,Dosage: as directed,dosage,foil
+P040_indoor.jpg,P040,indoor,P040_indoor_3,93,403,259,422,Schedule H drug,warning,foil
+P040_indoor.jpg,P040,indoor,P040_indoor_4,114,526,234,537,Each tablet contains,other,foil
+P040_indoor.jpg,P040,indoor,P040_indoor_5,48,633,207,643,EXP 07/2027 B.No FR2739,expiry_batch,foil
+P040_daylight.jpg,P040,daylight,P040_daylight_0,100,50,563,92,Tinmolforlevo SR,drug_name,foil
+P040_daylight.jpg,P040,daylight,P040_daylight_1,75,175,158,197,500 mg,strength,foil
+P040_daylight.jpg,P040,daylight,P040_daylight_2,31,291,175,308,Dosage: as directed,dosage,foil
+P040_daylight.jpg,P040,daylight,P040_daylight_3,93,403,259,422,Schedule H drug,warning,foil
+P040_daylight.jpg,P040,daylight,P040_daylight_4,114,525,232,535,Each tablet contains,other,foil
+P040_daylight.jpg,P040,daylight,P040_daylight_5,48,632,195,641,EXP 07/2027 B.No FR2739,expiry_batch,foil
+P040_bulb_glare.jpg,P040,bulb_glare,P040_bulb_glare_0,100,49,585,93,Tinmolforlevo SR,drug_name,foil
+P040_bulb_glare.jpg,P040,bulb_glare,P040_bulb_glare_1,75,175,166,199,500 mg,strength,foil
+P040_bulb_glare.jpg,P040,bulb_glare,P040_bulb_glare_2,31,291,175,308,Dosage: as directed,dosage,foil
+P040_bulb_glare.jpg,P040,bulb_glare,P040_bulb_glare_3,93,402,242,423,Schedule H drug,warning,foil
+P040_bulb_glare.jpg,P040,bulb_glare,P040_bulb_glare_4,114,526,234,537,Each tablet contains,other,foil
+P040_bulb_glare.jpg,P040,bulb_glare,P040_bulb_glare_5,48,633,207,643,EXP 07/2027 B.No FR2739,expiry_batch,foil
+P041_indoor.jpg,P041,indoor,P041_indoor_0,78,50,613,95,Levotalo Tablets,drug_name,white
+P041_indoor.jpg,P041,indoor,P041_indoor_1,48,222,163,261,20 mg,strength,white
+P041_indoor.jpg,P041,indoor,P041_indoor_2,83,375,303,397,Dosage: as directed,dosage,white
+P041_indoor.jpg,P041,indoor,P041_indoor_3,71,456,212,467,Protect from light and moisture,warning,white
+P041_indoor.jpg,P041,indoor,P041_indoor_4,59,518,259,529,MRP Rs 45.60 incl of all taxes,other,white
+P041_indoor.jpg,P041,indoor,P041_indoor_5,118,633,311,645,EXP 07/2028 B.No AT1838,expiry_batch,white
+P041_daylight.jpg,P041,daylight,P041_daylight_0,78,51,531,94,Levotalo Tablets,drug_name,white
+P041_daylight.jpg,P041,daylight,P041_daylight_1,48,223,159,259,20 mg,strength,white
+P041_daylight.jpg,P041,daylight,P041_daylight_2,83,375,280,397,Dosage: as directed,dosage,white
+P041_daylight.jpg,P041,daylight,P041_daylight_3,71,456,227,466,Protect from light and moisture,warning,white
+P041_daylight.jpg,P041,daylight,P041_daylight_4,59,518,280,529,MRP Rs 45.60 incl of all taxes,other,white
+P041_daylight.jpg,P041,daylight,P041_daylight_5,118,633,307,647,EXP 07/2028 B.No AT1838,expiry_batch,white
+P041_bulb_glare.jpg,P041,bulb_glare,P041_bulb_glare_0,78,49,559,95,Levotalo Tablets,drug_name,white
+P041_bulb_glare.jpg,P041,bulb_glare,P041_bulb_glare_1,48,223,159,259,20 mg,strength,white
+P041_bulb_glare.jpg,P041,bulb_glare,P041_bulb_glare_2,83,375,280,397,Dosage: as directed,dosage,white
+P041_bulb_glare.jpg,P041,bulb_glare,P041_bulb_glare_3,71,456,212,467,Protect from light and moisture,warning,white
+P041_bulb_glare.jpg,P041,bulb_glare,P041_bulb_glare_4,59,518,259,529,MRP Rs 45.60 incl of all taxes,other,white
+P041_bulb_glare.jpg,P041,bulb_glare,P041_bulb_glare_5,118,633,329,646,EXP 07/2028 B.No AT1838,expiry_batch,white
+P042_indoor.jpg,P042,indoor,P042_indoor_0,109,47,378,79,Amtinzole SR,drug_name,white
+P042_indoor.jpg,P042,indoor,P042_indoor_1,117,147,240,182,250 mg,strength,white
+P042_indoor.jpg,P042,indoor,P042_indoor_2,48,256,279,285,Dosage: as directed,dosage,white
+P042_indoor.jpg,P042,indoor,P042_indoor_3,71,392,190,414,Schedule H drug,warning,white
+P042_indoor.jpg,P042,indoor,P042_indoor_4,71,482,255,506,Mkt by Arogya Labs,other,white
+P042_indoor.jpg,P042,indoor,P042_indoor_5,86,585,305,603,EXP 09/2029 B.No ET1272,expiry_batch,white
+P042_daylight.jpg,P042,daylight,P042_daylight_0,109,47,378,79,Amtinzole SR,drug_name,white
+P042_daylight.jpg,P042,daylight,P042_daylight_1,117,146,227,182,250 mg,strength,white
+P042_daylight.jpg,P042,daylight,P042_daylight_2,48,256,279,285,Dosage: as directed,dosage,white
+P042_daylight.jpg,P042,daylight,P042_daylight_3,71,393,190,413,Schedule H drug,warning,white
+P042_daylight.jpg,P042,daylight,P042_daylight_4,71,482,255,506,Mkt by Arogya Labs,other,white
+P042_daylight.jpg,P042,daylight,P042_daylight_5,86,585,323,605,EXP 09/2029 B.No ET1272,expiry_batch,white
+P042_bulb_glare.jpg,P042,bulb_glare,P042_bulb_glare_0,109,46,351,80,Amtinzole SR,drug_name,white
+P042_bulb_glare.jpg,P042,bulb_glare,P042_bulb_glare_1,117,147,240,182,250 mg,strength,white
+P042_bulb_glare.jpg,P042,bulb_glare,P042_bulb_glare_2,48,256,279,285,Dosage: as directed,dosage,white
+P042_bulb_glare.jpg,P042,bulb_glare,P042_bulb_glare_3,71,393,204,413,Schedule H drug,warning,white
+P042_bulb_glare.jpg,P042,bulb_glare,P042_bulb_glare_4,71,481,257,507,Mkt by Arogya Labs,other,white
+P042_bulb_glare.jpg,P042,bulb_glare,P042_bulb_glare_5,86,585,305,603,EXP 09/2029 B.No ET1272,expiry_batch,white
+P043_indoor.jpg,P043,indoor,P043_indoor_0,90,52,742,105,Levolevozolezole,drug_name,colour
+P043_indoor.jpg,P043,indoor,P043_indoor_1,54,252,207,290,500 mg,strength,colour
+P043_indoor.jpg,P043,indoor,P043_indoor_2,62,412,372,433,One tablet at bedtime,dosage,colour
+P043_indoor.jpg,P043,indoor,P043_indoor_3,98,524,501,549,Protect from light and moisture,warning,colour
+P043_indoor.jpg,P043,indoor,P043_indoor_4,43,643,150,655,10 x 10 Tablets,other,colour
+P043_indoor.jpg,P043,indoor,P043_indoor_5,69,738,296,755,EXP 09/2027 B.No KZ8837,expiry_batch,colour
+P043_daylight.jpg,P043,daylight,P043_daylight_0,90,52,742,105,Levolevozolezole,drug_name,colour
+P043_daylight.jpg,P043,daylight,P043_daylight_1,54,252,207,290,500 mg,strength,colour
+P043_daylight.jpg,P043,daylight,P043_daylight_2,62,412,372,433,One tablet at bedtime,dosage,colour
+P043_daylight.jpg,P043,daylight,P043_daylight_3,98,524,470,547,Protect from light and moisture,warning,colour
+P043_daylight.jpg,P043,daylight,P043_daylight_4,43,643,162,654,10 x 10 Tablets,other,colour
+P043_daylight.jpg,P043,daylight,P043_daylight_5,69,738,296,755,EXP 09/2027 B.No KZ8837,expiry_batch,colour
+P043_bulb_glare.jpg,P043,bulb_glare,P043_bulb_glare_0,90,52,742,105,Levolevozolezole,drug_name,colour
+P043_bulb_glare.jpg,P043,bulb_glare,P043_bulb_glare_1,54,252,207,290,500 mg,strength,colour
+P043_bulb_glare.jpg,P043,bulb_glare,P043_bulb_glare_2,62,412,372,433,One tablet at bedtime,dosage,colour
+P043_bulb_glare.jpg,P043,bulb_glare,P043_bulb_glare_3,98,524,501,549,Protect from light and moisture,warning,colour
+P043_bulb_glare.jpg,P043,bulb_glare,P043_bulb_glare_4,43,644,142,654,10 x 10 Tablets,other,colour
+P043_bulb_glare.jpg,P043,bulb_glare,P043_bulb_glare_5,69,739,321,755,EXP 09/2027 B.No KZ8837,expiry_batch,colour
+P044_indoor.jpg,P044,indoor,P044_indoor_0,41,52,654,117,Praceminacin 500,drug_name,foil
+P044_indoor.jpg,P044,indoor,P044_indoor_1,36,251,128,284,500 mg,strength,foil
+P044_indoor.jpg,P044,indoor,P044_indoor_2,102,370,234,395,Dosage: as directed,dosage,foil
+P044_indoor.jpg,P044,indoor,P044_indoor_3,56,494,214,524,Schedule H drug,warning,foil
+P044_indoor.jpg,P044,indoor,P044_indoor_4,92,603,344,631,MRP Rs 45.60 incl of all taxes,other,foil
+P044_indoor.jpg,P044,indoor,P044_indoor_5,66,679,176,698,EXP 12/2029 B.No DY9824,expiry_batch,foil
+P044_daylight.jpg,P044,daylight,P044_daylight_0,41,52,654,117,Praceminacin 500,drug_name,foil
+P044_daylight.jpg,P044,daylight,P044_daylight_1,36,250,119,284,500 mg,strength,foil
+P044_daylight.jpg,P044,daylight,P044_daylight_2,102,370,234,395,Dosage: as directed,dosage,foil
+P044_daylight.jpg,P044,daylight,P044_daylight_3,56,493,198,524,Schedule H drug,warning,foil
+P044_daylight.jpg,P044,daylight,P044_daylight_4,92,604,345,630,MRP Rs 45.60 incl of all taxes,other,foil
+P044_daylight.jpg,P044,daylight,P044_daylight_5,66,679,176,698,EXP 12/2029 B.No DY9824,expiry_batch,foil
+P044_bulb_glare.jpg,P044,bulb_glare,P044_bulb_glare_0,41,52,723,117,Praceminacin 500,drug_name,foil
+P044_bulb_glare.jpg,P044,bulb_glare,P044_bulb_glare_1,36,251,128,284,500 mg,strength,foil
+P044_bulb_glare.jpg,P044,bulb_glare,P044_bulb_glare_2,102,369,226,394,Dosage: as directed,dosage,foil
+P044_bulb_glare.jpg,P044,bulb_glare,P044_bulb_glare_3,56,493,198,524,Schedule H drug,warning,foil
+P044_bulb_glare.jpg,P044,bulb_glare,P044_bulb_glare_4,92,603,344,631,MRP Rs 45.60 incl of all taxes,other,foil
+P044_bulb_glare.jpg,P044,bulb_glare,P044_bulb_glare_5,66,679,173,699,EXP 12/2029 B.No DY9824,expiry_batch,foil
+P045_indoor.jpg,P045,indoor,P045_indoor_0,50,50,560,108,Lofloxime Tablets,drug_name,foil
+P045_indoor.jpg,P045,indoor,P045_indoor_1,85,239,193,291,5 mg,strength,foil
+P045_indoor.jpg,P045,indoor,P045_indoor_2,68,344,249,378,Take after food,dosage,foil
+P045_indoor.jpg,P045,indoor,P045_indoor_3,118,477,304,508,Schedule H drug,warning,foil
+P045_indoor.jpg,P045,indoor,P045_indoor_4,45,589,245,612,MRP Rs 45.60 incl of all taxes,other,foil
+P045_indoor.jpg,P045,indoor,P045_indoor_5,94,681,254,703,EXP 08/2027 B.No EX1151,expiry_batch,foil
+P045_daylight.jpg,P045,daylight,P045_daylight_0,50,50,507,108,Lofloxime Tablets,drug_name,foil
+P045_daylight.jpg,P045,daylight,P045_daylight_1,85,239,182,291,5 mg,strength,foil
+P045_daylight.jpg,P045,daylight,P045_daylight_2,68,344,270,377,Take after food,dosage,foil
+P045_daylight.jpg,P045,daylight,P045_daylight_3,118,476,286,509,Schedule H drug,warning,foil
+P045_daylight.jpg,P045,daylight,P045_daylight_4,45,588,244,613,MRP Rs 45.60 incl of all taxes,other,foil
+P045_daylight.jpg,P045,daylight,P045_daylight_5,94,682,266,706,EXP 08/2027 B.No EX1151,expiry_batch,foil
+P045_bulb_glare.jpg,P045,bulb_glare,P045_bulb_glare_0,50,51,505,107,Lofloxime Tablets,drug_name,foil
+P045_bulb_glare.jpg,P045,bulb_glare,P045_bulb_glare_1,85,239,193,291,5 mg,strength,foil
+P045_bulb_glare.jpg,P045,bulb_glare,P045_bulb_glare_2,68,344,249,378,Take after food,dosage,foil
+P045_bulb_glare.jpg,P045,bulb_glare,P045_bulb_glare_3,118,477,277,508,Schedule H drug,warning,foil
+P045_bulb_glare.jpg,P045,bulb_glare,P045_bulb_glare_4,45,589,245,612,MRP Rs 45.60 incl of all taxes,other,foil
+P045_bulb_glare.jpg,P045,bulb_glare,P045_bulb_glare_5,94,681,254,703,EXP 08/2027 B.No EX1151,expiry_batch,foil
+P046_indoor.jpg,P046,indoor,P046_indoor_0,78,52,699,138,Acinmypacin 500,drug_name,colour
+P046_indoor.jpg,P046,indoor,P046_indoor_1,85,252,165,290,10 mg,strength,colour
+P046_indoor.jpg,P046,indoor,P046_indoor_2,43,332,230,370,Take after food,dosage,colour
+P046_indoor.jpg,P046,indoor,P046_indoor_3,56,451,161,480,Schedule H drug,warning,colour
+P046_indoor.jpg,P046,indoor,P046_indoor_4,107,560,288,593,Mkt by Arogya Labs,other,colour
+P046_indoor.jpg,P046,indoor,P046_indoor_5,81,684,188,707,EXP 05/2028 B.No ER1187,expiry_batch,colour
+P046_daylight.jpg,P046,daylight,P046_daylight_0,78,52,768,138,Acinmypacin 500,drug_name,colour
+P046_daylight.jpg,P046,daylight,P046_daylight_1,85,252,155,289,10 mg,strength,colour
+P046_daylight.jpg,P046,daylight,P046_daylight_2,44,334,229,369,Take after food,dosage,colour
+P046_daylight.jpg,P046,daylight,P046_daylight_3,56,451,161,480,Schedule H drug,warning,colour
+P046_daylight.jpg,P046,daylight,P046_daylight_4,107,560,308,593,Mkt by Arogya Labs,other,colour
+P046_daylight.jpg,P046,daylight,P046_daylight_5,81,684,191,706,EXP 05/2028 B.No ER1187,expiry_batch,colour
+P046_bulb_glare.jpg,P046,bulb_glare,P046_bulb_glare_0,78,52,768,138,Acinmypacin 500,drug_name,colour
+P046_bulb_glare.jpg,P046,bulb_glare,P046_bulb_glare_1,85,252,165,290,10 mg,strength,colour
+P046_bulb_glare.jpg,P046,bulb_glare,P046_bulb_glare_2,43,332,230,370,Take after food,dosage,colour
+P046_bulb_glare.jpg,P046,bulb_glare,P046_bulb_glare_3,56,451,161,480,Schedule H drug,warning,colour
+P046_bulb_glare.jpg,P046,bulb_glare,P046_bulb_glare_4,107,560,288,593,Mkt by Arogya Labs,other,colour
+P046_bulb_glare.jpg,P046,bulb_glare,P046_bulb_glare_5,81,684,191,706,EXP 05/2028 B.No ER1187,expiry_batch,colour
+P047_indoor.jpg,P047,indoor,P047_indoor_0,73,49,588,100,Imevaflox Tablets,drug_name,foil
+P047_indoor.jpg,P047,indoor,P047_indoor_1,60,199,158,230,250 mg,strength,foil
+P047_indoor.jpg,P047,indoor,P047_indoor_2,117,344,317,370,1 tablet every 8 hours,dosage,foil
+P047_indoor.jpg,P047,indoor,P047_indoor_3,45,473,224,491,Keep out of reach of children,warning,foil
+P047_indoor.jpg,P047,indoor,P047_indoor_4,48,579,195,598,Each tablet contains,other,foil
+P047_indoor.jpg,P047,indoor,P047_indoor_5,37,674,233,691,EXP 03/2027 B.No FR8239,expiry_batch,foil
+P047_daylight.jpg,P047,daylight,P047_daylight_0,73,51,555,99,Imevaflox Tablets,drug_name,foil
+P047_daylight.jpg,P047,daylight,P047_daylight_1,60,199,158,230,250 mg,strength,foil
+P047_daylight.jpg,P047,daylight,P047_daylight_2,117,345,309,369,1 tablet every 8 hours,dosage,foil
+P047_daylight.jpg,P047,daylight,P047_daylight_3,45,472,247,491,Keep out of reach of children,warning,foil
+P047_daylight.jpg,P047,daylight,P047_daylight_4,48,580,212,597,Each tablet contains,other,foil
+P047_daylight.jpg,P047,daylight,P047_daylight_5,37,674,233,691,EXP 03/2027 B.No FR8239,expiry_batch,foil
+P047_bulb_glare.jpg,P047,bulb_glare,P047_bulb_glare_0,73,51,555,99,Imevaflox Tablets,drug_name,foil
+P047_bulb_glare.jpg,P047,bulb_glare,P047_bulb_glare_1,60,200,169,229,250 mg,strength,foil
+P047_bulb_glare.jpg,P047,bulb_glare,P047_bulb_glare_2,117,344,317,370,1 tablet every 8 hours,dosage,foil
+P047_bulb_glare.jpg,P047,bulb_glare,P047_bulb_glare_3,45,472,227,491,Keep out of reach of children,warning,foil
+P047_bulb_glare.jpg,P047,bulb_glare,P047_bulb_glare_4,48,580,212,597,Each tablet contains,other,foil
+P047_bulb_glare.jpg,P047,bulb_glare,P047_bulb_glare_5,37,674,248,692,EXP 03/2027 B.No FR8239,expiry_batch,foil
+P048_indoor.jpg,P048,indoor,P048_indoor_0,91,50,709,97,Levoacinacinam 500,drug_name,colour
+P048_indoor.jpg,P048,indoor,P048_indoor_1,65,239,141,271,5 mg,strength,colour
+P048_indoor.jpg,P048,indoor,P048_indoor_2,81,329,196,340,1 tablet every 8 hours,dosage,colour
+P048_indoor.jpg,P048,indoor,P048_indoor_3,99,451,229,458,Do not exceed the stated dose,warning,colour
+P048_indoor.jpg,P048,indoor,P048_indoor_4,98,524,406,540,MRP Rs 45.60 incl of all taxes,other,colour
+P048_indoor.jpg,P048,indoor,P048_indoor_5,47,615,270,628,EXP 03/2028 B.No BY9802,expiry_batch,colour
+P048_daylight.jpg,P048,daylight,P048_daylight_0,91,52,675,96,Levoacinacinam 500,drug_name,colour
+P048_daylight.jpg,P048,daylight,P048_daylight_1,65,239,141,271,5 mg,strength,colour
+P048_daylight.jpg,P048,daylight,P048_daylight_2,81,329,196,340,1 tablet every 8 hours,dosage,colour
+P048_daylight.jpg,P048,daylight,P048_daylight_3,99,451,240,459,Do not exceed the stated dose,warning,colour
+P048_daylight.jpg,P048,daylight,P048_daylight_4,98,524,465,541,MRP Rs 45.60 incl of all taxes,other,colour
+P048_daylight.jpg,P048,daylight,P048_daylight_5,47,615,311,630,EXP 03/2028 B.No BY9802,expiry_batch,colour
+P048_bulb_glare.jpg,P048,bulb_glare,P048_bulb_glare_0,91,50,778,97,Levoacinacinam 500,drug_name,colour
+P048_bulb_glare.jpg,P048,bulb_glare,P048_bulb_glare_1,65,240,138,270,5 mg,strength,colour
+P048_bulb_glare.jpg,P048,bulb_glare,P048_bulb_glare_2,81,329,196,340,1 tablet every 8 hours,dosage,colour
+P048_bulb_glare.jpg,P048,bulb_glare,P048_bulb_glare_3,99,450,255,458,Do not exceed the stated dose,warning,colour
+P048_bulb_glare.jpg,P048,bulb_glare,P048_bulb_glare_4,98,524,406,540,MRP Rs 45.60 incl of all taxes,other,colour
+P048_bulb_glare.jpg,P048,bulb_glare,P048_bulb_glare_5,47,614,284,630,EXP 03/2028 B.No BY9802,expiry_batch,colour
+P049_indoor.jpg,P049,indoor,P049_indoor_0,71,53,446,113,Vathrocef,drug_name,colour
+P049_indoor.jpg,P049,indoor,P049_indoor_1,46,218,147,249,10 mg,strength,colour
+P049_indoor.jpg,P049,indoor,P049_indoor_2,100,349,215,360,1 tablet every 8 hours,dosage,colour
+P049_indoor.jpg,P049,indoor,P049_indoor_3,65,427,278,446,Store below 25 C,warning,colour
+P049_indoor.jpg,P049,indoor,P049_indoor_4,80,532,258,550,Mkt by Arogya Labs,other,colour
+P049_indoor.jpg,P049,indoor,P049_indoor_5,100,639,259,649,EXP 05/2027 B.No FR6253,expiry_batch,colour
+P049_daylight.jpg,P049,daylight,P049_daylight_0,71,53,488,112,Vathrocef,drug_name,colour
+P049_daylight.jpg,P049,daylight,P049_daylight_1,46,218,147,249,10 mg,strength,colour
+P049_daylight.jpg,P049,daylight,P049_daylight_2,100,349,215,360,1 tablet every 8 hours,dosage,colour
+P049_daylight.jpg,P049,daylight,P049_daylight_3,65,427,257,445,Store below 25 C,warning,colour
+P049_daylight.jpg,P049,daylight,P049_daylight_4,80,532,258,550,Mkt by Arogya Labs,other,colour
+P049_daylight.jpg,P049,daylight,P049_daylight_5,100,640,254,652,EXP 05/2027 B.No FR6253,expiry_batch,colour
+P049_bulb_glare.jpg,P049,bulb_glare,P049_bulb_glare_0,71,54,418,110,Vathrocef,drug_name,colour
+P049_bulb_glare.jpg,P049,bulb_glare,P049_bulb_glare_1,46,218,147,249,10 mg,strength,colour
+P049_bulb_glare.jpg,P049,bulb_glare,P049_bulb_glare_2,100,349,215,360,1 tablet every 8 hours,dosage,colour
+P049_bulb_glare.jpg,P049,bulb_glare,P049_bulb_glare_3,65,427,257,447,Store below 25 C,warning,colour
+P049_bulb_glare.jpg,P049,bulb_glare,P049_bulb_glare_4,80,532,258,550,Mkt by Arogya Labs,other,colour
+P049_bulb_glare.jpg,P049,bulb_glare,P049_bulb_glare_5,100,641,272,652,EXP 05/2027 B.No FR6253,expiry_batch,colour
+P050_indoor.jpg,P050,indoor,P050_indoor_0,109,52,476,107,Mycinthrofor,drug_name,foil
+P050_indoor.jpg,P050,indoor,P050_indoor_1,109,186,253,229,40 mg,strength,foil
+P050_indoor.jpg,P050,indoor,P050_indoor_2,53,306,293,332,Dosage: as directed,dosage,foil
+P050_indoor.jpg,P050,indoor,P050_indoor_3,65,398,405,416,Protect from light and moisture,warning,foil
+P050_indoor.jpg,P050,indoor,P050_indoor_4,116,481,386,496,MRP Rs 45.60 incl of all taxes,other,foil
+P050_indoor.jpg,P050,indoor,P050_indoor_5,42,561,175,569,EXP 02/2027 B.No AZ7179,expiry_batch,foil
+P050_daylight.jpg,P050,daylight,P050_daylight_0,109,50,502,109,Mycinthrofor,drug_name,foil
+P050_daylight.jpg,P050,daylight,P050_daylight_1,109,186,253,229,40 mg,strength,foil
+P050_daylight.jpg,P050,daylight,P050_daylight_2,53,306,295,333,Dosage: as directed,dosage,foil
+P050_daylight.jpg,P050,daylight,P050_daylight_3,65,398,405,416,Protect from light and moisture,warning,foil
+P050_daylight.jpg,P050,daylight,P050_daylight_4,116,481,386,496,MRP Rs 45.60 incl of all taxes,other,foil
+P050_daylight.jpg,P050,daylight,P050_daylight_5,42,561,175,569,EXP 02/2027 B.No AZ7179,expiry_batch,foil
+P050_bulb_glare.jpg,P050,bulb_glare,P050_bulb_glare_0,109,50,502,109,Mycinthrofor,drug_name,foil
+P050_bulb_glare.jpg,P050,bulb_glare,P050_bulb_glare_1,109,186,253,229,40 mg,strength,foil
+P050_bulb_glare.jpg,P050,bulb_glare,P050_bulb_glare_2,53,306,295,333,Dosage: as directed,dosage,foil
+P050_bulb_glare.jpg,P050,bulb_glare,P050_bulb_glare_3,65,397,371,417,Protect from light and moisture,warning,foil
+P050_bulb_glare.jpg,P050,bulb_glare,P050_bulb_glare_4,116,481,386,496,MRP Rs 45.60 incl of all taxes,other,foil
+P050_bulb_glare.jpg,P050,bulb_glare,P050_bulb_glare_5,42,561,163,568,EXP 02/2027 B.No AZ7179,expiry_batch,foil
+P051_indoor.jpg,P051,indoor,P051_indoor_0,37,50,523,89,Acinthrominfor 500,drug_name,colour
+P051_indoor.jpg,P051,indoor,P051_indoor_1,103,218,198,257,5 mg,strength,colour
+P051_indoor.jpg,P051,indoor,P051_indoor_2,67,346,247,364,1 tablet every 8 hours,dosage,colour
+P051_indoor.jpg,P051,indoor,P051_indoor_3,38,467,113,476,Schedule H drug,warning,colour
+P051_indoor.jpg,P051,indoor,P051_indoor_4,63,581,201,594,Each tablet contains,other,colour
+P051_indoor.jpg,P051,indoor,P051_indoor_5,70,656,227,666,EXP 04/2027 B.No AZ7841,expiry_batch,colour
+P051_daylight.jpg,P051,daylight,P051_daylight_0,37,50,523,89,Acinthrominfor 500,drug_name,colour
+P051_daylight.jpg,P051,daylight,P051_daylight_1,103,218,198,257,5 mg,strength,colour
+P051_daylight.jpg,P051,daylight,P051_daylight_2,67,347,240,364,1 tablet every 8 hours,dosage,colour
+P051_daylight.jpg,P051,daylight,P051_daylight_3,38,467,113,476,Schedule H drug,warning,colour
+P051_daylight.jpg,P051,daylight,P051_daylight_4,63,582,216,593,Each tablet contains,other,colour
+P051_daylight.jpg,P051,daylight,P051_daylight_5,70,656,227,666,EXP 04/2027 B.No AZ7841,expiry_batch,colour
+P051_bulb_glare.jpg,P051,bulb_glare,P051_bulb_glare_0,37,50,617,91,Acinthrominfor 500,drug_name,colour
+P051_bulb_glare.jpg,P051,bulb_glare,P051_bulb_glare_1,103,219,194,256,5 mg,strength,colour
+P051_bulb_glare.jpg,P051,bulb_glare,P051_bulb_glare_2,67,347,240,364,1 tablet every 8 hours,dosage,colour
+P051_bulb_glare.jpg,P051,bulb_glare,P051_bulb_glare_3,38,466,113,477,Schedule H drug,warning,colour
+P051_bulb_glare.jpg,P051,bulb_glare,P051_bulb_glare_4,63,582,198,593,Each tablet contains,other,colour
+P051_bulb_glare.jpg,P051,bulb_glare,P051_bulb_glare_5,70,656,227,666,EXP 04/2027 B.No AZ7841,expiry_batch,colour
+P052_indoor.jpg,P052,indoor,P052_indoor_0,71,50,452,101,Minratinpan 500,drug_name,foil
+P052_indoor.jpg,P052,indoor,P052_indoor_1,44,199,148,230,500 mg,strength,foil
+P052_indoor.jpg,P052,indoor,P052_indoor_2,64,319,228,341,Take after food,dosage,foil
+P052_indoor.jpg,P052,indoor,P052_indoor_3,54,431,305,453,Keep out of reach of children,warning,foil
+P052_indoor.jpg,P052,indoor,P052_indoor_4,68,563,257,584,Mfd by Healwell Pharma Ltd,other,foil
+P052_indoor.jpg,P052,indoor,P052_indoor_5,96,677,283,693,EXP 01/2026 B.No KR7739,expiry_batch,foil
+P052_daylight.jpg,P052,daylight,P052_daylight_0,71,49,535,103,Minratinpan 500,drug_name,foil
+P052_daylight.jpg,P052,daylight,P052_daylight_1,44,199,134,229,500 mg,strength,foil
+P052_daylight.jpg,P052,daylight,P052_daylight_2,64,319,228,341,Take after food,dosage,foil
+P052_daylight.jpg,P052,daylight,P052_daylight_3,54,431,333,453,Keep out of reach of children,warning,foil
+P052_daylight.jpg,P052,daylight,P052_daylight_4,68,564,256,583,Mfd by Healwell Pharma Ltd,other,foil
+P052_daylight.jpg,P052,daylight,P052_daylight_5,96,677,318,694,EXP 01/2026 B.No KR7739,expiry_batch,foil
+P052_bulb_glare.jpg,P052,bulb_glare,P052_bulb_glare_0,71,49,535,103,Minratinpan 500,drug_name,foil
+P052_bulb_glare.jpg,P052,bulb_glare,P052_bulb_glare_1,44,199,134,229,500 mg,strength,foil
+P052_bulb_glare.jpg,P052,bulb_glare,P052_bulb_glare_2,65,319,211,340,Take after food,dosage,foil
+P052_bulb_glare.jpg,P052,bulb_glare,P052_bulb_glare_3,54,431,305,453,Keep out of reach of children,warning,foil
+P052_bulb_glare.jpg,P052,bulb_glare,P052_bulb_glare_4,68,564,278,583,Mfd by Healwell Pharma Ltd,other,foil
+P052_bulb_glare.jpg,P052,bulb_glare,P052_bulb_glare_5,96,676,295,695,EXP 01/2026 B.No KR7739,expiry_batch,foil
+P053_indoor.jpg,P053,indoor,P053_indoor_0,114,52,634,126,Panpapra Tablets,drug_name,colour
+P053_indoor.jpg,P053,indoor,P053_indoor_1,56,241,127,286,5 mg,strength,colour
+P053_indoor.jpg,P053,indoor,P053_indoor_2,88,349,220,379,Take after food,dosage,colour
+P053_indoor.jpg,P053,indoor,P053_indoor_3,68,435,183,463,Store below 25 C,warning,colour
+P053_indoor.jpg,P053,indoor,P053_indoor_4,54,561,187,587,Each tablet contains,other,colour
+P053_indoor.jpg,P053,indoor,P053_indoor_5,92,664,284,693,EXP 07/2028 B.No BR1697,expiry_batch,colour
+P053_daylight.jpg,P053,daylight,P053_daylight_0,114,51,728,127,Panpapra Tablets,drug_name,colour
+P053_daylight.jpg,P053,daylight,P053_daylight_1,56,241,135,285,5 mg,strength,colour
+P053_daylight.jpg,P053,daylight,P053_daylight_2,87,349,237,379,Take after food,dosage,colour
+P053_daylight.jpg,P053,daylight,P053_daylight_3,68,435,183,463,Store below 25 C,warning,colour
+P053_daylight.jpg,P053,daylight,P053_daylight_4,54,561,172,586,Each tablet contains,other,colour
+P053_daylight.jpg,P053,daylight,P053_daylight_5,92,664,284,693,EXP 07/2028 B.No BR1697,expiry_batch,colour
+P053_bulb_glare.jpg,P053,bulb_glare,P053_bulb_glare_0,114,51,728,127,Panpapra Tablets,drug_name,colour
+P053_bulb_glare.jpg,P053,bulb_glare,P053_bulb_glare_1,56,243,125,285,5 mg,strength,colour
+P053_bulb_glare.jpg,P053,bulb_glare,P053_bulb_glare_2,87,348,221,380,Take after food,dosage,colour
+P053_bulb_glare.jpg,P053,bulb_glare,P053_bulb_glare_3,68,435,183,463,Store below 25 C,warning,colour
+P053_bulb_glare.jpg,P053,bulb_glare,P053_bulb_glare_4,54,561,187,587,Each tablet contains,other,colour
+P053_bulb_glare.jpg,P053,bulb_glare,P053_bulb_glare_5,92,664,289,691,EXP 07/2028 B.No BR1697,expiry_batch,colour
+P054_indoor.jpg,P054,indoor,P054_indoor_0,106,51,675,121,Myimecefor 500,drug_name,foil
+P054_indoor.jpg,P054,indoor,P054_indoor_1,41,240,187,277,650 mg,strength,foil
+P054_indoor.jpg,P054,indoor,P054_indoor_2,93,392,223,406,Dosage: as directed,dosage,foil
+P054_indoor.jpg,P054,indoor,P054_indoor_3,117,480,206,491,Schedule H drug,warning,foil
+P054_indoor.jpg,P054,indoor,P054_indoor_4,99,572,299,583,MRP Rs 45.60 incl of all taxes,other,foil
+P054_indoor.jpg,P054,indoor,P054_indoor_5,80,669,326,684,EXP 01/2028 B.No HT4737,expiry_batch,foil
+P054_daylight.jpg,P054,daylight,P054_daylight_0,106,53,631,119,Myimecefor 500,drug_name,foil
+P054_daylight.jpg,P054,daylight,P054_daylight_1,41,240,187,277,650 mg,strength,foil
+P054_daylight.jpg,P054,daylight,P054_daylight_2,93,392,223,406,Dosage: as directed,dosage,foil
+P054_daylight.jpg,P054,daylight,P054_daylight_3,117,480,207,493,Schedule H drug,warning,foil
+P054_daylight.jpg,P054,daylight,P054_daylight_4,99,571,298,584,MRP Rs 45.60 incl of all taxes,other,foil
+P054_daylight.jpg,P054,daylight,P054_daylight_5,80,669,375,685,EXP 01/2028 B.No HT4737,expiry_batch,foil
+P054_bulb_glare.jpg,P054,bulb_glare,P054_bulb_glare_0,106,51,675,121,Myimecefor 500,drug_name,foil
+P054_bulb_glare.jpg,P054,bulb_glare,P054_bulb_glare_1,41,242,168,276,650 mg,strength,foil
+P054_bulb_glare.jpg,P054,bulb_glare,P054_bulb_glare_2,93,392,209,405,Dosage: as directed,dosage,foil
+P054_bulb_glare.jpg,P054,bulb_glare,P054_bulb_glare_3,117,480,206,491,Schedule H drug,warning,foil
+P054_bulb_glare.jpg,P054,bulb_glare,P054_bulb_glare_4,99,572,320,583,MRP Rs 45.60 incl of all taxes,other,foil
+P054_bulb_glare.jpg,P054,bulb_glare,P054_bulb_glare_5,80,669,375,685,EXP 01/2028 B.No HT4737,expiry_batch,foil
+P055_indoor.jpg,P055,indoor,P055_indoor_0,98,50,622,104,Levoampamet 500,drug_name,foil
+P055_indoor.jpg,P055,indoor,P055_indoor_1,36,197,141,225,40 mg,strength,foil
+P055_indoor.jpg,P055,indoor,P055_indoor_2,52,349,348,374,Take 1 tablet twice daily,dosage,foil
+P055_indoor.jpg,P055,indoor,P055_indoor_3,52,496,180,507,Store below 25 C,warning,foil
+P055_indoor.jpg,P055,indoor,P055_indoor_4,71,591,268,607,Each tablet contains,other,foil
+P055_indoor.jpg,P055,indoor,P055_indoor_5,56,715,175,723,EXP 12/2027 B.No KY7237,expiry_batch,foil
+P055_daylight.jpg,P055,daylight,P055_daylight_0,98,50,622,104,Levoampamet 500,drug_name,foil
+P055_daylight.jpg,P055,daylight,P055_daylight_1,36,197,141,225,40 mg,strength,foil
+P055_daylight.jpg,P055,daylight,P055_daylight_2,52,350,382,373,Take 1 tablet twice daily,dosage,foil
+P055_daylight.jpg,P055,daylight,P055_daylight_3,52,496,167,507,Store below 25 C,warning,foil
+P055_daylight.jpg,P055,daylight,P055_daylight_4,71,591,268,607,Each tablet contains,other,foil
+P055_daylight.jpg,P055,daylight,P055_daylight_5,56,715,175,723,EXP 12/2027 B.No KY7237,expiry_batch,foil
+P055_bulb_glare.jpg,P055,bulb_glare,P055_bulb_glare_0,98,50,680,104,Levoampamet 500,drug_name,foil
+P055_bulb_glare.jpg,P055,bulb_glare,P055_bulb_glare_1,36,197,141,225,40 mg,strength,foil
+P055_bulb_glare.jpg,P055,bulb_glare,P055_bulb_glare_2,52,350,324,372,Take 1 tablet twice daily,dosage,foil
+P055_bulb_glare.jpg,P055,bulb_glare,P055_bulb_glare_3,52,496,180,507,Store below 25 C,warning,foil
+P055_bulb_glare.jpg,P055,bulb_glare,P055_bulb_glare_4,71,591,268,607,Each tablet contains,other,foil
+P055_bulb_glare.jpg,P055,bulb_glare,P055_bulb_glare_5,56,715,167,722,EXP 12/2027 B.No KY7237,expiry_batch,foil
+P056_indoor.jpg,P056,indoor,P056_indoor_0,58,48,416,85,Metzoleprapan 500,drug_name,colour
+P056_indoor.jpg,P056,indoor,P056_indoor_1,71,209,180,238,250 mg,strength,colour
+P056_indoor.jpg,P056,indoor,P056_indoor_2,62,307,301,327,One tablet at bedtime,dosage,colour
+P056_indoor.jpg,P056,indoor,P056_indoor_3,106,442,285,455,Keep out of reach of children,warning,colour
+P056_indoor.jpg,P056,indoor,P056_indoor_4,101,558,234,567,MRP Rs 45.60 incl of all taxes,other,colour
+P056_indoor.jpg,P056,indoor,P056_indoor_5,62,630,259,644,EXP 06/2029 B.No ET6980,expiry_batch,colour
+P056_daylight.jpg,P056,daylight,P056_daylight_0,58,47,449,87,Metzoleprapan 500,drug_name,colour
+P056_daylight.jpg,P056,daylight,P056_daylight_1,71,211,171,237,250 mg,strength,colour
+P056_daylight.jpg,P056,daylight,P056_daylight_2,62,308,328,326,One tablet at bedtime,dosage,colour
+P056_daylight.jpg,P056,daylight,P056_daylight_3,106,441,288,455,Keep out of reach of children,warning,colour
+P056_daylight.jpg,P056,daylight,P056_daylight_4,101,558,248,566,MRP Rs 45.60 incl of all taxes,other,colour
+P056_daylight.jpg,P056,daylight,P056_daylight_5,62,631,281,643,EXP 06/2029 B.No ET6980,expiry_batch,colour
+P056_bulb_glare.jpg,P056,bulb_glare,P056_bulb_glare_0,58,47,449,87,Metzoleprapan 500,drug_name,colour
+P056_bulb_glare.jpg,P056,bulb_glare,P056_bulb_glare_1,71,210,193,237,250 mg,strength,colour
+P056_bulb_glare.jpg,P056,bulb_glare,P056_bulb_glare_2,62,307,301,327,One tablet at bedtime,dosage,colour
+P056_bulb_glare.jpg,P056,bulb_glare,P056_bulb_glare_3,106,441,288,455,Keep out of reach of children,warning,colour
+P056_bulb_glare.jpg,P056,bulb_glare,P056_bulb_glare_4,101,558,248,566,MRP Rs 45.60 incl of all taxes,other,colour
+P056_bulb_glare.jpg,P056,bulb_glare,P056_bulb_glare_5,62,631,281,643,EXP 06/2029 B.No ET6980,expiry_batch,colour
+P057_indoor.jpg,P057,indoor,P057_indoor_0,112,52,470,102,Prafloxixva,drug_name,foil
+P057_indoor.jpg,P057,indoor,P057_indoor_1,43,261,91,280,5 mg,strength,foil
+P057_indoor.jpg,P057,indoor,P057_indoor_2,61,346,327,364,One tablet at bedtime,dosage,foil
+P057_indoor.jpg,P057,indoor,P057_indoor_3,62,447,253,460,Protect from light and moisture,warning,foil
+P057_indoor.jpg,P057,indoor,P057_indoor_4,52,556,200,572,10 x 10 Tablets,other,foil
+P057_indoor.jpg,P057,indoor,P057_indoor_5,93,676,348,694,EXP 11/2028 B.No CM1725,expiry_batch,foil
+P057_daylight.jpg,P057,daylight,P057_daylight_0,112,52,470,102,Prafloxixva,drug_name,foil
+P057_daylight.jpg,P057,daylight,P057_daylight_1,43,261,91,280,5 mg,strength,foil
+P057_daylight.jpg,P057,daylight,P057_daylight_2,61,346,327,364,One tablet at bedtime,dosage,foil
+P057_daylight.jpg,P057,daylight,P057_daylight_3,62,446,281,460,Protect from light and moisture,warning,foil
+P057_daylight.jpg,P057,daylight,P057_daylight_4,52,556,219,573,10 x 10 Tablets,other,foil
+P057_daylight.jpg,P057,daylight,P057_daylight_5,93,677,352,692,EXP 11/2028 B.No CM1725,expiry_batch,foil
+P057_bulb_glare.jpg,P057,bulb_glare,P057_bulb_glare_0,112,52,533,104,Prafloxixva,drug_name,foil
+P057_bulb_glare.jpg,P057,bulb_glare,P057_bulb_glare_1,43,261,91,280,5 mg,strength,foil
+P057_bulb_glare.jpg,P057,bulb_glare,P057_bulb_glare_2,61,346,327,364,One tablet at bedtime,dosage,foil
+P057_bulb_glare.jpg,P057,bulb_glare,P057_bulb_glare_3,62,446,281,460,Protect from light and moisture,warning,foil
+P057_bulb_glare.jpg,P057,bulb_glare,P057_bulb_glare_4,52,556,200,572,10 x 10 Tablets,other,foil
+P057_bulb_glare.jpg,P057,bulb_glare,P057_bulb_glare_5,93,677,376,694,EXP 11/2028 B.No CM1725,expiry_batch,foil
+P058_indoor.jpg,P058,indoor,P058_indoor_0,32,53,361,113,Cemetraix,drug_name,colour
+P058_indoor.jpg,P058,indoor,P058_indoor_1,79,246,164,291,5 mg,strength,colour
+P058_indoor.jpg,P058,indoor,P058_indoor_2,99,341,197,361,Dosage: as directed,dosage,colour
+P058_indoor.jpg,P058,indoor,P058_indoor_3,107,433,459,468,Protect from light and moisture,warning,colour
+P058_indoor.jpg,P058,indoor,P058_indoor_4,111,569,300,594,Each tablet contains,other,colour
+P058_indoor.jpg,P058,indoor,P058_indoor_5,93,663,335,689,EXP 11/2026 B.No CM4996,expiry_batch,colour
+P058_daylight.jpg,P058,daylight,P058_daylight_0,32,52,385,115,Cemetraix,drug_name,colour
+P058_daylight.jpg,P058,daylight,P058_daylight_1,79,247,161,290,5 mg,strength,colour
+P058_daylight.jpg,P058,daylight,P058_daylight_2,99,341,209,362,Dosage: as directed,dosage,colour
+P058_daylight.jpg,P058,daylight,P058_daylight_3,107,433,448,466,Protect from light and moisture,warning,colour
+P058_daylight.jpg,P058,daylight,P058_daylight_4,111,568,326,594,Each tablet contains,other,colour
+P058_daylight.jpg,P058,daylight,P058_daylight_5,93,664,362,689,EXP 11/2026 B.No CM4996,expiry_batch,colour
+P058_bulb_glare.jpg,P058,bulb_glare,P058_bulb_glare_0,32,52,385,115,Cemetraix,drug_name,colour
+P058_bulb_glare.jpg,P058,bulb_glare,P058_bulb_glare_1,79,246,164,291,5 mg,strength,colour
+P058_bulb_glare.jpg,P058,bulb_glare,P058_bulb_glare_2,99,341,198,363,Dosage: as directed,dosage,colour
+P058_bulb_glare.jpg,P058,bulb_glare,P058_bulb_glare_3,107,433,498,467,Protect from light and moisture,warning,colour
+P058_bulb_glare.jpg,P058,bulb_glare,P058_bulb_glare_4,111,568,304,595,Each tablet contains,other,colour
+P058_bulb_glare.jpg,P058,bulb_glare,P058_bulb_glare_5,93,663,335,689,EXP 11/2026 B.No CM4996,expiry_batch,colour
+P059_indoor.jpg,P059,indoor,P059_indoor_0,77,46,350,73,Minminlevo 500,drug_name,colour
+P059_indoor.jpg,P059,indoor,P059_indoor_1,48,210,200,253,250 mg,strength,colour
+P059_indoor.jpg,P059,indoor,P059_indoor_2,109,363,319,379,One tablet at bedtime,dosage,colour
+P059_indoor.jpg,P059,indoor,P059_indoor_3,94,481,235,498,Schedule H drug,warning,colour
+P059_indoor.jpg,P059,indoor,P059_indoor_4,31,605,310,624,Mfd by Healwell Pharma Ltd,other,colour
+P059_indoor.jpg,P059,indoor,P059_indoor_5,32,722,302,739,EXP 11/2028 B.No BM3194,expiry_batch,colour
+P059_daylight.jpg,P059,daylight,P059_daylight_0,77,46,330,71,Minminlevo 500,drug_name,colour
+P059_daylight.jpg,P059,daylight,P059_daylight_1,48,212,195,251,250 mg,strength,colour
+P059_daylight.jpg,P059,daylight,P059_daylight_2,109,363,352,380,One tablet at bedtime,dosage,colour
+P059_daylight.jpg,P059,daylight,P059_daylight_3,94,481,221,498,Schedule H drug,warning,colour
+P059_daylight.jpg,P059,daylight,P059_daylight_4,31,604,365,624,Mfd by Healwell Pharma Ltd,other,colour
+P059_daylight.jpg,P059,daylight,P059_daylight_5,32,722,332,738,EXP 11/2028 B.No BM3194,expiry_batch,colour
+P059_bulb_glare.jpg,P059,bulb_glare,P059_bulb_glare_0,77,46,350,73,Minminlevo 500,drug_name,colour
+P059_bulb_glare.jpg,P059,bulb_glare,P059_bulb_glare_1,48,210,217,252,250 mg,strength,colour
+P059_bulb_glare.jpg,P059,bulb_glare,P059_bulb_glare_2,109,363,328,381,One tablet at bedtime,dosage,colour
+P059_bulb_glare.jpg,P059,bulb_glare,P059_bulb_glare_3,94,481,235,498,Schedule H drug,warning,colour
+P059_bulb_glare.jpg,P059,bulb_glare,P059_bulb_glare_4,31,604,331,625,Mfd by Healwell Pharma Ltd,other,colour
+P059_bulb_glare.jpg,P059,bulb_glare,P059_bulb_glare_5,32,722,332,738,EXP 11/2028 B.No BM3194,expiry_batch,colour
+P060_indoor.jpg,P060,indoor,P060_indoor_0,112,49,608,113,Zicestapa Tablets,drug_name,colour
+P060_indoor.jpg,P060,indoor,P060_indoor_1,97,195,235,247,20 mg,strength,colour
+P060_indoor.jpg,P060,indoor,P060_indoor_2,114,363,284,386,Take 1 tablet twice daily,dosage,colour
+P060_indoor.jpg,P060,indoor,P060_indoor_3,117,492,280,510,Do not exceed the stated dose,warning,colour
+P060_indoor.jpg,P060,indoor,P060_indoor_4,60,607,225,626,MRP Rs 45.60 incl of all taxes,other,colour
+P060_indoor.jpg,P060,indoor,P060_indoor_5,64,725,286,747,EXP 05/2027 B.No KZ3755,expiry_batch,colour
+P060_daylight.jpg,P060,daylight,P060_daylight_0,112,50,578,112,Zicestapa Tablets,drug_name,colour
+P060_daylight.jpg,P060,daylight,P060_daylight_1,97,197,224,245,20 mg,strength,colour
+P060_daylight.jpg,P060,daylight,P060_daylight_2,114,363,268,386,Take 1 tablet twice daily,dosage,colour
+P060_daylight.jpg,P060,daylight,P060_daylight_3,117,492,283,512,Do not exceed the stated dose,warning,colour
+P060_daylight.jpg,P060,daylight,P060_daylight_4,60,607,244,625,MRP Rs 45.60 incl of all taxes,other,colour
+P060_daylight.jpg,P060,daylight,P060_daylight_5,64,724,302,749,EXP 05/2027 B.No KZ3755,expiry_batch,colour
+P060_bulb_glare.jpg,P060,bulb_glare,P060_bulb_glare_0,112,49,664,113,Zicestapa Tablets,drug_name,colour
+P060_bulb_glare.jpg,P060,bulb_glare,P060_bulb_glare_1,97,195,251,247,20 mg,strength,colour
+P060_bulb_glare.jpg,P060,bulb_glare,P060_bulb_glare_2,114,363,268,386,Take 1 tablet twice daily,dosage,colour
+P060_bulb_glare.jpg,P060,bulb_glare,P060_bulb_glare_3,117,492,302,511,Do not exceed the stated dose,warning,colour
+P060_bulb_glare.jpg,P060,bulb_glare,P060_bulb_glare_4,60,607,214,624,MRP Rs 45.60 incl of all taxes,other,colour
+P060_bulb_glare.jpg,P060,bulb_glare,P060_bulb_glare_5,64,725,329,749,EXP 05/2027 B.No KZ3755,expiry_batch,colour
+P061_indoor.jpg,P061,indoor,P061_indoor_0,76,48,245,87,Imethroix,drug_name,foil
+P061_indoor.jpg,P061,indoor,P061_indoor_1,100,217,230,256,250 mg,strength,foil
+P061_indoor.jpg,P061,indoor,P061_indoor_2,71,311,170,332,Dosage: as directed,dosage,foil
+P061_indoor.jpg,P061,indoor,P061_indoor_3,113,416,204,436,Schedule H drug,warning,foil
+P061_indoor.jpg,P061,indoor,P061_indoor_4,37,474,144,496,Mkt by Arogya Labs,other,foil
+P061_indoor.jpg,P061,indoor,P061_indoor_5,114,558,377,583,EXP 09/2028 B.No KY6302,expiry_batch,foil
+P061_daylight.jpg,P061,daylight,P061_daylight_0,76,48,272,88,Imethroix,drug_name,foil
+P061_daylight.jpg,P061,daylight,P061_daylight_1,100,216,217,256,250 mg,strength,foil
+P061_daylight.jpg,P061,daylight,P061_daylight_2,71,311,169,330,Dosage: as directed,dosage,foil
+P061_daylight.jpg,P061,daylight,P061_daylight_3,113,416,195,437,Schedule H drug,warning,foil
+P061_daylight.jpg,P061,daylight,P061_daylight_4,37,474,142,494,Mkt by Arogya Labs,other,foil
+P061_daylight.jpg,P061,daylight,P061_daylight_5,114,558,377,583,EXP 09/2028 B.No KY6302,expiry_batch,foil
+P061_bulb_glare.jpg,P061,bulb_glare,P061_bulb_glare_0,76,47,252,89,Imethroix,drug_name,foil
+P061_bulb_glare.jpg,P061,bulb_glare,P061_bulb_glare_1,100,217,230,256,250 mg,strength,foil
+P061_bulb_glare.jpg,P061,bulb_glare,P061_bulb_glare_2,71,311,181,331,Dosage: as directed,dosage,foil
+P061_bulb_glare.jpg,P061,bulb_glare,P061_bulb_glare_3,113,416,195,437,Schedule H drug,warning,foil
+P061_bulb_glare.jpg,P061,bulb_glare,P061_bulb_glare_4,37,474,155,496,Mkt by Arogya Labs,other,foil
+P061_bulb_glare.jpg,P061,bulb_glare,P061_bulb_glare_5,114,558,377,583,EXP 09/2028 B.No KY6302,expiry_batch,foil
+P062_indoor.jpg,P062,indoor,P062_indoor_0,69,53,496,117,Stapalevocef,drug_name,colour
+P062_indoor.jpg,P062,indoor,P062_indoor_1,92,228,192,252,500 mg,strength,colour
+P062_indoor.jpg,P062,indoor,P062_indoor_2,91,338,223,353,Take after food,dosage,colour
+P062_indoor.jpg,P062,indoor,P062_indoor_3,114,469,325,486,Store below 25 C,warning,colour
+P062_indoor.jpg,P062,indoor,P062_indoor_4,115,601,176,608,10 x 10 Tablets,other,colour
+P062_indoor.jpg,P062,indoor,P062_indoor_5,66,694,214,702,EXP 11/2028 B.No BR7516,expiry_batch,colour
+P062_daylight.jpg,P062,daylight,P062_daylight_0,69,52,525,120,Stapalevocef,drug_name,colour
+P062_daylight.jpg,P062,daylight,P062_daylight_1,92,228,179,251,500 mg,strength,colour
+P062_daylight.jpg,P062,daylight,P062_daylight_2,90,338,240,353,Take after food,dosage,colour
+P062_daylight.jpg,P062,daylight,P062_daylight_3,114,469,291,485,Store below 25 C,warning,colour
+P062_daylight.jpg,P062,daylight,P062_daylight_4,115,601,176,609,10 x 10 Tablets,other,colour
+P062_daylight.jpg,P062,daylight,P062_daylight_5,66,693,199,702,EXP 11/2028 B.No BR7516,expiry_batch,colour
+P062_bulb_glare.jpg,P062,bulb_glare,P062_bulb_glare_0,69,52,525,120,Stapalevocef,drug_name,colour
+P062_bulb_glare.jpg,P062,bulb_glare,P062_bulb_glare_1,92,228,179,251,500 mg,strength,colour
+P062_bulb_glare.jpg,P062,bulb_glare,P062_bulb_glare_2,90,338,240,353,Take after food,dosage,colour
+P062_bulb_glare.jpg,P062,bulb_glare,P062_bulb_glare_3,114,469,325,486,Store below 25 C,warning,colour
+P062_bulb_glare.jpg,P062,bulb_glare,P062_bulb_glare_4,115,601,176,609,10 x 10 Tablets,other,colour
+P062_bulb_glare.jpg,P062,bulb_glare,P062_bulb_glare_5,66,694,190,701,EXP 11/2028 B.No BR7516,expiry_batch,colour
+P063_indoor.jpg,P063,indoor,P063_indoor_0,64,51,799,121,Panmetzolepra Tablets,drug_name,foil
+P063_indoor.jpg,P063,indoor,P063_indoor_1,40,225,106,253,40 mg,strength,foil
+P063_indoor.jpg,P063,indoor,P063_indoor_2,54,331,326,363,Take 1 tablet twice daily,dosage,foil
+P063_indoor.jpg,P063,indoor,P063_indoor_3,79,422,293,445,Keep out of reach of children,warning,foil
+P063_indoor.jpg,P063,indoor,P063_indoor_4,62,502,209,526,Each tablet contains,other,foil
+P063_indoor.jpg,P063,indoor,P063_indoor_5,62,590,231,610,EXP 12/2026 B.No AY8812,expiry_batch,foil
+P063_daylight.jpg,P063,daylight,P063_daylight_0,64,50,780,121,Panmetzolepra Tablets,drug_name,foil
+P063_daylight.jpg,P063,daylight,P063_daylight_1,40,224,100,254,40 mg,strength,foil
+P063_daylight.jpg,P063,daylight,P063_daylight_2,54,331,384,364,Take 1 tablet twice daily,dosage,foil
+P063_daylight.jpg,P063,daylight,P063_daylight_3,79,421,259,444,Keep out of reach of children,warning,foil
+P063_daylight.jpg,P063,daylight,P063_daylight_4,62,502,209,526,Each tablet contains,other,foil
+P063_daylight.jpg,P063,daylight,P063_daylight_5,62,589,228,612,EXP 12/2026 B.No AY8812,expiry_batch,foil
+P063_bulb_glare.jpg,P063,bulb_glare,P063_bulb_glare_0,64,52,735,120,Panmetzolepra Tablets,drug_name,foil
+P063_bulb_glare.jpg,P063,bulb_glare,P063_bulb_glare_1,40,224,100,254,40 mg,strength,foil
+P063_bulb_glare.jpg,P063,bulb_glare,P063_bulb_glare_2,54,331,384,364,Take 1 tablet twice daily,dosage,foil
+P063_bulb_glare.jpg,P063,bulb_glare,P063_bulb_glare_3,79,422,293,445,Keep out of reach of children,warning,foil
+P063_bulb_glare.jpg,P063,bulb_glare,P063_bulb_glare_4,62,503,226,525,Each tablet contains,other,foil
+P063_bulb_glare.jpg,P063,bulb_glare,P063_bulb_glare_5,62,590,231,610,EXP 12/2026 B.No AY8812,expiry_batch,foil
+P064_indoor.jpg,P064,indoor,P064_indoor_0,67,47,350,88,Molcefta 500,drug_name,foil
+P064_indoor.jpg,P064,indoor,P064_indoor_1,96,155,171,188,20 mg,strength,foil
+P064_indoor.jpg,P064,indoor,P064_indoor_2,61,241,195,265,Take after food,dosage,foil
+P064_indoor.jpg,P064,indoor,P064_indoor_3,60,324,165,341,Store below 25 C,warning,foil
+P064_indoor.jpg,P064,indoor,P064_indoor_4,116,386,368,409,MRP Rs 45.60 incl of all taxes,other,foil
+P064_indoor.jpg,P064,indoor,P064_indoor_5,119,508,218,521,EXP 06/2027 B.No DZ2380,expiry_batch,foil
+P064_daylight.jpg,P064,daylight,P064_daylight_0,67,47,350,88,Molcefta 500,drug_name,foil
+P064_daylight.jpg,P064,daylight,P064_daylight_1,96,156,179,187,20 mg,strength,foil
+P064_daylight.jpg,P064,daylight,P064_daylight_2,62,242,194,264,Take after food,dosage,foil
+P064_daylight.jpg,P064,daylight,P064_daylight_3,60,325,172,343,Store below 25 C,warning,foil
+P064_daylight.jpg,P064,daylight,P064_daylight_4,116,386,368,409,MRP Rs 45.60 incl of all taxes,other,foil
+P064_daylight.jpg,P064,daylight,P064_daylight_5,119,508,225,522,EXP 06/2027 B.No DZ2380,expiry_batch,foil
+P064_bulb_glare.jpg,P064,bulb_glare,P064_bulb_glare_0,67,47,350,88,Molcefta 500,drug_name,foil
+P064_bulb_glare.jpg,P064,bulb_glare,P064_bulb_glare_1,96,155,171,188,20 mg,strength,foil
+P064_bulb_glare.jpg,P064,bulb_glare,P064_bulb_glare_2,61,241,195,265,Take after food,dosage,foil
+P064_bulb_glare.jpg,P064,bulb_glare,P064_bulb_glare_3,60,324,165,341,Store below 25 C,warning,foil
+P064_bulb_glare.jpg,P064,bulb_glare,P064_bulb_glare_4,116,387,396,408,MRP Rs 45.60 incl of all taxes,other,foil
+P064_bulb_glare.jpg,P064,bulb_glare,P064_bulb_glare_5,119,508,218,521,EXP 06/2027 B.No DZ2380,expiry_batch,foil
+P065_indoor.jpg,P065,indoor,P065_indoor_0,30,48,233,93,Pacinthro,drug_name,foil
+P065_indoor.jpg,P065,indoor,P065_indoor_1,108,224,166,259,5 mg,strength,foil
+P065_indoor.jpg,P065,indoor,P065_indoor_2,86,368,178,391,Take after food,dosage,foil
+P065_indoor.jpg,P065,indoor,P065_indoor_3,43,464,412,495,Do not exceed the stated dose,warning,foil
+P065_indoor.jpg,P065,indoor,P065_indoor_4,102,576,315,604,Mfd by Healwell Pharma Ltd,other,foil
+P065_indoor.jpg,P065,indoor,P065_indoor_5,60,698,204,720,EXP 09/2028 B.No KT7939,expiry_batch,foil
+P065_daylight.jpg,P065,daylight,P065_daylight_0,30,48,268,94,Pacinthro,drug_name,foil
+P065_daylight.jpg,P065,daylight,P065_daylight_1,108,224,178,260,5 mg,strength,foil
+P065_daylight.jpg,P065,daylight,P065_daylight_2,86,368,178,391,Take after food,dosage,foil
+P065_daylight.jpg,P065,daylight,P065_daylight_3,43,464,412,495,Do not exceed the stated dose,warning,foil
+P065_daylight.jpg,P065,daylight,P065_daylight_4,102,576,356,604,Mfd by Healwell Pharma Ltd,other,foil
+P065_daylight.jpg,P065,daylight,P065_daylight_5,60,697,190,721,EXP 09/2028 B.No KT7939,expiry_batch,foil
+P065_bulb_glare.jpg,P065,bulb_glare,P065_bulb_glare_0,30,48,268,94,Pacinthro,drug_name,foil
+P065_bulb_glare.jpg,P065,bulb_glare,P065_bulb_glare_1,108,224,178,260,5 mg,strength,foil
+P065_bulb_glare.jpg,P065,bulb_glare,P065_bulb_glare_2,86,368,178,391,Take after food,dosage,foil
+P065_bulb_glare.jpg,P065,bulb_glare,P065_bulb_glare_3,43,464,369,494,Do not exceed the stated dose,warning,foil
+P065_bulb_glare.jpg,P065,bulb_glare,P065_bulb_glare_4,102,576,315,604,Mfd by Healwell Pharma Ltd,other,foil
+P065_bulb_glare.jpg,P065,bulb_glare,P065_bulb_glare_5,60,697,190,721,EXP 09/2028 B.No KT7939,expiry_batch,foil
+P066_indoor.jpg,P066,indoor,P066_indoor_0,55,54,493,128,Zipinemin SR,drug_name,foil
+P066_indoor.jpg,P066,indoor,P066_indoor_1,54,214,110,238,10 mg,strength,foil
+P066_indoor.jpg,P066,indoor,P066_indoor_2,89,324,231,345,Dosage: as directed,dosage,foil
+P066_indoor.jpg,P066,indoor,P066_indoor_3,111,415,360,435,Do not exceed the stated dose,warning,foil
+P066_indoor.jpg,P066,indoor,P066_indoor_4,119,498,277,519,Mkt by Arogya Labs,other,foil
+P066_indoor.jpg,P066,indoor,P066_indoor_5,101,620,367,642,EXP 03/2028 B.No BX6488,expiry_batch,foil
+P066_daylight.jpg,P066,daylight,P066_daylight_0,55,54,493,128,Zipinemin SR,drug_name,foil
+P066_daylight.jpg,P066,daylight,P066_daylight_1,54,214,110,238,10 mg,strength,foil
+P066_daylight.jpg,P066,daylight,P066_daylight_2,89,324,231,345,Dosage: as directed,dosage,foil
+P066_daylight.jpg,P066,daylight,P066_daylight_3,111,416,388,434,Do not exceed the stated dose,warning,foil
+P066_daylight.jpg,P066,daylight,P066_daylight_4,119,497,261,520,Mkt by Arogya Labs,other,foil
+P066_daylight.jpg,P066,daylight,P066_daylight_5,101,620,340,643,EXP 03/2028 B.No BX6488,expiry_batch,foil
+P066_bulb_glare.jpg,P066,bulb_glare,P066_bulb_glare_0,55,52,492,130,Zipinemin SR,drug_name,foil
+P066_bulb_glare.jpg,P066,bulb_glare,P066_bulb_glare_1,54,213,118,238,10 mg,strength,foil
+P066_bulb_glare.jpg,P066,bulb_glare,P066_bulb_glare_2,89,324,231,345,Dosage: as directed,dosage,foil
+P066_bulb_glare.jpg,P066,bulb_glare,P066_bulb_glare_3,111,415,360,435,Do not exceed the stated dose,warning,foil
+P066_bulb_glare.jpg,P066,bulb_glare,P066_bulb_glare_4,119,498,260,519,Mkt by Arogya Labs,other,foil
+P066_bulb_glare.jpg,P066,bulb_glare,P066_bulb_glare_5,101,620,367,642,EXP 03/2028 B.No BX6488,expiry_batch,foil
+P067_indoor.jpg,P067,indoor,P067_indoor_0,54,48,321,80,Imecestamin,drug_name,white
+P067_indoor.jpg,P067,indoor,P067_indoor_1,46,228,177,262,250 mg,strength,white
+P067_indoor.jpg,P067,indoor,P067_indoor_2,83,357,266,371,Take 1 tablet twice daily,dosage,white
+P067_indoor.jpg,P067,indoor,P067_indoor_3,30,455,171,465,Keep out of reach of children,warning,white
+P067_indoor.jpg,P067,indoor,P067_indoor_4,39,579,106,586,10 x 10 Tablets,other,white
+P067_indoor.jpg,P067,indoor,P067_indoor_5,115,637,354,654,EXP 03/2027 B.No KX7568,expiry_batch,white
+P067_daylight.jpg,P067,daylight,P067_daylight_0,54,47,339,82,Imecestamin,drug_name,white
+P067_daylight.jpg,P067,daylight,P067_daylight_1,46,226,205,263,250 mg,strength,white
+P067_daylight.jpg,P067,daylight,P067_daylight_2,83,356,247,372,Take 1 tablet twice daily,dosage,white
+P067_daylight.jpg,P067,daylight,P067_daylight_3,30,455,171,465,Keep out of reach of children,warning,white
+P067_daylight.jpg,P067,daylight,P067_daylight_4,39,578,115,586,10 x 10 Tablets,other,white
+P067_daylight.jpg,P067,daylight,P067_daylight_5,115,637,359,652,EXP 03/2027 B.No KX7568,expiry_batch,white
+P067_bulb_glare.jpg,P067,bulb_glare,P067_bulb_glare_0,54,48,371,81,Imecestamin,drug_name,white
+P067_bulb_glare.jpg,P067,bulb_glare,P067_bulb_glare_1,46,226,189,264,250 mg,strength,white
+P067_bulb_glare.jpg,P067,bulb_glare,P067_bulb_glare_2,83,356,247,372,Take 1 tablet twice daily,dosage,white
+P067_bulb_glare.jpg,P067,bulb_glare,P067_bulb_glare_3,30,455,173,467,Keep out of reach of children,warning,white
+P067_bulb_glare.jpg,P067,bulb_glare,P067_bulb_glare_4,39,578,115,586,10 x 10 Tablets,other,white
+P067_bulb_glare.jpg,P067,bulb_glare,P067_bulb_glare_5,115,637,359,652,EXP 03/2027 B.No KX7568,expiry_batch,white
+P068_indoor.jpg,P068,indoor,P068_indoor_0,89,54,699,138,Lopinera Tablets,drug_name,foil
+P068_indoor.jpg,P068,indoor,P068_indoor_1,96,252,189,289,500 mg,strength,foil
+P068_indoor.jpg,P068,indoor,P068_indoor_2,84,367,200,392,Dosage: as directed,dosage,foil
+P068_indoor.jpg,P068,indoor,P068_indoor_3,87,491,199,516,Schedule H drug,warning,foil
+P068_indoor.jpg,P068,indoor,P068_indoor_4,54,588,195,615,10 x 10 Tablets,other,foil
+P068_indoor.jpg,P068,indoor,P068_indoor_5,106,692,340,718,EXP 02/2026 B.No DR7767,expiry_batch,foil
+P068_daylight.jpg,P068,daylight,P068_daylight_0,89,54,699,138,Lopinera Tablets,drug_name,foil
+P068_daylight.jpg,P068,daylight,P068_daylight_1,96,252,189,289,500 mg,strength,foil
+P068_daylight.jpg,P068,daylight,P068_daylight_2,84,367,214,393,Dosage: as directed,dosage,foil
+P068_daylight.jpg,P068,daylight,P068_daylight_3,87,491,188,516,Schedule H drug,warning,foil
+P068_daylight.jpg,P068,daylight,P068_daylight_4,54,587,213,615,10 x 10 Tablets,other,foil
+P068_daylight.jpg,P068,daylight,P068_daylight_5,106,692,361,720,EXP 02/2026 B.No DR7767,expiry_batch,foil
+P068_bulb_glare.jpg,P068,bulb_glare,P068_bulb_glare_0,89,54,699,138,Lopinera Tablets,drug_name,foil
+P068_bulb_glare.jpg,P068,bulb_glare,P068_bulb_glare_1,96,250,193,289,500 mg,strength,foil
+P068_bulb_glare.jpg,P068,bulb_glare,P068_bulb_glare_2,84,367,214,393,Dosage: as directed,dosage,foil
+P068_bulb_glare.jpg,P068,bulb_glare,P068_bulb_glare_3,87,491,182,514,Schedule H drug,warning,foil
+P068_bulb_glare.jpg,P068,bulb_glare,P068_bulb_glare_4,54,587,213,615,10 x 10 Tablets,other,foil
+P068_bulb_glare.jpg,P068,bulb_glare,P068_bulb_glare_5,106,692,361,720,EXP 02/2026 B.No DR7767,expiry_batch,foil
+P069_indoor.jpg,P069,indoor,P069_indoor_0,77,50,508,93,Levotacezi SR,drug_name,colour
+P069_indoor.jpg,P069,indoor,P069_indoor_1,100,229,289,273,650 mg,strength,colour
+P069_indoor.jpg,P069,indoor,P069_indoor_2,109,388,399,418,1 tablet every 8 hours,dosage,colour
+P069_indoor.jpg,P069,indoor,P069_indoor_3,50,537,226,554,Store below 25 C,warning,colour
+P069_indoor.jpg,P069,indoor,P069_indoor_4,105,643,340,663,Mkt by Arogya Labs,other,colour
+P069_indoor.jpg,P069,indoor,P069_indoor_5,44,772,221,786,EXP 01/2027 B.No FY2494,expiry_batch,colour
+P069_daylight.jpg,P069,daylight,P069_daylight_0,77,50,465,93,Levotacezi SR,drug_name,colour
+P069_daylight.jpg,P069,daylight,P069_daylight_1,100,231,255,271,650 mg,strength,colour
+P069_daylight.jpg,P069,daylight,P069_daylight_2,109,390,388,417,1 tablet every 8 hours,dosage,colour
+P069_daylight.jpg,P069,daylight,P069_daylight_3,50,537,226,554,Store below 25 C,warning,colour
+P069_daylight.jpg,P069,daylight,P069_daylight_4,105,644,304,663,Mkt by Arogya Labs,other,colour
+P069_daylight.jpg,P069,daylight,P069_daylight_5,44,772,221,786,EXP 01/2027 B.No FY2494,expiry_batch,colour
+P069_bulb_glare.jpg,P069,bulb_glare,P069_bulb_glare_0,77,50,465,93,Levotacezi SR,drug_name,colour
+P069_bulb_glare.jpg,P069,bulb_glare,P069_bulb_glare_1,100,231,255,271,650 mg,strength,colour
+P069_bulb_glare.jpg,P069,bulb_glare,P069_bulb_glare_2,109,390,388,417,1 tablet every 8 hours,dosage,colour
+P069_bulb_glare.jpg,P069,bulb_glare,P069_bulb_glare_3,50,538,246,555,Store below 25 C,warning,colour
+P069_bulb_glare.jpg,P069,bulb_glare,P069_bulb_glare_4,105,644,304,663,Mkt by Arogya Labs,other,colour
+P069_bulb_glare.jpg,P069,bulb_glare,P069_bulb_glare_5,44,773,226,784,EXP 01/2027 B.No FY2494,expiry_batch,colour
+P070_indoor.jpg,P070,indoor,P070_indoor_0,83,52,621,107,Ziacinsta 500,drug_name,colour
+P070_indoor.jpg,P070,indoor,P070_indoor_1,114,238,211,263,650 mg,strength,colour
+P070_indoor.jpg,P070,indoor,P070_indoor_2,118,350,212,362,Take after food,dosage,colour
+P070_indoor.jpg,P070,indoor,P070_indoor_3,31,473,177,489,Store below 25 C,warning,colour
+P070_indoor.jpg,P070,indoor,P070_indoor_4,97,550,281,569,Mkt by Arogya Labs,other,colour
+P070_indoor.jpg,P070,indoor,P070_indoor_5,41,656,150,663,EXP 08/2026 B.No GM7990,expiry_batch,colour
+P070_daylight.jpg,P070,daylight,P070_daylight_0,83,52,621,107,Ziacinsta 500,drug_name,colour
+P070_daylight.jpg,P070,daylight,P070_daylight_1,114,236,220,264,650 mg,strength,colour
+P070_daylight.jpg,P070,daylight,P070_daylight_2,118,350,223,361,Take after food,dosage,colour
+P070_daylight.jpg,P070,daylight,P070_daylight_3,31,473,177,489,Store below 25 C,warning,colour
+P070_daylight.jpg,P070,daylight,P070_daylight_4,97,549,304,569,Mkt by Arogya Labs,other,colour
+P070_daylight.jpg,P070,daylight,P070_daylight_5,41,656,150,663,EXP 08/2026 B.No GM7990,expiry_batch,colour
+P070_bulb_glare.jpg,P070,bulb_glare,P070_bulb_glare_0,83,52,621,107,Ziacinsta 500,drug_name,colour
+P070_bulb_glare.jpg,P070,bulb_glare,P070_bulb_glare_1,114,237,231,263,650 mg,strength,colour
+P070_bulb_glare.jpg,P070,bulb_glare,P070_bulb_glare_2,118,350,223,361,Take after food,dosage,colour
+P070_bulb_glare.jpg,P070,bulb_glare,P070_bulb_glare_3,31,474,193,488,Store below 25 C,warning,colour
+P070_bulb_glare.jpg,P070,bulb_glare,P070_bulb_glare_4,97,549,304,569,Mkt by Arogya Labs,other,colour
+P070_bulb_glare.jpg,P070,bulb_glare,P070_bulb_glare_5,41,656,142,662,EXP 08/2026 B.No GM7990,expiry_batch,colour
+P071_indoor.jpg,P071,indoor,P071_indoor_0,111,50,530,109,Tinmypaflox SR,drug_name,foil
+P071_indoor.jpg,P071,indoor,P071_indoor_1,90,211,166,243,5 mg,strength,foil
+P071_indoor.jpg,P071,indoor,P071_indoor_2,30,356,113,365,Take after food,dosage,foil
+P071_indoor.jpg,P071,indoor,P071_indoor_3,64,463,256,483,Store below 25 C,warning,foil
+P071_indoor.jpg,P071,indoor,P071_indoor_4,40,598,224,615,Each tablet contains,other,foil
+P071_indoor.jpg,P071,indoor,P071_indoor_5,94,720,229,728,EXP 09/2028 B.No DY2640,expiry_batch,foil
+P071_daylight.jpg,P071,daylight,P071_daylight_0,111,50,530,109,Tinmypaflox SR,drug_name,foil
+P071_daylight.jpg,P071,daylight,P071_daylight_1,90,212,163,242,5 mg,strength,foil
+P071_daylight.jpg,P071,daylight,P071_daylight_2,30,356,113,365,Take after food,dosage,foil
+P071_daylight.jpg,P071,daylight,P071_daylight_3,64,463,256,483,Store below 25 C,warning,foil
+P071_daylight.jpg,P071,daylight,P071_daylight_4,40,599,244,614,Each tablet contains,other,foil
+P071_daylight.jpg,P071,daylight,P071_daylight_5,94,720,229,728,EXP 09/2028 B.No DY2640,expiry_batch,foil
+P071_bulb_glare.jpg,P071,bulb_glare,P071_bulb_glare_0,111,50,577,108,Tinmypaflox SR,drug_name,foil
+P071_bulb_glare.jpg,P071,bulb_glare,P071_bulb_glare_1,90,212,163,242,5 mg,strength,foil
+P071_bulb_glare.jpg,P071,bulb_glare,P071_bulb_glare_2,31,356,104,364,Take after food,dosage,foil
+P071_bulb_glare.jpg,P071,bulb_glare,P071_bulb_glare_3,64,463,256,481,Store below 25 C,warning,foil
+P071_bulb_glare.jpg,P071,bulb_glare,P071_bulb_glare_4,40,599,220,614,Each tablet contains,other,foil
+P071_bulb_glare.jpg,P071,bulb_glare,P071_bulb_glare_5,94,720,225,731,EXP 09/2028 B.No DY2640,expiry_batch,foil
+P072_indoor.jpg,P072,indoor,P072_indoor_0,92,46,362,96,Atorpinepa SR,drug_name,foil
+P072_indoor.jpg,P072,indoor,P072_indoor_1,40,162,190,215,250 mg,strength,foil
+P072_indoor.jpg,P072,indoor,P072_indoor_2,46,328,255,358,One tablet at bedtime,dosage,foil
+P072_indoor.jpg,P072,indoor,P072_indoor_3,83,444,369,479,Keep out of reach of children,warning,foil
+P072_indoor.jpg,P072,indoor,P072_indoor_4,47,575,231,600,Each tablet contains,other,foil
+P072_indoor.jpg,P072,indoor,P072_indoor_5,42,686,258,715,EXP 03/2028 B.No CZ1975,expiry_batch,foil
+P072_daylight.jpg,P072,daylight,P072_daylight_0,92,46,362,96,Atorpinepa SR,drug_name,foil
+P072_daylight.jpg,P072,daylight,P072_daylight_1,40,162,190,215,250 mg,strength,foil
+P072_daylight.jpg,P072,daylight,P072_daylight_2,46,328,255,358,One tablet at bedtime,dosage,foil
+P072_daylight.jpg,P072,daylight,P072_daylight_3,83,444,369,479,Keep out of reach of children,warning,foil
+P072_daylight.jpg,P072,daylight,P072_daylight_4,47,575,203,600,Each tablet contains,other,foil
+P072_daylight.jpg,P072,daylight,P072_daylight_5,42,687,282,715,EXP 03/2028 B.No CZ1975,expiry_batch,foil
+P072_bulb_glare.jpg,P072,bulb_glare,P072_bulb_glare_0,92,46,362,96,Atorpinepa SR,drug_name,foil
+P072_bulb_glare.jpg,P072,bulb_glare,P072_bulb_glare_1,40,160,195,217,250 mg,strength,foil
+P072_bulb_glare.jpg,P072,bulb_glare,P072_bulb_glare_2,46,328,255,358,One tablet at bedtime,dosage,foil
+P072_bulb_glare.jpg,P072,bulb_glare,P072_bulb_glare_3,83,444,401,479,Keep out of reach of children,warning,foil
+P072_bulb_glare.jpg,P072,bulb_glare,P072_bulb_glare_4,47,575,203,600,Each tablet contains,other,foil
+P072_bulb_glare.jpg,P072,bulb_glare,P072_bulb_glare_5,42,687,262,713,EXP 03/2028 B.No CZ1975,expiry_batch,foil
+P073_indoor.jpg,P073,indoor,P073_indoor_0,106,50,649,91,Levocefstara Tablets,drug_name,foil
+P073_indoor.jpg,P073,indoor,P073_indoor_1,109,176,216,202,250 mg,strength,foil
+P073_indoor.jpg,P073,indoor,P073_indoor_2,99,314,259,329,Dosage: as directed,dosage,foil
+P073_indoor.jpg,P073,indoor,P073_indoor_3,107,421,190,431,Schedule H drug,warning,foil
+P073_indoor.jpg,P073,indoor,P073_indoor_4,47,543,204,555,Mfd by Healwell Pharma Ltd,other,foil
+P073_indoor.jpg,P073,indoor,P073_indoor_5,104,662,247,673,EXP 10/2027 B.No BT3304,expiry_batch,foil
+P073_daylight.jpg,P073,daylight,P073_daylight_0,106,50,682,93,Levocefstara Tablets,drug_name,foil
+P073_daylight.jpg,P073,daylight,P073_daylight_1,109,177,202,202,250 mg,strength,foil
+P073_daylight.jpg,P073,daylight,P073_daylight_2,99,314,259,329,Dosage: as directed,dosage,foil
+P073_daylight.jpg,P073,daylight,P073_daylight_3,107,421,182,432,Schedule H drug,warning,foil
+P073_daylight.jpg,P073,daylight,P073_daylight_4,47,543,222,554,Mfd by Healwell Pharma Ltd,other,foil
+P073_daylight.jpg,P073,daylight,P073_daylight_5,104,662,247,673,EXP 10/2027 B.No BT3304,expiry_batch,foil
+P073_bulb_glare.jpg,P073,bulb_glare,P073_bulb_glare_0,106,50,649,91,Levocefstara Tablets,drug_name,foil
+P073_bulb_glare.jpg,P073,bulb_glare,P073_bulb_glare_1,109,177,202,202,250 mg,strength,foil
+P073_bulb_glare.jpg,P073,bulb_glare,P073_bulb_glare_2,99,314,259,329,Dosage: as directed,dosage,foil
+P073_bulb_glare.jpg,P073,bulb_glare,P073_bulb_glare_3,107,422,182,431,Schedule H drug,warning,foil
+P073_bulb_glare.jpg,P073,bulb_glare,P073_bulb_glare_4,47,543,193,553,Mfd by Healwell Pharma Ltd,other,foil
+P073_bulb_glare.jpg,P073,bulb_glare,P073_bulb_glare_5,104,662,263,672,EXP 10/2027 B.No BT3304,expiry_batch,foil
+P074_indoor.jpg,P074,indoor,P074_indoor_0,92,51,746,101,Cintacefor Tablets,drug_name,foil
+P074_indoor.jpg,P074,indoor,P074_indoor_1,60,236,127,255,40 mg,strength,foil
+P074_indoor.jpg,P074,indoor,P074_indoor_2,39,357,230,372,One tablet at bedtime,dosage,foil
+P074_indoor.jpg,P074,indoor,P074_indoor_3,108,482,421,504,Protect from light and moisture,warning,foil
+P074_indoor.jpg,P074,indoor,P074_indoor_4,113,596,319,607,MRP Rs 45.60 incl of all taxes,other,foil
+P074_indoor.jpg,P074,indoor,P074_indoor_5,31,668,180,677,EXP 12/2026 B.No KX6536,expiry_batch,foil
+P074_daylight.jpg,P074,daylight,P074_daylight_0,92,51,679,101,Cintacefor Tablets,drug_name,foil
+P074_daylight.jpg,P074,daylight,P074_daylight_1,60,237,118,255,40 mg,strength,foil
+P074_daylight.jpg,P074,daylight,P074_daylight_2,39,357,260,372,One tablet at bedtime,dosage,foil
+P074_daylight.jpg,P074,daylight,P074_daylight_3,108,482,432,505,Protect from light and moisture,warning,foil
+P074_daylight.jpg,P074,daylight,P074_daylight_4,113,596,298,608,MRP Rs 45.60 incl of all taxes,other,foil
+P074_daylight.jpg,P074,daylight,P074_daylight_5,31,669,208,679,EXP 12/2026 B.No KX6536,expiry_batch,foil
+P074_bulb_glare.jpg,P074,bulb_glare,P074_bulb_glare_0,92,51,679,101,Cintacefor Tablets,drug_name,foil
+P074_bulb_glare.jpg,P074,bulb_glare,P074_bulb_glare_1,60,237,118,255,40 mg,strength,foil
+P074_bulb_glare.jpg,P074,bulb_glare,P074_bulb_glare_2,39,357,230,372,One tablet at bedtime,dosage,foil
+P074_bulb_glare.jpg,P074,bulb_glare,P074_bulb_glare_3,108,482,421,504,Protect from light and moisture,warning,foil
+P074_bulb_glare.jpg,P074,bulb_glare,P074_bulb_glare_4,113,597,299,607,MRP Rs 45.60 incl of all taxes,other,foil
+P074_bulb_glare.jpg,P074,bulb_glare,P074_bulb_glare_5,31,668,180,677,EXP 12/2026 B.No KX6536,expiry_batch,foil
+P075_indoor.jpg,P075,indoor,P075_indoor_0,117,49,492,86,Pinelevota SR,drug_name,white
+P075_indoor.jpg,P075,indoor,P075_indoor_1,33,172,120,195,650 mg,strength,white
+P075_indoor.jpg,P075,indoor,P075_indoor_2,42,306,233,326,Take after food,dosage,white
+P075_indoor.jpg,P075,indoor,P075_indoor_3,117,402,242,410,Do not exceed the stated dose,warning,white
+P075_indoor.jpg,P075,indoor,P075_indoor_4,109,459,222,468,Each tablet contains,other,white
+P075_indoor.jpg,P075,indoor,P075_indoor_5,43,582,269,599,EXP 08/2029 B.No EX9914,expiry_batch,white
+P075_daylight.jpg,P075,daylight,P075_daylight_0,117,49,492,86,Pinelevota SR,drug_name,white
+P075_daylight.jpg,P075,daylight,P075_daylight_1,33,172,133,196,650 mg,strength,white
+P075_daylight.jpg,P075,daylight,P075_daylight_2,42,306,255,325,Take after food,dosage,white
+P075_daylight.jpg,P075,daylight,P075_daylight_3,117,402,239,409,Do not exceed the stated dose,warning,white
+P075_daylight.jpg,P075,daylight,P075_daylight_4,109,459,222,468,Each tablet contains,other,white
+P075_daylight.jpg,P075,daylight,P075_daylight_5,43,583,295,599,EXP 08/2029 B.No EX9914,expiry_batch,white
+P075_bulb_glare.jpg,P075,bulb_glare,P075_bulb_glare_0,117,49,437,84,Pinelevota SR,drug_name,white
+P075_bulb_glare.jpg,P075,bulb_glare,P075_bulb_glare_1,33,172,133,196,650 mg,strength,white
+P075_bulb_glare.jpg,P075,bulb_glare,P075_bulb_glare_2,42,306,255,325,Take after food,dosage,white
+P075_bulb_glare.jpg,P075,bulb_glare,P075_bulb_glare_3,117,402,239,409,Do not exceed the stated dose,warning,white
+P075_bulb_glare.jpg,P075,bulb_glare,P075_bulb_glare_4,109,459,210,469,Each tablet contains,other,white
+P075_bulb_glare.jpg,P075,bulb_glare,P075_bulb_glare_5,43,582,269,599,EXP 08/2029 B.No EX9914,expiry_batch,white
+P076_indoor.jpg,P076,indoor,P076_indoor_0,72,47,337,87,Cefdizi Tablets,drug_name,foil
+P076_indoor.jpg,P076,indoor,P076_indoor_1,47,206,174,256,10 mg,strength,foil
+P076_indoor.jpg,P076,indoor,P076_indoor_2,41,381,295,406,One tablet at bedtime,dosage,foil
+P076_indoor.jpg,P076,indoor,P076_indoor_3,85,493,214,512,Store below 25 C,warning,foil
+P076_indoor.jpg,P076,indoor,P076_indoor_4,40,616,242,641,Each tablet contains,other,foil
+P076_indoor.jpg,P076,indoor,P076_indoor_5,87,723,199,737,EXP 03/2026 B.No GX8133,expiry_batch,foil
+P076_daylight.jpg,P076,daylight,P076_daylight_0,72,48,367,86,Cefdizi Tablets,drug_name,foil
+P076_daylight.jpg,P076,daylight,P076_daylight_1,47,206,174,256,10 mg,strength,foil
+P076_daylight.jpg,P076,daylight,P076_daylight_2,41,381,321,408,One tablet at bedtime,dosage,foil
+P076_daylight.jpg,P076,daylight,P076_daylight_3,85,492,223,513,Store below 25 C,warning,foil
+P076_daylight.jpg,P076,daylight,P076_daylight_4,40,616,265,640,Each tablet contains,other,foil
+P076_daylight.jpg,P076,daylight,P076_daylight_5,87,723,207,738,EXP 03/2026 B.No GX8133,expiry_batch,foil
+P076_bulb_glare.jpg,P076,bulb_glare,P076_bulb_glare_0,72,47,337,87,Cefdizi Tablets,drug_name,foil
+P076_bulb_glare.jpg,P076,bulb_glare,P076_bulb_glare_1,47,206,188,255,10 mg,strength,foil
+P076_bulb_glare.jpg,P076,bulb_glare,P076_bulb_glare_2,41,381,352,407,One tablet at bedtime,dosage,foil
+P076_bulb_glare.jpg,P076,bulb_glare,P076_bulb_glare_3,85,493,238,512,Store below 25 C,warning,foil
+P076_bulb_glare.jpg,P076,bulb_glare,P076_bulb_glare_4,40,616,265,640,Each tablet contains,other,foil
+P076_bulb_glare.jpg,P076,bulb_glare,P076_bulb_glare_5,87,723,199,737,EXP 03/2026 B.No GX8133,expiry_batch,foil
+P077_indoor.jpg,P077,indoor,P077_indoor_0,115,54,767,114,Ammoltintin 500,drug_name,foil
+P077_indoor.jpg,P077,indoor,P077_indoor_1,78,250,149,279,5 mg,strength,foil
+P077_indoor.jpg,P077,indoor,P077_indoor_2,35,387,185,402,Take after food,dosage,foil
+P077_indoor.jpg,P077,indoor,P077_indoor_3,83,461,262,485,Schedule H drug,warning,foil
+P077_indoor.jpg,P077,indoor,P077_indoor_4,59,596,177,609,Mkt by Arogya Labs,other,foil
+P077_indoor.jpg,P077,indoor,P077_indoor_5,34,684,167,695,EXP 06/2027 B.No AM8785,expiry_batch,foil
+P077_daylight.jpg,P077,daylight,P077_daylight_0,115,54,767,114,Ammoltintin 500,drug_name,foil
+P077_daylight.jpg,P077,daylight,P077_daylight_1,78,250,149,279,5 mg,strength,foil
+P077_daylight.jpg,P077,daylight,P077_daylight_2,35,386,169,403,Take after food,dosage,foil
+P077_daylight.jpg,P077,daylight,P077_daylight_3,83,462,262,484,Schedule H drug,warning,foil
+P077_daylight.jpg,P077,daylight,P077_daylight_4,59,596,164,607,Mkt by Arogya Labs,other,foil
+P077_daylight.jpg,P077,daylight,P077_daylight_5,34,685,182,694,EXP 06/2027 B.No AM8785,expiry_batch,foil
+P077_bulb_glare.jpg,P077,bulb_glare,P077_bulb_glare_0,115,53,701,115,Ammoltintin 500,drug_name,foil
+P077_bulb_glare.jpg,P077,bulb_glare,P077_bulb_glare_1,78,249,152,280,5 mg,strength,foil
+P077_bulb_glare.jpg,P077,bulb_glare,P077_bulb_glare_2,35,387,185,402,Take after food,dosage,foil
+P077_bulb_glare.jpg,P077,bulb_glare,P077_bulb_glare_3,83,462,262,484,Schedule H drug,warning,foil
+P077_bulb_glare.jpg,P077,bulb_glare,P077_bulb_glare_4,59,596,166,609,Mkt by Arogya Labs,other,foil
+P077_bulb_glare.jpg,P077,bulb_glare,P077_bulb_glare_5,34,684,167,695,EXP 06/2027 B.No AM8785,expiry_batch,foil
+P078_indoor.jpg,P078,indoor,P078_indoor_0,96,54,765,106,Throfloxime Tablets,drug_name,foil
+P078_indoor.jpg,P078,indoor,P078_indoor_1,116,233,259,272,650 mg,strength,foil
+P078_indoor.jpg,P078,indoor,P078_indoor_2,112,346,341,367,Take 1 tablet twice daily,dosage,foil
+P078_indoor.jpg,P078,indoor,P078_indoor_3,91,484,267,501,Store below 25 C,warning,foil
+P078_indoor.jpg,P078,indoor,P078_indoor_4,118,582,198,591,Mkt by Arogya Labs,other,foil
+P078_indoor.jpg,P078,indoor,P078_indoor_5,101,705,312,717,EXP 04/2026 B.No HX6904,expiry_batch,foil
+P078_daylight.jpg,P078,daylight,P078_daylight_0,96,52,799,107,Throfloxime Tablets,drug_name,foil
+P078_daylight.jpg,P078,daylight,P078_daylight_1,116,232,264,273,650 mg,strength,foil
+P078_daylight.jpg,P078,daylight,P078_daylight_2,112,346,367,366,Take 1 tablet twice daily,dosage,foil
+P078_daylight.jpg,P078,daylight,P078_daylight_3,91,484,267,503,Store below 25 C,warning,foil
+P078_daylight.jpg,P078,daylight,P078_daylight_4,118,582,198,591,Mkt by Arogya Labs,other,foil
+P078_daylight.jpg,P078,daylight,P078_daylight_5,101,705,353,719,EXP 04/2026 B.No HX6904,expiry_batch,foil
+P078_bulb_glare.jpg,P078,bulb_glare,P078_bulb_glare_0,96,54,765,106,Throfloxime Tablets,drug_name,foil
+P078_bulb_glare.jpg,P078,bulb_glare,P078_bulb_glare_1,116,232,281,273,650 mg,strength,foil
+P078_bulb_glare.jpg,P078,bulb_glare,P078_bulb_glare_2,113,347,335,366,Take 1 tablet twice daily,dosage,foil
+P078_bulb_glare.jpg,P078,bulb_glare,P078_bulb_glare_3,91,484,267,503,Store below 25 C,warning,foil
+P078_bulb_glare.jpg,P078,bulb_glare,P078_bulb_glare_4,118,582,198,591,Mkt by Arogya Labs,other,foil
+P078_bulb_glare.jpg,P078,bulb_glare,P078_bulb_glare_5,101,705,353,719,EXP 04/2026 B.No HX6904,expiry_batch,foil
+P079_indoor.jpg,P079,indoor,P079_indoor_0,118,52,476,103,Cintinix SR,drug_name,foil
+P079_indoor.jpg,P079,indoor,P079_indoor_1,31,197,190,234,500 mg,strength,foil
+P079_indoor.jpg,P079,indoor,P079_indoor_2,106,359,214,372,Dosage: as directed,dosage,foil
+P079_indoor.jpg,P079,indoor,P079_indoor_3,32,450,162,464,Store below 25 C,warning,foil
+P079_indoor.jpg,P079,indoor,P079_indoor_4,111,560,195,569,10 x 10 Tablets,other,foil
+P079_indoor.jpg,P079,indoor,P079_indoor_5,65,676,283,689,EXP 07/2029 B.No FT5128,expiry_batch,foil
+P079_daylight.jpg,P079,daylight,P079_daylight_0,118,52,444,101,Cintinix SR,drug_name,foil
+P079_daylight.jpg,P079,daylight,P079_daylight_1,31,197,190,234,500 mg,strength,foil
+P079_daylight.jpg,P079,daylight,P079_daylight_2,106,359,213,370,Dosage: as directed,dosage,foil
+P079_daylight.jpg,P079,daylight,P079_daylight_3,32,451,162,463,Store below 25 C,warning,foil
+P079_daylight.jpg,P079,daylight,P079_daylight_4,111,560,186,570,10 x 10 Tablets,other,foil
+P079_daylight.jpg,P079,daylight,P079_daylight_5,65,676,301,691,EXP 07/2029 B.No FT5128,expiry_batch,foil
+P079_bulb_glare.jpg,P079,bulb_glare,P079_bulb_glare_0,118,51,440,103,Cintinix SR,drug_name,foil
+P079_bulb_glare.jpg,P079,bulb_glare,P079_bulb_glare_1,31,197,174,235,500 mg,strength,foil
+P079_bulb_glare.jpg,P079,bulb_glare,P079_bulb_glare_2,106,359,214,372,Dosage: as directed,dosage,foil
+P079_bulb_glare.jpg,P079,bulb_glare,P079_bulb_glare_3,32,451,162,463,Store below 25 C,warning,foil
+P079_bulb_glare.jpg,P079,bulb_glare,P079_bulb_glare_4,111,560,186,570,10 x 10 Tablets,other,foil
+P079_bulb_glare.jpg,P079,bulb_glare,P079_bulb_glare_5,65,676,283,689,EXP 07/2029 B.No FT5128,expiry_batch,foil
+P080_indoor.jpg,P080,indoor,P080_indoor_0,76,50,569,109,Cinacinloam 500,drug_name,colour
+P080_indoor.jpg,P080,indoor,P080_indoor_1,92,232,169,264,500 mg,strength,colour
+P080_indoor.jpg,P080,indoor,P080_indoor_2,40,319,356,357,Take 1 tablet twice daily,dosage,colour
+P080_indoor.jpg,P080,indoor,P080_indoor_3,94,414,485,451,Protect from light and moisture,warning,colour
+P080_indoor.jpg,P080,indoor,P080_indoor_4,83,501,242,530,10 x 10 Tablets,other,colour
+P080_indoor.jpg,P080,indoor,P080_indoor_5,119,641,251,665,EXP 10/2027 B.No FM4643,expiry_batch,colour
+P080_daylight.jpg,P080,daylight,P080_daylight_0,76,50,569,109,Cinacinloam 500,drug_name,colour
+P080_daylight.jpg,P080,daylight,P080_daylight_1,92,232,169,264,500 mg,strength,colour
+P080_daylight.jpg,P080,daylight,P080_daylight_2,41,319,316,356,Take 1 tablet twice daily,dosage,colour
+P080_daylight.jpg,P080,daylight,P080_daylight_3,94,414,485,451,Protect from light and moisture,warning,colour
+P080_daylight.jpg,P080,daylight,P080_daylight_4,83,502,224,530,10 x 10 Tablets,other,colour
+P080_daylight.jpg,P080,daylight,P080_daylight_5,119,641,251,665,EXP 10/2027 B.No FM4643,expiry_batch,colour
+P080_bulb_glare.jpg,P080,bulb_glare,P080_bulb_glare_0,76,50,624,109,Cinacinloam 500,drug_name,colour
+P080_bulb_glare.jpg,P080,bulb_glare,P080_bulb_glare_1,92,232,161,265,500 mg,strength,colour
+P080_bulb_glare.jpg,P080,bulb_glare,P080_bulb_glare_2,40,319,324,358,Take 1 tablet twice daily,dosage,colour
+P080_bulb_glare.jpg,P080,bulb_glare,P080_bulb_glare_3,94,414,435,450,Protect from light and moisture,warning,colour
+P080_bulb_glare.jpg,P080,bulb_glare,P080_bulb_glare_4,83,501,242,530,10 x 10 Tablets,other,colour
+P080_bulb_glare.jpg,P080,bulb_glare,P080_bulb_glare_5,119,641,255,662,EXP 10/2027 B.No FM4643,expiry_batch,colour
+P081_indoor.jpg,P081,indoor,P081_indoor_0,57,47,375,74,Atormetlora Tablets,drug_name,foil
+P081_indoor.jpg,P081,indoor,P081_indoor_1,72,144,136,164,10 mg,strength,foil
+P081_indoor.jpg,P081,indoor,P081_indoor_2,46,237,225,252,One tablet at bedtime,dosage,foil
+P081_indoor.jpg,P081,indoor,P081_indoor_3,71,318,209,331,Store below 25 C,warning,foil
+P081_indoor.jpg,P081,indoor,P081_indoor_4,56,398,333,420,Mfd by Healwell Pharma Ltd,other,foil
+P081_indoor.jpg,P081,indoor,P081_indoor_5,33,491,272,506,EXP 06/2029 B.No HY6183,expiry_batch,foil
+P081_daylight.jpg,P081,daylight,P081_daylight_0,57,47,375,74,Atormetlora Tablets,drug_name,foil
+P081_daylight.jpg,P081,daylight,P081_daylight_1,72,143,141,165,10 mg,strength,foil
+P081_daylight.jpg,P081,daylight,P081_daylight_2,46,237,225,252,One tablet at bedtime,dosage,foil
+P081_daylight.jpg,P081,daylight,P081_daylight_3,71,318,209,331,Store below 25 C,warning,foil
+P081_daylight.jpg,P081,daylight,P081_daylight_4,56,398,331,419,Mfd by Healwell Pharma Ltd,other,foil
+P081_daylight.jpg,P081,daylight,P081_daylight_5,33,490,248,506,EXP 06/2029 B.No HY6183,expiry_batch,foil
+P081_bulb_glare.jpg,P081,bulb_glare,P081_bulb_glare_0,57,47,375,74,Atormetlora Tablets,drug_name,foil
+P081_bulb_glare.jpg,P081,bulb_glare,P081_bulb_glare_1,72,144,149,165,10 mg,strength,foil
+P081_bulb_glare.jpg,P081,bulb_glare,P081_bulb_glare_2,46,237,225,252,One tablet at bedtime,dosage,foil
+P081_bulb_glare.jpg,P081,bulb_glare,P081_bulb_glare_3,71,318,209,331,Store below 25 C,warning,foil
+P081_bulb_glare.jpg,P081,bulb_glare,P081_bulb_glare_4,56,398,331,419,Mfd by Healwell Pharma Ltd,other,foil
+P081_bulb_glare.jpg,P081,bulb_glare,P081_bulb_glare_5,33,490,248,506,EXP 06/2029 B.No HY6183,expiry_batch,foil
+P082_indoor.jpg,P082,indoor,P082_indoor_0,102,49,460,83,Moltaamator SR,drug_name,white
+P082_indoor.jpg,P082,indoor,P082_indoor_1,71,217,173,247,10 mg,strength,white
+P082_indoor.jpg,P082,indoor,P082_indoor_2,79,352,464,379,Take 1 tablet twice daily,dosage,white
+P082_indoor.jpg,P082,indoor,P082_indoor_3,108,471,511,496,Protect from light and moisture,warning,white
+P082_indoor.jpg,P082,indoor,P082_indoor_4,55,604,322,616,MRP Rs 45.60 incl of all taxes,other,white
+P082_indoor.jpg,P082,indoor,P082_indoor_5,51,677,181,688,EXP 01/2028 B.No ET9524,expiry_batch,white
+P082_daylight.jpg,P082,daylight,P082_daylight_0,102,49,460,83,Moltaamator SR,drug_name,white
+P082_daylight.jpg,P082,daylight,P082_daylight_1,71,216,163,247,10 mg,strength,white
+P082_daylight.jpg,P082,daylight,P082_daylight_2,79,353,396,379,Take 1 tablet twice daily,dosage,white
+P082_daylight.jpg,P082,daylight,P082_daylight_3,108,471,556,495,Protect from light and moisture,warning,white
+P082_daylight.jpg,P082,daylight,P082_daylight_4,55,604,279,616,MRP Rs 45.60 incl of all taxes,other,white
+P082_daylight.jpg,P082,daylight,P082_daylight_5,51,677,181,688,EXP 01/2028 B.No ET9524,expiry_batch,white
+P082_bulb_glare.jpg,P082,bulb_glare,P082_bulb_glare_0,102,49,460,83,Moltaamator SR,drug_name,white
+P082_bulb_glare.jpg,P082,bulb_glare,P082_bulb_glare_1,71,217,160,246,10 mg,strength,white
+P082_bulb_glare.jpg,P082,bulb_glare,P082_bulb_glare_2,79,352,464,379,Take 1 tablet twice daily,dosage,white
+P082_bulb_glare.jpg,P082,bulb_glare,P082_bulb_glare_3,108,471,480,494,Protect from light and moisture,warning,white
+P082_bulb_glare.jpg,P082,bulb_glare,P082_bulb_glare_4,55,603,295,617,MRP Rs 45.60 incl of all taxes,other,white
+P082_bulb_glare.jpg,P082,bulb_glare,P082_bulb_glare_5,51,678,196,687,EXP 01/2028 B.No ET9524,expiry_batch,white
+P083_indoor.jpg,P083,indoor,P083_indoor_0,84,54,720,138,Vacinpine Tablets,drug_name,colour
+P083_indoor.jpg,P083,indoor,P083_indoor_1,83,212,146,247,10 mg,strength,colour
+P083_indoor.jpg,P083,indoor,P083_indoor_2,75,317,248,345,Take 1 tablet twice daily,dosage,colour
+P083_indoor.jpg,P083,indoor,P083_indoor_3,31,389,114,412,Schedule H drug,warning,colour
+P083_indoor.jpg,P083,indoor,P083_indoor_4,47,474,273,499,MRP Rs 45.60 incl of all taxes,other,colour
+P083_indoor.jpg,P083,indoor,P083_indoor_5,44,600,296,628,EXP 05/2029 B.No BM9524,expiry_batch,colour
+P083_daylight.jpg,P083,daylight,P083_daylight_0,84,54,720,138,Vacinpine Tablets,drug_name,colour
+P083_daylight.jpg,P083,daylight,P083_daylight_1,83,212,146,247,10 mg,strength,colour
+P083_daylight.jpg,P083,daylight,P083_daylight_2,75,318,234,344,Take 1 tablet twice daily,dosage,colour
+P083_daylight.jpg,P083,daylight,P083_daylight_3,31,390,106,412,Schedule H drug,warning,colour
+P083_daylight.jpg,P083,daylight,P083_daylight_4,47,473,272,500,MRP Rs 45.60 incl of all taxes,other,colour
+P083_daylight.jpg,P083,daylight,P083_daylight_5,44,600,344,629,EXP 05/2029 B.No BM9524,expiry_batch,colour
+P083_bulb_glare.jpg,P083,bulb_glare,P083_bulb_glare_0,84,53,758,140,Vacinpine Tablets,drug_name,colour
+P083_bulb_glare.jpg,P083,bulb_glare,P083_bulb_glare_1,83,213,144,246,10 mg,strength,colour
+P083_bulb_glare.jpg,P083,bulb_glare,P083_bulb_glare_2,75,318,234,344,Take 1 tablet twice daily,dosage,colour
+P083_bulb_glare.jpg,P083,bulb_glare,P083_bulb_glare_3,31,389,106,413,Schedule H drug,warning,colour
+P083_bulb_glare.jpg,P083,bulb_glare,P083_bulb_glare_4,47,474,273,499,MRP Rs 45.60 incl of all taxes,other,colour
+P083_bulb_glare.jpg,P083,bulb_glare,P083_bulb_glare_5,44,600,344,629,EXP 05/2029 B.No BM9524,expiry_batch,colour
+P084_indoor.jpg,P084,indoor,P084_indoor_0,118,50,585,113,Panmydimet SR,drug_name,foil
+P084_indoor.jpg,P084,indoor,P084_indoor_1,91,217,189,254,40 mg,strength,foil
+P084_indoor.jpg,P084,indoor,P084_indoor_2,31,316,152,334,Take 1 tablet twice daily,dosage,foil
+P084_indoor.jpg,P084,indoor,P084_indoor_3,89,380,206,401,Schedule H drug,warning,foil
+P084_indoor.jpg,P084,indoor,P084_indoor_4,45,492,189,512,10 x 10 Tablets,other,foil
+P084_indoor.jpg,P084,indoor,P084_indoor_5,46,606,250,627,EXP 02/2027 B.No AZ6901,expiry_batch,foil
+P084_daylight.jpg,P084,daylight,P084_daylight_0,118,51,544,112,Panmydimet SR,drug_name,foil
+P084_daylight.jpg,P084,daylight,P084_daylight_1,91,220,181,253,40 mg,strength,foil
+P084_daylight.jpg,P084,daylight,P084_daylight_2,32,316,149,332,Take 1 tablet twice daily,dosage,foil
+P084_daylight.jpg,P084,daylight,P084_daylight_3,89,380,220,400,Schedule H drug,warning,foil
+P084_daylight.jpg,P084,daylight,P084_daylight_4,45,491,174,513,10 x 10 Tablets,other,foil
+P084_daylight.jpg,P084,daylight,P084_daylight_5,46,607,252,625,EXP 02/2027 B.No AZ6901,expiry_batch,foil
+P084_bulb_glare.jpg,P084,bulb_glare,P084_bulb_glare_0,118,51,544,112,Panmydimet SR,drug_name,foil
+P084_bulb_glare.jpg,P084,bulb_glare,P084_bulb_glare_1,91,220,181,253,40 mg,strength,foil
+P084_bulb_glare.jpg,P084,bulb_glare,P084_bulb_glare_2,31,316,166,333,Take 1 tablet twice daily,dosage,foil
+P084_bulb_glare.jpg,P084,bulb_glare,P084_bulb_glare_3,89,380,220,400,Schedule H drug,warning,foil
+P084_bulb_glare.jpg,P084,bulb_glare,P084_bulb_glare_4,45,492,189,512,10 x 10 Tablets,other,foil
+P084_bulb_glare.jpg,P084,bulb_glare,P084_bulb_glare_5,46,606,250,627,EXP 02/2027 B.No AZ6901,expiry_batch,foil
+P085_indoor.jpg,P085,indoor,P085_indoor_0,108,47,381,77,Tinamcef SR,drug_name,colour
+P085_indoor.jpg,P085,indoor,P085_indoor_1,34,187,127,214,250 mg,strength,colour
+P085_indoor.jpg,P085,indoor,P085_indoor_2,91,331,382,354,Take 1 tablet twice daily,dosage,colour
+P085_indoor.jpg,P085,indoor,P085_indoor_3,115,458,441,475,Do not exceed the stated dose,warning,colour
+P085_indoor.jpg,P085,indoor,P085_indoor_4,104,559,215,569,10 x 10 Tablets,other,colour
+P085_indoor.jpg,P085,indoor,P085_indoor_5,85,668,229,679,EXP 11/2027 B.No HT2850,expiry_batch,colour
+P085_daylight.jpg,P085,daylight,P085_daylight_0,108,48,344,76,Tinamcef SR,drug_name,colour
+P085_daylight.jpg,P085,daylight,P085_daylight_1,34,188,124,213,250 mg,strength,colour
+P085_daylight.jpg,P085,daylight,P085_daylight_2,91,330,353,354,Take 1 tablet twice daily,dosage,colour
+P085_daylight.jpg,P085,daylight,P085_daylight_3,115,458,441,475,Do not exceed the stated dose,warning,colour
+P085_daylight.jpg,P085,daylight,P085_daylight_4,104,559,215,569,10 x 10 Tablets,other,colour
+P085_daylight.jpg,P085,daylight,P085_daylight_5,85,668,245,678,EXP 11/2027 B.No HT2850,expiry_batch,colour
+P085_bulb_glare.jpg,P085,bulb_glare,P085_bulb_glare_0,108,47,354,78,Tinamcef SR,drug_name,colour
+P085_bulb_glare.jpg,P085,bulb_glare,P085_bulb_glare_1,34,188,124,213,250 mg,strength,colour
+P085_bulb_glare.jpg,P085,bulb_glare,P085_bulb_glare_2,92,331,345,353,Take 1 tablet twice daily,dosage,colour
+P085_bulb_glare.jpg,P085,bulb_glare,P085_bulb_glare_3,115,458,484,476,Do not exceed the stated dose,warning,colour
+P085_bulb_glare.jpg,P085,bulb_glare,P085_bulb_glare_4,104,559,203,570,10 x 10 Tablets,other,colour
+P085_bulb_glare.jpg,P085,bulb_glare,P085_bulb_glare_5,85,667,231,676,EXP 11/2027 B.No HT2850,expiry_batch,colour
+P086_indoor.jpg,P086,indoor,P086_indoor_0,70,47,385,84,Raatormyva 500,drug_name,white
+P086_indoor.jpg,P086,indoor,P086_indoor_1,77,169,204,208,40 mg,strength,white
+P086_indoor.jpg,P086,indoor,P086_indoor_2,102,302,341,320,One tablet at bedtime,dosage,white
+P086_indoor.jpg,P086,indoor,P086_indoor_3,77,385,380,405,Keep out of reach of children,warning,white
+P086_indoor.jpg,P086,indoor,P086_indoor_4,112,523,188,531,10 x 10 Tablets,other,white
+P086_indoor.jpg,P086,indoor,P086_indoor_5,42,606,223,620,EXP 02/2029 B.No HR8341,expiry_batch,white
+P086_daylight.jpg,P086,daylight,P086_daylight_0,70,47,353,84,Raatormyva 500,drug_name,white
+P086_daylight.jpg,P086,daylight,P086_daylight_1,77,167,231,210,40 mg,strength,white
+P086_daylight.jpg,P086,daylight,P086_daylight_2,102,302,379,321,One tablet at bedtime,dosage,white
+P086_daylight.jpg,P086,daylight,P086_daylight_3,77,385,350,406,Keep out of reach of children,warning,white
+P086_daylight.jpg,P086,daylight,P086_daylight_4,112,523,180,532,10 x 10 Tablets,other,white
+P086_daylight.jpg,P086,daylight,P086_daylight_5,42,607,243,619,EXP 02/2029 B.No HR8341,expiry_batch,white
+P086_bulb_glare.jpg,P086,bulb_glare,P086_bulb_glare_0,70,47,353,84,Raatormyva 500,drug_name,white
+P086_bulb_glare.jpg,P086,bulb_glare,P086_bulb_glare_1,77,167,215,210,40 mg,strength,white
+P086_bulb_glare.jpg,P086,bulb_glare,P086_bulb_glare_2,102,302,341,320,One tablet at bedtime,dosage,white
+P086_bulb_glare.jpg,P086,bulb_glare,P086_bulb_glare_3,77,386,345,405,Keep out of reach of children,warning,white
+P086_bulb_glare.jpg,P086,bulb_glare,P086_bulb_glare_4,112,523,180,532,10 x 10 Tablets,other,white
+P086_bulb_glare.jpg,P086,bulb_glare,P086_bulb_glare_5,42,607,227,618,EXP 02/2029 B.No HR8341,expiry_batch,white
+P087_indoor.jpg,P087,indoor,P087_indoor_0,112,47,447,83,Minimepanix SR,drug_name,foil
+P087_indoor.jpg,P087,indoor,P087_indoor_1,59,168,166,199,250 mg,strength,foil
+P087_indoor.jpg,P087,indoor,P087_indoor_2,100,282,234,295,1 tablet every 8 hours,dosage,foil
+P087_indoor.jpg,P087,indoor,P087_indoor_3,99,374,235,386,Store below 25 C,warning,foil
+P087_indoor.jpg,P087,indoor,P087_indoor_4,102,442,156,448,10 x 10 Tablets,other,foil
+P087_indoor.jpg,P087,indoor,P087_indoor_5,75,530,300,547,EXP 06/2026 B.No AY9067,expiry_batch,foil
+P087_daylight.jpg,P087,daylight,P087_daylight_0,112,47,447,83,Minimepanix SR,drug_name,foil
+P087_daylight.jpg,P087,daylight,P087_daylight_1,59,171,162,198,250 mg,strength,foil
+P087_daylight.jpg,P087,daylight,P087_daylight_2,100,283,263,296,1 tablet every 8 hours,dosage,foil
+P087_daylight.jpg,P087,daylight,P087_daylight_3,99,374,235,386,Store below 25 C,warning,foil
+P087_daylight.jpg,P087,daylight,P087_daylight_4,102,441,157,449,10 x 10 Tablets,other,foil
+P087_daylight.jpg,P087,daylight,P087_daylight_5,75,531,325,547,EXP 06/2026 B.No AY9067,expiry_batch,foil
+P087_bulb_glare.jpg,P087,bulb_glare,P087_bulb_glare_0,112,47,447,83,Minimepanix SR,drug_name,foil
+P087_bulb_glare.jpg,P087,bulb_glare,P087_bulb_glare_1,59,171,162,198,250 mg,strength,foil
+P087_bulb_glare.jpg,P087,bulb_glare,P087_bulb_glare_2,100,283,263,296,1 tablet every 8 hours,dosage,foil
+P087_bulb_glare.jpg,P087,bulb_glare,P087_bulb_glare_3,99,373,222,387,Store below 25 C,warning,foil
+P087_bulb_glare.jpg,P087,bulb_glare,P087_bulb_glare_4,102,442,156,448,10 x 10 Tablets,other,foil
+P087_bulb_glare.jpg,P087,bulb_glare,P087_bulb_glare_5,75,530,300,547,EXP 06/2026 B.No AY9067,expiry_batch,foil
+P088_indoor.jpg,P088,indoor,P088_indoor_0,30,47,297,79,Amtotin SR,drug_name,foil
+P088_indoor.jpg,P088,indoor,P088_indoor_1,113,206,175,224,250 mg,strength,foil
+P088_indoor.jpg,P088,indoor,P088_indoor_2,37,316,218,338,Take after food,dosage,foil
+P088_indoor.jpg,P088,indoor,P088_indoor_3,119,441,259,455,Schedule H drug,warning,foil
+P088_indoor.jpg,P088,indoor,P088_indoor_4,119,535,263,549,10 x 10 Tablets,other,foil
+P088_indoor.jpg,P088,indoor,P088_indoor_5,30,646,279,664,EXP 07/2027 B.No ET6617,expiry_batch,foil
+P088_daylight.jpg,P088,daylight,P088_daylight_0,30,49,259,79,Amtotin SR,drug_name,foil
+P088_daylight.jpg,P088,daylight,P088_daylight_1,113,207,182,224,250 mg,strength,foil
+P088_daylight.jpg,P088,daylight,P088_daylight_2,37,316,218,338,Take after food,dosage,foil
+P088_daylight.jpg,P088,daylight,P088_daylight_3,119,440,245,456,Schedule H drug,warning,foil
+P088_daylight.jpg,P088,daylight,P088_daylight_4,119,534,248,550,10 x 10 Tablets,other,foil
+P088_daylight.jpg,P088,daylight,P088_daylight_5,30,646,279,664,EXP 07/2027 B.No ET6617,expiry_batch,foil
+P088_bulb_glare.jpg,P088,bulb_glare,P088_bulb_glare_0,30,47,297,79,Amtotin SR,drug_name,foil
+P088_bulb_glare.jpg,P088,bulb_glare,P088_bulb_glare_1,113,206,175,224,250 mg,strength,foil
+P088_bulb_glare.jpg,P088,bulb_glare,P088_bulb_glare_2,37,316,239,337,Take after food,dosage,foil
+P088_bulb_glare.jpg,P088,bulb_glare,P088_bulb_glare_3,119,441,259,455,Schedule H drug,warning,foil
+P088_bulb_glare.jpg,P088,bulb_glare,P088_bulb_glare_4,119,534,248,550,10 x 10 Tablets,other,foil
+P088_bulb_glare.jpg,P088,bulb_glare,P088_bulb_glare_5,30,646,279,664,EXP 07/2027 B.No ET6617,expiry_batch,foil
+P089_indoor.jpg,P089,indoor,P089_indoor_0,55,54,438,115,Ixpaatorta,drug_name,white
+P089_indoor.jpg,P089,indoor,P089_indoor_1,49,222,150,256,40 mg,strength,white
+P089_indoor.jpg,P089,indoor,P089_indoor_2,65,362,340,382,One tablet at bedtime,dosage,white
+P089_indoor.jpg,P089,indoor,P089_indoor_3,100,473,283,495,Schedule H drug,warning,white
+P089_indoor.jpg,P089,indoor,P089_indoor_4,76,576,194,589,Mkt by Arogya Labs,other,white
+P089_indoor.jpg,P089,indoor,P089_indoor_5,63,697,197,705,EXP 01/2026 B.No DZ3636,expiry_batch,white
+P089_daylight.jpg,P089,daylight,P089_daylight_0,55,54,438,115,Ixpaatorta,drug_name,white
+P089_daylight.jpg,P089,daylight,P089_daylight_1,49,222,161,255,40 mg,strength,white
+P089_daylight.jpg,P089,daylight,P089_daylight_2,65,362,401,383,One tablet at bedtime,dosage,white
+P089_daylight.jpg,P089,daylight,P089_daylight_3,100,473,264,494,Schedule H drug,warning,white
+P089_daylight.jpg,P089,daylight,P089_daylight_4,76,576,181,587,Mkt by Arogya Labs,other,white
+P089_daylight.jpg,P089,daylight,P089_daylight_5,63,696,184,705,EXP 01/2026 B.No DZ3636,expiry_batch,white
+P089_bulb_glare.jpg,P089,bulb_glare,P089_bulb_glare_0,55,53,400,115,Ixpaatorta,drug_name,white
+P089_bulb_glare.jpg,P089,bulb_glare,P089_bulb_glare_1,49,223,146,254,40 mg,strength,white
+P089_bulb_glare.jpg,P089,bulb_glare,P089_bulb_glare_2,65,362,401,383,One tablet at bedtime,dosage,white
+P089_bulb_glare.jpg,P089,bulb_glare,P089_bulb_glare_3,100,473,283,495,Schedule H drug,warning,white
+P089_bulb_glare.jpg,P089,bulb_glare,P089_bulb_glare_4,76,576,181,587,Mkt by Arogya Labs,other,white
+P089_bulb_glare.jpg,P089,bulb_glare,P089_bulb_glare_5,63,696,184,705,EXP 01/2026 B.No DZ3636,expiry_batch,white
+P090_indoor.jpg,P090,indoor,P090_indoor_0,45,48,379,78,Cefzolethro SR,drug_name,white
+P090_indoor.jpg,P090,indoor,P090_indoor_1,81,198,177,226,40 mg,strength,white
+P090_indoor.jpg,P090,indoor,P090_indoor_2,74,341,313,359,One tablet at bedtime,dosage,white
+P090_indoor.jpg,P090,indoor,P090_indoor_3,67,478,379,502,Keep out of reach of children,warning,white
+P090_indoor.jpg,P090,indoor,P090_indoor_4,31,624,145,635,10 x 10 Tablets,other,white
+P090_indoor.jpg,P090,indoor,P090_indoor_5,96,703,334,720,EXP 11/2026 B.No CY9418,expiry_batch,white
+P090_daylight.jpg,P090,daylight,P090_daylight_0,45,48,332,77,Cefzolethro SR,drug_name,white
+P090_daylight.jpg,P090,daylight,P090_daylight_1,81,199,164,226,40 mg,strength,white
+P090_daylight.jpg,P090,daylight,P090_daylight_2,74,341,323,361,One tablet at bedtime,dosage,white
+P090_daylight.jpg,P090,daylight,P090_daylight_3,67,479,374,501,Keep out of reach of children,warning,white
+P090_daylight.jpg,P090,daylight,P090_daylight_4,31,623,133,636,10 x 10 Tablets,other,white
+P090_daylight.jpg,P090,daylight,P090_daylight_5,96,703,340,718,EXP 11/2026 B.No CY9418,expiry_batch,white
+P090_bulb_glare.jpg,P090,bulb_glare,P090_bulb_glare_0,45,47,345,79,Cefzolethro SR,drug_name,white
+P090_bulb_glare.jpg,P090,bulb_glare,P090_bulb_glare_1,81,197,167,227,40 mg,strength,white
+P090_bulb_glare.jpg,P090,bulb_glare,P090_bulb_glare_2,74,341,323,361,One tablet at bedtime,dosage,white
+P090_bulb_glare.jpg,P090,bulb_glare,P090_bulb_glare_3,67,479,414,502,Keep out of reach of children,warning,white
+P090_bulb_glare.jpg,P090,bulb_glare,P090_bulb_glare_4,31,624,132,635,10 x 10 Tablets,other,white
+P090_bulb_glare.jpg,P090,bulb_glare,P090_bulb_glare_5,96,703,361,719,EXP 11/2026 B.No CY9418,expiry_batch,white
+P091_indoor.jpg,P091,indoor,P091_indoor_0,111,50,407,90,Toforfor SR,drug_name,foil
+P091_indoor.jpg,P091,indoor,P091_indoor_1,35,186,145,220,20 mg,strength,foil
+P091_indoor.jpg,P091,indoor,P091_indoor_2,51,346,260,363,One tablet at bedtime,dosage,foil
+P091_indoor.jpg,P091,indoor,P091_indoor_3,114,466,280,479,Keep out of reach of children,warning,foil
+P091_indoor.jpg,P091,indoor,P091_indoor_4,84,567,193,578,Mkt by Arogya Labs,other,foil
+P091_indoor.jpg,P091,indoor,P091_indoor_5,78,657,247,670,EXP 10/2029 B.No KM1144,expiry_batch,foil
+P091_daylight.jpg,P091,daylight,P091_daylight_0,111,50,407,90,Toforfor SR,drug_name,foil
+P091_daylight.jpg,P091,daylight,P091_daylight_1,35,187,136,218,20 mg,strength,foil
+P091_daylight.jpg,P091,daylight,P091_daylight_2,51,347,252,362,One tablet at bedtime,dosage,foil
+P091_daylight.jpg,P091,daylight,P091_daylight_3,114,467,283,480,Keep out of reach of children,warning,foil
+P091_daylight.jpg,P091,daylight,P091_daylight_4,84,567,182,579,Mkt by Arogya Labs,other,foil
+P091_daylight.jpg,P091,daylight,P091_daylight_5,78,658,250,668,EXP 10/2029 B.No KM1144,expiry_batch,foil
+P091_bulb_glare.jpg,P091,bulb_glare,P091_bulb_glare_0,111,50,451,92,Toforfor SR,drug_name,foil
+P091_bulb_glare.jpg,P091,bulb_glare,P091_bulb_glare_1,35,187,136,218,20 mg,strength,foil
+P091_bulb_glare.jpg,P091,bulb_glare,P091_bulb_glare_2,51,347,252,362,One tablet at bedtime,dosage,foil
+P091_bulb_glare.jpg,P091,bulb_glare,P091_bulb_glare_3,114,467,283,480,Keep out of reach of children,warning,foil
+P091_bulb_glare.jpg,P091,bulb_glare,P091_bulb_glare_4,84,567,182,579,Mkt by Arogya Labs,other,foil
+P091_bulb_glare.jpg,P091,bulb_glare,P091_bulb_glare_5,78,658,250,668,EXP 10/2029 B.No KM1144,expiry_batch,foil
+P092_indoor.jpg,P092,indoor,P092_indoor_0,62,48,355,80,Throvaime 500,drug_name,colour
+P092_indoor.jpg,P092,indoor,P092_indoor_1,113,164,192,187,500 mg,strength,colour
+P092_indoor.jpg,P092,indoor,P092_indoor_2,111,266,376,289,Take 1 tablet twice daily,dosage,colour
+P092_indoor.jpg,P092,indoor,P092_indoor_3,72,389,338,407,Keep out of reach of children,warning,colour
+P092_indoor.jpg,P092,indoor,P092_indoor_4,40,515,374,535,Mfd by Healwell Pharma Ltd,other,colour
+P092_indoor.jpg,P092,indoor,P092_indoor_5,75,636,292,649,EXP 12/2027 B.No AT6434,expiry_batch,colour
+P092_daylight.jpg,P092,daylight,P092_daylight_0,61,48,394,81,Throvaime 500,drug_name,colour
+P092_daylight.jpg,P092,daylight,P092_daylight_1,113,164,192,187,500 mg,strength,colour
+P092_daylight.jpg,P092,daylight,P092_daylight_2,110,266,414,290,Take 1 tablet twice daily,dosage,colour
+P092_daylight.jpg,P092,daylight,P092_daylight_3,72,389,368,407,Keep out of reach of children,warning,colour
+P092_daylight.jpg,P092,daylight,P092_daylight_4,40,516,319,535,Mfd by Healwell Pharma Ltd,other,colour
+P092_daylight.jpg,P092,daylight,P092_daylight_5,75,636,312,651,EXP 12/2027 B.No AT6434,expiry_batch,colour
+P092_bulb_glare.jpg,P092,bulb_glare,P092_bulb_glare_0,61,48,394,81,Throvaime 500,drug_name,colour
+P092_bulb_glare.jpg,P092,bulb_glare,P092_bulb_glare_1,113,165,201,187,500 mg,strength,colour
+P092_bulb_glare.jpg,P092,bulb_glare,P092_bulb_glare_2,110,266,414,290,Take 1 tablet twice daily,dosage,colour
+P092_bulb_glare.jpg,P092,bulb_glare,P092_bulb_glare_3,72,389,368,407,Keep out of reach of children,warning,colour
+P092_bulb_glare.jpg,P092,bulb_glare,P092_bulb_glare_4,40,516,319,535,Mfd by Healwell Pharma Ltd,other,colour
+P092_bulb_glare.jpg,P092,bulb_glare,P092_bulb_glare_5,75,636,312,651,EXP 12/2027 B.No AT6434,expiry_batch,colour
+P093_indoor.jpg,P093,indoor,P093_indoor_0,85,52,652,108,Molzoleam SR,drug_name,foil
+P093_indoor.jpg,P093,indoor,P093_indoor_1,49,264,204,308,500 mg,strength,foil
+P093_indoor.jpg,P093,indoor,P093_indoor_2,110,406,320,422,One tablet at bedtime,dosage,foil
+P093_indoor.jpg,P093,indoor,P093_indoor_3,75,487,361,509,Keep out of reach of children,warning,foil
+P093_indoor.jpg,P093,indoor,P093_indoor_4,54,580,197,591,Mfd by Healwell Pharma Ltd,other,foil
+P093_indoor.jpg,P093,indoor,P093_indoor_5,99,675,262,684,EXP 05/2028 B.No AR3316,expiry_batch,foil
+P093_daylight.jpg,P093,daylight,P093_daylight_0,85,52,652,108,Molzoleam SR,drug_name,foil
+P093_daylight.jpg,P093,daylight,P093_daylight_1,49,266,199,306,500 mg,strength,foil
+P093_daylight.jpg,P093,daylight,P093_daylight_2,110,406,353,423,One tablet at bedtime,dosage,foil
+P093_daylight.jpg,P093,daylight,P093_daylight_3,75,487,361,509,Keep out of reach of children,warning,foil
+P093_daylight.jpg,P093,daylight,P093_daylight_4,54,581,187,590,Mfd by Healwell Pharma Ltd,other,foil
+P093_daylight.jpg,P093,daylight,P093_daylight_5,99,674,245,685,EXP 05/2028 B.No AR3316,expiry_batch,foil
+P093_bulb_glare.jpg,P093,bulb_glare,P093_bulb_glare_0,85,54,573,107,Molzoleam SR,drug_name,foil
+P093_bulb_glare.jpg,P093,bulb_glare,P093_bulb_glare_1,49,266,199,306,500 mg,strength,foil
+P093_bulb_glare.jpg,P093,bulb_glare,P093_bulb_glare_2,110,406,329,424,One tablet at bedtime,dosage,foil
+P093_bulb_glare.jpg,P093,bulb_glare,P093_bulb_glare_3,75,487,361,509,Keep out of reach of children,warning,foil
+P093_bulb_glare.jpg,P093,bulb_glare,P093_bulb_glare_4,54,580,197,591,Mfd by Healwell Pharma Ltd,other,foil
+P093_bulb_glare.jpg,P093,bulb_glare,P093_bulb_glare_5,99,674,245,685,EXP 05/2028 B.No AR3316,expiry_batch,foil
+P094_indoor.jpg,P094,indoor,P094_indoor_0,82,51,339,112,Topanmy,drug_name,white
+P094_indoor.jpg,P094,indoor,P094_indoor_1,76,228,178,264,20 mg,strength,white
+P094_indoor.jpg,P094,indoor,P094_indoor_2,97,333,297,357,1 tablet every 8 hours,dosage,white
+P094_indoor.jpg,P094,indoor,P094_indoor_3,119,453,202,469,Schedule H drug,warning,white
+P094_indoor.jpg,P094,indoor,P094_indoor_4,72,565,206,578,MRP Rs 45.60 incl of all taxes,other,white
+P094_indoor.jpg,P094,indoor,P094_indoor_5,38,635,232,653,EXP 02/2027 B.No FT8383,expiry_batch,white
+P094_daylight.jpg,P094,daylight,P094_daylight_0,82,53,331,110,Topanmy,drug_name,white
+P094_daylight.jpg,P094,daylight,P094_daylight_1,76,227,168,264,20 mg,strength,white
+P094_daylight.jpg,P094,daylight,P094_daylight_2,97,333,277,357,1 tablet every 8 hours,dosage,white
+P094_daylight.jpg,P094,daylight,P094_daylight_3,119,454,194,469,Schedule H drug,warning,white
+P094_daylight.jpg,P094,daylight,P094_daylight_4,72,565,192,579,MRP Rs 45.60 incl of all taxes,other,white
+P094_daylight.jpg,P094,daylight,P094_daylight_5,38,635,232,653,EXP 02/2027 B.No FT8383,expiry_batch,white
+P094_bulb_glare.jpg,P094,bulb_glare,P094_bulb_glare_0,82,51,369,111,Topanmy,drug_name,white
+P094_bulb_glare.jpg,P094,bulb_glare,P094_bulb_glare_1,76,228,165,263,20 mg,strength,white
+P094_bulb_glare.jpg,P094,bulb_glare,P094_bulb_glare_2,97,333,297,357,1 tablet every 8 hours,dosage,white
+P094_bulb_glare.jpg,P094,bulb_glare,P094_bulb_glare_3,119,453,194,470,Schedule H drug,warning,white
+P094_bulb_glare.jpg,P094,bulb_glare,P094_bulb_glare_4,72,565,206,578,MRP Rs 45.60 incl of all taxes,other,white
+P094_bulb_glare.jpg,P094,bulb_glare,P094_bulb_glare_5,38,635,232,653,EXP 02/2027 B.No FT8383,expiry_batch,white
+P095_indoor.jpg,P095,indoor,P095_indoor_0,96,52,492,111,Levoatorpan,drug_name,foil
+P095_indoor.jpg,P095,indoor,P095_indoor_1,80,238,197,269,650 mg,strength,foil
+P095_indoor.jpg,P095,indoor,P095_indoor_2,74,367,239,382,1 tablet every 8 hours,dosage,foil
+P095_indoor.jpg,P095,indoor,P095_indoor_3,39,456,194,468,Protect from light and moisture,warning,foil
+P095_indoor.jpg,P095,indoor,P095_indoor_4,90,534,323,545,MRP Rs 45.60 incl of all taxes,other,foil
+P095_indoor.jpg,P095,indoor,P095_indoor_5,47,616,252,631,EXP 10/2029 B.No DX5269,expiry_batch,foil
+P095_daylight.jpg,P095,daylight,P095_daylight_0,96,54,468,110,Levoatorpan,drug_name,foil
+P095_daylight.jpg,P095,daylight,P095_daylight_1,80,237,201,271,650 mg,strength,foil
+P095_daylight.jpg,P095,daylight,P095_daylight_2,74,367,274,382,1 tablet every 8 hours,dosage,foil
+P095_daylight.jpg,P095,daylight,P095_daylight_3,39,456,211,467,Protect from light and moisture,warning,foil
+P095_daylight.jpg,P095,daylight,P095_daylight_4,90,534,300,546,MRP Rs 45.60 incl of all taxes,other,foil
+P095_daylight.jpg,P095,daylight,P095_daylight_5,47,617,256,629,EXP 10/2029 B.No DX5269,expiry_batch,foil
+P095_bulb_glare.jpg,P095,bulb_glare,P095_bulb_glare_0,96,54,468,110,Levoatorpan,drug_name,foil
+P095_bulb_glare.jpg,P095,bulb_glare,P095_bulb_glare_1,80,237,214,270,650 mg,strength,foil
+P095_bulb_glare.jpg,P095,bulb_glare,P095_bulb_glare_2,74,367,239,382,1 tablet every 8 hours,dosage,foil
+P095_bulb_glare.jpg,P095,bulb_glare,P095_bulb_glare_3,39,456,189,466,Protect from light and moisture,warning,foil
+P095_bulb_glare.jpg,P095,bulb_glare,P095_bulb_glare_4,90,534,300,546,MRP Rs 45.60 incl of all taxes,other,foil
+P095_bulb_glare.jpg,P095,bulb_glare,P095_bulb_glare_5,47,617,275,631,EXP 10/2029 B.No DX5269,expiry_batch,foil
+P096_indoor.jpg,P096,indoor,P096_indoor_0,65,50,458,101,Tothroator SR,drug_name,foil
+P096_indoor.jpg,P096,indoor,P096_indoor_1,68,209,186,250,40 mg,strength,foil
+P096_indoor.jpg,P096,indoor,P096_indoor_2,67,340,248,368,Take after food,dosage,foil
+P096_indoor.jpg,P096,indoor,P096_indoor_3,91,490,299,510,Keep out of reach of children,warning,foil
+P096_indoor.jpg,P096,indoor,P096_indoor_4,33,574,298,597,MRP Rs 45.60 incl of all taxes,other,foil
+P096_indoor.jpg,P096,indoor,P096_indoor_5,53,660,287,680,EXP 08/2026 B.No AM6309,expiry_batch,foil
+P096_daylight.jpg,P096,daylight,P096_daylight_0,65,50,458,101,Tothroator SR,drug_name,foil
+P096_daylight.jpg,P096,daylight,P096_daylight_1,68,210,171,249,40 mg,strength,foil
+P096_daylight.jpg,P096,daylight,P096_daylight_2,68,340,247,366,Take after food,dosage,foil
+P096_daylight.jpg,P096,daylight,P096_daylight_3,91,490,299,510,Keep out of reach of children,warning,foil
+P096_daylight.jpg,P096,daylight,P096_daylight_4,33,574,298,597,MRP Rs 45.60 incl of all taxes,other,foil
+P096_daylight.jpg,P096,daylight,P096_daylight_5,53,659,283,682,EXP 08/2026 B.No AM6309,expiry_batch,foil
+P096_bulb_glare.jpg,P096,bulb_glare,P096_bulb_glare_0,65,50,458,101,Tothroator SR,drug_name,foil
+P096_bulb_glare.jpg,P096,bulb_glare,P096_bulb_glare_1,68,210,171,249,40 mg,strength,foil
+P096_bulb_glare.jpg,P096,bulb_glare,P096_bulb_glare_2,68,340,247,366,Take after food,dosage,foil
+P096_bulb_glare.jpg,P096,bulb_glare,P096_bulb_glare_3,91,490,299,510,Keep out of reach of children,warning,foil
+P096_bulb_glare.jpg,P096,bulb_glare,P096_bulb_glare_4,33,575,299,596,MRP Rs 45.60 incl of all taxes,other,foil
+P096_bulb_glare.jpg,P096,bulb_glare,P096_bulb_glare_5,53,660,309,682,EXP 08/2026 B.No AM6309,expiry_batch,foil
+P097_indoor.jpg,P097,indoor,P097_indoor_0,30,47,152,73,Loixfor,drug_name,foil
+P097_indoor.jpg,P097,indoor,P097_indoor_1,40,192,103,212,40 mg,strength,foil
+P097_indoor.jpg,P097,indoor,P097_indoor_2,69,294,205,306,Take after food,dosage,foil
+P097_indoor.jpg,P097,indoor,P097_indoor_3,78,375,381,395,Keep out of reach of children,warning,foil
+P097_indoor.jpg,P097,indoor,P097_indoor_4,51,494,225,507,Each tablet contains,other,foil
+P097_indoor.jpg,P097,indoor,P097_indoor_5,75,567,251,577,EXP 08/2027 B.No CM7732,expiry_batch,foil
+P097_daylight.jpg,P097,daylight,P097_daylight_0,30,47,152,73,Loixfor,drug_name,foil
+P097_daylight.jpg,P097,daylight,P097_daylight_1,40,192,103,212,40 mg,strength,foil
+P097_daylight.jpg,P097,daylight,P097_daylight_2,69,294,205,306,Take after food,dosage,foil
+P097_daylight.jpg,P097,daylight,P097_daylight_3,78,376,346,395,Keep out of reach of children,warning,foil
+P097_daylight.jpg,P097,daylight,P097_daylight_4,51,494,207,508,Each tablet contains,other,foil
+P097_daylight.jpg,P097,daylight,P097_daylight_5,75,567,251,577,EXP 08/2027 B.No CM7732,expiry_batch,foil
+P097_bulb_glare.jpg,P097,bulb_glare,P097_bulb_glare_0,30,47,172,74,Loixfor,drug_name,foil
+P097_bulb_glare.jpg,P097,bulb_glare,P097_bulb_glare_1,40,192,110,211,40 mg,strength,foil
+P097_bulb_glare.jpg,P097,bulb_glare,P097_bulb_glare_2,69,294,205,306,Take after food,dosage,foil
+P097_bulb_glare.jpg,P097,bulb_glare,P097_bulb_glare_3,78,375,381,395,Keep out of reach of children,warning,foil
+P097_bulb_glare.jpg,P097,bulb_glare,P097_bulb_glare_4,51,495,204,507,Each tablet contains,other,foil
+P097_bulb_glare.jpg,P097,bulb_glare,P097_bulb_glare_5,75,567,284,579,EXP 08/2027 B.No CM7732,expiry_batch,foil
+P098_indoor.jpg,P098,indoor,P098_indoor_0,33,52,523,128,Tinstacemy 500,drug_name,white
+P098_indoor.jpg,P098,indoor,P098_indoor_1,34,240,164,298,40 mg,strength,white
+P098_indoor.jpg,P098,indoor,P098_indoor_2,107,397,418,430,One tablet at bedtime,dosage,white
+P098_indoor.jpg,P098,indoor,P098_indoor_3,59,481,213,503,Do not exceed the stated dose,warning,white
+P098_indoor.jpg,P098,indoor,P098_indoor_4,72,585,207,610,Each tablet contains,other,white
+P098_indoor.jpg,P098,indoor,P098_indoor_5,108,712,376,742,EXP 02/2026 B.No DR9263,expiry_batch,white
+P098_daylight.jpg,P098,daylight,P098_daylight_0,33,51,561,131,Tinstacemy 500,drug_name,white
+P098_daylight.jpg,P098,daylight,P098_daylight_1,34,240,178,297,40 mg,strength,white
+P098_daylight.jpg,P098,daylight,P098_daylight_2,107,397,418,430,One tablet at bedtime,dosage,white
+P098_daylight.jpg,P098,daylight,P098_daylight_3,59,481,198,504,Do not exceed the stated dose,warning,white
+P098_daylight.jpg,P098,daylight,P098_daylight_4,72,584,210,611,Each tablet contains,other,white
+P098_daylight.jpg,P098,daylight,P098_daylight_5,108,712,349,743,EXP 02/2026 B.No DR9263,expiry_batch,white
+P098_bulb_glare.jpg,P098,bulb_glare,P098_bulb_glare_0,33,52,523,128,Tinstacemy 500,drug_name,white
+P098_bulb_glare.jpg,P098,bulb_glare,P098_bulb_glare_1,34,240,178,297,40 mg,strength,white
+P098_bulb_glare.jpg,P098,bulb_glare,P098_bulb_glare_2,107,397,361,429,One tablet at bedtime,dosage,white
+P098_bulb_glare.jpg,P098,bulb_glare,P098_bulb_glare_3,59,481,213,503,Do not exceed the stated dose,warning,white
+P098_bulb_glare.jpg,P098,bulb_glare,P098_bulb_glare_4,72,585,225,610,Each tablet contains,other,white
+P098_bulb_glare.jpg,P098,bulb_glare,P098_bulb_glare_5,108,712,355,741,EXP 02/2026 B.No DR9263,expiry_batch,white
+P099_indoor.jpg,P099,indoor,P099_indoor_0,70,50,479,103,Tinfloxvalo SR,drug_name,foil
+P099_indoor.jpg,P099,indoor,P099_indoor_1,97,184,218,230,10 mg,strength,foil
+P099_indoor.jpg,P099,indoor,P099_indoor_2,49,298,185,318,Take 1 tablet twice daily,dosage,foil
+P099_indoor.jpg,P099,indoor,P099_indoor_3,112,372,398,402,Keep out of reach of children,warning,foil
+P099_indoor.jpg,P099,indoor,P099_indoor_4,104,496,247,521,10 x 10 Tablets,other,foil
+P099_indoor.jpg,P099,indoor,P099_indoor_5,50,590,156,605,EXP 12/2026 B.No KX9515,expiry_batch,foil
+P099_daylight.jpg,P099,daylight,P099_daylight_0,70,50,479,103,Tinfloxvalo SR,drug_name,foil
+P099_daylight.jpg,P099,daylight,P099_daylight_1,97,181,229,231,10 mg,strength,foil
+P099_daylight.jpg,P099,daylight,P099_daylight_2,49,298,200,317,Take 1 tablet twice daily,dosage,foil
+P099_daylight.jpg,P099,daylight,P099_daylight_3,112,372,430,402,Keep out of reach of children,warning,foil
+P099_daylight.jpg,P099,daylight,P099_daylight_4,104,496,247,521,10 x 10 Tablets,other,foil
+P099_daylight.jpg,P099,daylight,P099_daylight_5,50,590,156,605,EXP 12/2026 B.No KX9515,expiry_batch,foil
+P099_bulb_glare.jpg,P099,bulb_glare,P099_bulb_glare_0,70,49,438,103,Tinfloxvalo SR,drug_name,foil
+P099_bulb_glare.jpg,P099,bulb_glare,P099_bulb_glare_1,97,184,218,230,10 mg,strength,foil
+P099_bulb_glare.jpg,P099,bulb_glare,P099_bulb_glare_2,49,298,200,317,Take 1 tablet twice daily,dosage,foil
+P099_bulb_glare.jpg,P099,bulb_glare,P099_bulb_glare_3,112,372,393,401,Keep out of reach of children,warning,foil
+P099_bulb_glare.jpg,P099,bulb_glare,P099_bulb_glare_4,104,496,247,521,10 x 10 Tablets,other,foil
+P099_bulb_glare.jpg,P099,bulb_glare,P099_bulb_glare_5,50,590,148,604,EXP 12/2026 B.No KX9515,expiry_batch,foil
