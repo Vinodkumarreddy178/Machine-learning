@@ -1,0 +1,10 @@
+{
+ "n_regions": 1800,
+ "n_images": 300,
+ "n_products": 100,
+ "missing_values": 0,
+ "duplicate_region_ids": 0,
+ "degenerate_boxes": 0,
+ "empty_text": 0,
+ "missing_image_files": 0
+}

@@ -1,0 +1,18 @@
+{
+ "alpha": 0.1,
+ "half_width_levels": 1.8319169216567466,
+ "coverage_test": 0.8611111111111112,
+ "coverage_by_lighting": {
+  "bulb_glare": 0.858,
+  "daylight": 0.858,
+  "indoor": 0.867
+ },
+ "coverage_by_type": {
+  "dosage": 0.95,
+  "drug_name": 0.75,
+  "expiry_batch": 0.983,
+  "other": 0.983,
+  "strength": 0.617,
+  "warning": 0.883
+ }
+}

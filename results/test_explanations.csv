@@ -1,0 +1,361 @@
+region_id,region_type,lighting,score,lgbm,lgbm_cls,cause,cause_text
+P000_bulb_glare_5,expiry_batch,bulb_glare,0,0.16810894228407375,0,weight,stroke too thin
+P000_bulb_glare_4,other,bulb_glare,1,0.2806660405254706,0,weight,stroke too thin
+P000_bulb_glare_3,warning,bulb_glare,0,1.252224311785256,0,weight,stroke too thin
+P000_bulb_glare_2,dosage,bulb_glare,0,1.2100484519162689,0,weight,stroke too thin
+P000_bulb_glare_1,strength,bulb_glare,8,7.809563717314433,2,none,legible
+P000_bulb_glare_0,drug_name,bulb_glare,8,8.0,2,none,legible
+P000_daylight_5,expiry_batch,daylight,3,2.8516290541030385,1,contrast,low contrast (needs >= 4.5:1)
+P000_daylight_0,drug_name,daylight,8,8.0,2,none,legible
+P000_daylight_1,strength,daylight,8,6.7434717324880005,2,none,legible
+P000_daylight_2,dosage,daylight,3,3.8873856983737713,1,contrast,low contrast (needs >= 4.5:1)
+P000_daylight_3,warning,daylight,4,3.804820030995667,1,size,text too small (x-height < 1.4 mm equivalent)
+P000_daylight_4,other,daylight,2,0.7002863186970029,0,size,text too small (x-height < 1.4 mm equivalent)
+P000_indoor_0,drug_name,indoor,8,7.906234257599241,2,none,legible
+P000_indoor_5,expiry_batch,indoor,3,3.6683075688036073,1,contrast,low contrast (needs >= 4.5:1)
+P000_indoor_4,other,indoor,2,1.046702256251479,0,size,text too small (x-height < 1.4 mm equivalent)
+P000_indoor_3,warning,indoor,4,4.3039563017493725,1,size,text too small (x-height < 1.4 mm equivalent)
+P000_indoor_2,dosage,indoor,3,3.593810882912661,1,contrast,low contrast (needs >= 4.5:1)
+P000_indoor_1,strength,indoor,8,7.7163534665785125,2,none,legible
+P004_bulb_glare_5,expiry_batch,bulb_glare,0,0.0,0,weight,stroke too thin
+P004_bulb_glare_4,other,bulb_glare,0,0.0,0,weight,stroke too thin
+P004_bulb_glare_3,warning,bulb_glare,0,0.43680661661536146,0,weight,stroke too thin
+P004_bulb_glare_2,dosage,bulb_glare,5,4.743952364713227,1,size,text too small (x-height < 1.4 mm equivalent)
+P004_bulb_glare_1,strength,bulb_glare,0,2.4798880723626207,1,weight,stroke too thin
+P004_bulb_glare_0,drug_name,bulb_glare,8,8.0,2,none,legible
+P004_daylight_0,drug_name,daylight,8,7.884096471177126,2,none,legible
+P004_daylight_1,strength,daylight,0,3.9945837267498607,1,weight,stroke too thin
+P004_daylight_2,dosage,daylight,6,4.692133616962836,1,size,text too small (x-height < 1.4 mm equivalent)
+P004_daylight_3,warning,daylight,0,2.699780440765653,1,size,text too small (x-height < 1.4 mm equivalent)
+P004_daylight_4,other,daylight,2,2.8244664041330023,1,contrast,low contrast (needs >= 4.5:1)
+P004_daylight_5,expiry_batch,daylight,1,0.7284421312525833,0,size,text too small (x-height < 1.4 mm equivalent)
+P004_indoor_5,expiry_batch,indoor,0,0.1964823340505957,0,weight,stroke too thin
+P004_indoor_1,strength,indoor,0,0.9440578618699506,0,contrast,low contrast (needs >= 4.5:1)
+P004_indoor_2,dosage,indoor,6,4.170392008296812,1,size,text too small (x-height < 1.4 mm equivalent)
+P004_indoor_0,drug_name,indoor,8,8.0,2,none,legible
+P004_indoor_4,other,indoor,1,1.211614011677311,0,weight,stroke too thin
+P004_indoor_3,warning,indoor,2,1.9675562133945677,0,contrast,low contrast (needs >= 4.5:1)
+P010_bulb_glare_4,other,bulb_glare,3,3.5914147290290552,1,size,text too small (x-height < 1.4 mm equivalent)
+P010_bulb_glare_3,warning,bulb_glare,3,2.839537542040327,1,weight,stroke too thin
+P010_bulb_glare_2,dosage,bulb_glare,6,5.5173814867509146,2,none,legible
+P010_bulb_glare_1,strength,bulb_glare,2,5.362700958132324,2,none,legible
+P010_bulb_glare_0,drug_name,bulb_glare,8,7.594577607756996,2,none,legible
+P010_bulb_glare_5,expiry_batch,bulb_glare,4,3.675406828034329,1,size,text too small (x-height < 1.4 mm equivalent)
+P010_daylight_0,drug_name,daylight,8,7.466198403161427,2,none,legible
+P010_daylight_1,strength,daylight,7,5.11318973049185,1,curvature,curved or warped surface
+P010_daylight_2,dosage,daylight,6,6.195839451700084,2,none,legible
+P010_daylight_3,warning,daylight,2,2.3795431811621395,1,weight,stroke too thin
+P010_daylight_4,other,daylight,3,3.876142486208532,1,size,text too small (x-height < 1.4 mm equivalent)
+P010_daylight_5,expiry_batch,daylight,4,3.759797898223612,1,size,text too small (x-height < 1.4 mm equivalent)
+P010_indoor_1,strength,indoor,2,5.972064521154416,2,none,legible
+P010_indoor_2,dosage,indoor,6,6.250787645412225,2,none,legible
+P010_indoor_0,drug_name,indoor,3,7.274528574909483,2,none,legible
+P010_indoor_4,other,indoor,3,3.8613015552670444,1,size,text too small (x-height < 1.4 mm equivalent)
+P010_indoor_3,warning,indoor,3,2.810113277057866,1,weight,stroke too thin
+P010_indoor_5,expiry_batch,indoor,4,3.6522957184131997,1,size,text too small (x-height < 1.4 mm equivalent)
+P012_bulb_glare_0,drug_name,bulb_glare,0,1.5018722110607756,0,weight,stroke too thin
+P012_bulb_glare_1,strength,bulb_glare,6,6.093337769802122,2,none,legible
+P012_bulb_glare_2,dosage,bulb_glare,2,3.4675464244559535,1,contrast,low contrast (needs >= 4.5:1)
+P012_bulb_glare_4,other,bulb_glare,1,0.8803569584471092,0,size,text too small (x-height < 1.4 mm equivalent)
+P012_bulb_glare_5,expiry_batch,bulb_glare,2,1.7569985522884766,0,size,text too small (x-height < 1.4 mm equivalent)
+P012_bulb_glare_3,warning,bulb_glare,4,2.113011068324185,0,contrast,low contrast (needs >= 4.5:1)
+P012_daylight_4,other,daylight,1,0.47928448829870496,0,size,text too small (x-height < 1.4 mm equivalent)
+P012_daylight_0,drug_name,daylight,0,7.742988411307893,2,none,legible
+P012_daylight_1,strength,daylight,5,5.181040227995397,1,curvature,curved or warped surface
+P012_daylight_2,dosage,daylight,5,4.135414139879356,1,contrast,low contrast (needs >= 4.5:1)
+P012_daylight_3,warning,daylight,3,2.621588523104288,1,size,text too small (x-height < 1.4 mm equivalent)
+P012_daylight_5,expiry_batch,daylight,2,1.587927509270008,0,size,text too small (x-height < 1.4 mm equivalent)
+P012_indoor_3,warning,indoor,3,2.237033275441105,0,size,text too small (x-height < 1.4 mm equivalent)
+P012_indoor_4,other,indoor,0,0.0,0,size,text too small (x-height < 1.4 mm equivalent)
+P012_indoor_5,expiry_batch,indoor,1,0.8044764982511571,0,size,text too small (x-height < 1.4 mm equivalent)
+P012_indoor_2,dosage,indoor,4,3.8316236366267202,1,contrast,low contrast (needs >= 4.5:1)
+P012_indoor_1,strength,indoor,5,5.478344431940688,2,none,legible
+P012_indoor_0,drug_name,indoor,2,6.943798445231385,2,none,legible
+P018_bulb_glare_5,expiry_batch,bulb_glare,4,4.491987610505985,1,size,text too small (x-height < 1.4 mm equivalent)
+P018_bulb_glare_4,other,bulb_glare,2,1.6319327522471068,0,size,text too small (x-height < 1.4 mm equivalent)
+P018_bulb_glare_3,warning,bulb_glare,2,1.1544442506679142,0,size,text too small (x-height < 1.4 mm equivalent)
+P018_bulb_glare_2,dosage,bulb_glare,4,2.823316341764468,1,size,text too small (x-height < 1.4 mm equivalent)
+P018_bulb_glare_1,strength,bulb_glare,7,5.853236697198362,2,none,legible
+P018_bulb_glare_0,drug_name,bulb_glare,8,5.9164698654098204,2,none,legible
+P018_daylight_5,expiry_batch,daylight,4,4.067341052238936,1,size,text too small (x-height < 1.4 mm equivalent)
+P018_daylight_3,warning,daylight,2,1.183588846767996,0,size,text too small (x-height < 1.4 mm equivalent)
+P018_daylight_4,other,daylight,1,1.3708853460175434,0,size,text too small (x-height < 1.4 mm equivalent)
+P018_daylight_1,strength,daylight,7,5.8250987102092635,2,none,legible
+P018_daylight_2,dosage,daylight,4,3.0573526092937704,1,size,text too small (x-height < 1.4 mm equivalent)
+P018_daylight_0,drug_name,daylight,8,8.0,2,none,legible
+P018_indoor_5,expiry_batch,indoor,4,4.0263692545560925,1,size,text too small (x-height < 1.4 mm equivalent)
+P018_indoor_4,other,indoor,2,1.5466334253172596,0,size,text too small (x-height < 1.4 mm equivalent)
+P018_indoor_3,warning,indoor,2,1.8614789996813261,0,size,text too small (x-height < 1.4 mm equivalent)
+P018_indoor_2,dosage,indoor,4,2.9262565450863476,1,size,text too small (x-height < 1.4 mm equivalent)
+P018_indoor_1,strength,indoor,3,5.88822249288128,2,none,legible
+P018_indoor_0,drug_name,indoor,8,7.826315207788547,2,none,legible
+P022_bulb_glare_4,other,bulb_glare,2,3.0617177123695325,1,contrast,low contrast (needs >= 4.5:1)
+P022_bulb_glare_3,warning,bulb_glare,2,1.5761613201675115,0,weight,stroke too thin
+P022_bulb_glare_2,dosage,bulb_glare,5,4.6508716883750925,1,contrast,low contrast (needs >= 4.5:1)
+P022_bulb_glare_1,strength,bulb_glare,7,7.199381581156026,2,none,legible
+P022_bulb_glare_0,drug_name,bulb_glare,8,8.0,2,none,legible
+P022_bulb_glare_5,expiry_batch,bulb_glare,1,1.8347057705780205,0,size,text too small (x-height < 1.4 mm equivalent)
+P022_daylight_0,drug_name,daylight,8,7.8700313885872575,2,none,legible
+P022_daylight_1,strength,daylight,7,8.0,2,none,legible
+P022_daylight_2,dosage,daylight,6,5.691189624621438,2,none,legible
+P022_daylight_3,warning,daylight,5,3.6476240313736876,1,contrast,low contrast (needs >= 4.5:1)
+P022_daylight_4,other,daylight,2,2.655524381357838,1,size,text too small (x-height < 1.4 mm equivalent)
+P022_daylight_5,expiry_batch,daylight,2,2.1721925806104725,0,size,text too small (x-height < 1.4 mm equivalent)
+P022_indoor_5,expiry_batch,indoor,2,2.221748664017174,0,size,text too small (x-height < 1.4 mm equivalent)
+P022_indoor_1,strength,indoor,6,8.0,2,none,legible
+P022_indoor_0,drug_name,indoor,8,8.0,2,none,legible
+P022_indoor_3,warning,indoor,6,3.930282308470958,1,contrast,low contrast (needs >= 4.5:1)
+P022_indoor_4,other,indoor,2,3.0607271228286965,1,size,text too small (x-height < 1.4 mm equivalent)
+P022_indoor_2,dosage,indoor,6,4.855312079272446,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_bulb_glare_5,expiry_batch,bulb_glare,2,1.7892444288913503,0,size,text too small (x-height < 1.4 mm equivalent)
+P030_bulb_glare_4,other,bulb_glare,3,3.4750538791486076,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_bulb_glare_3,warning,bulb_glare,4,4.732851680009423,1,glare,foil/specular glare
+P030_bulb_glare_2,dosage,bulb_glare,4,3.7920972286490677,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_bulb_glare_1,strength,bulb_glare,5,4.179519380318093,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_bulb_glare_0,drug_name,bulb_glare,8,7.931236265337068,2,none,legible
+P030_daylight_4,other,daylight,3,3.6095849865963086,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_daylight_5,expiry_batch,daylight,2,2.3376255414029665,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_daylight_3,warning,daylight,5,4.811190488225991,1,glare,foil/specular glare
+P030_daylight_0,drug_name,daylight,8,7.557142615933145,2,none,legible
+P030_daylight_1,strength,daylight,6,4.3569010055936905,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_daylight_2,dosage,daylight,4,3.4970388311651637,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_indoor_5,expiry_batch,indoor,3,2.8737995998152837,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_indoor_4,other,indoor,3,3.789608036989767,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_indoor_3,warning,indoor,5,4.373541918428283,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_indoor_2,dosage,indoor,5,3.715526473838418,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_indoor_1,strength,indoor,5,4.764029703288326,1,size,text too small (x-height < 1.4 mm equivalent)
+P030_indoor_0,drug_name,indoor,8,7.838654924771487,2,none,legible
+P031_bulb_glare_5,expiry_batch,bulb_glare,3,2.3792149203784847,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_bulb_glare_4,other,bulb_glare,3,3.710782817623437,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_bulb_glare_3,warning,bulb_glare,4,3.8635467288298666,1,contrast,low contrast (needs >= 4.5:1)
+P031_bulb_glare_2,dosage,bulb_glare,4,3.3675568360461083,1,contrast,low contrast (needs >= 4.5:1)
+P031_bulb_glare_1,strength,bulb_glare,3,2.4875687727206395,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_bulb_glare_0,drug_name,bulb_glare,8,5.909529164267121,2,none,legible
+P031_daylight_5,expiry_batch,daylight,3,2.6779254276857056,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_daylight_3,warning,daylight,5,4.734934306149365,1,clutter,busy background
+P031_daylight_4,other,daylight,3,3.801362787346395,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_daylight_1,strength,daylight,3,2.677681759684397,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_daylight_0,drug_name,daylight,8,7.6896775635068355,2,none,legible
+P031_daylight_2,dosage,daylight,5,4.228869927487342,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_indoor_5,expiry_batch,indoor,3,2.690877554912319,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_indoor_4,other,indoor,3,3.635894434240785,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_indoor_3,warning,indoor,5,4.899537015083481,1,clutter,busy background
+P031_indoor_2,dosage,indoor,5,4.265072673615393,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_indoor_1,strength,indoor,3,3.316707578449331,1,size,text too small (x-height < 1.4 mm equivalent)
+P031_indoor_0,drug_name,indoor,8,7.812850909005474,2,none,legible
+P033_bulb_glare_5,expiry_batch,bulb_glare,0,0.1649949773842037,0,contrast,low contrast (needs >= 4.5:1)
+P033_bulb_glare_4,other,bulb_glare,4,4.585551114210426,1,clutter,busy background
+P033_bulb_glare_3,warning,bulb_glare,4,3.273844852978702,1,contrast,low contrast (needs >= 4.5:1)
+P033_bulb_glare_2,dosage,bulb_glare,2,2.2112237869900544,0,size,text too small (x-height < 1.4 mm equivalent)
+P033_bulb_glare_1,strength,bulb_glare,2,1.9209029270818505,0,contrast,low contrast (needs >= 4.5:1)
+P033_bulb_glare_0,drug_name,bulb_glare,7,7.560970454969075,2,none,legible
+P033_daylight_5,expiry_batch,daylight,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P033_daylight_4,other,daylight,4,4.438100815146461,1,clutter,busy background
+P033_daylight_3,warning,daylight,4,2.022736857346428,0,contrast,low contrast (needs >= 4.5:1)
+P033_daylight_1,strength,daylight,8,4.445822805154033,1,contrast,low contrast (needs >= 4.5:1)
+P033_daylight_0,drug_name,daylight,6,7.651862833350243,2,none,legible
+P033_daylight_2,dosage,daylight,3,2.8546653007151677,1,size,text too small (x-height < 1.4 mm equivalent)
+P033_indoor_5,expiry_batch,indoor,0,1.1544800907485044,0,size,text too small (x-height < 1.4 mm equivalent)
+P033_indoor_4,other,indoor,4,4.78426514317323,1,clutter,busy background
+P033_indoor_3,warning,indoor,5,3.250103921269954,1,contrast,low contrast (needs >= 4.5:1)
+P033_indoor_2,dosage,indoor,3,3.307156508330295,1,size,text too small (x-height < 1.4 mm equivalent)
+P033_indoor_1,strength,indoor,6,6.119211428000343,2,none,legible
+P033_indoor_0,drug_name,indoor,8,7.935497053964655,2,none,legible
+P039_bulb_glare_0,drug_name,bulb_glare,8,7.080678107332923,2,none,legible
+P039_bulb_glare_1,strength,bulb_glare,0,2.331458022214575,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_bulb_glare_2,dosage,bulb_glare,2,1.738817631382666,0,weight,stroke too thin
+P039_bulb_glare_4,other,bulb_glare,5,5.018938593681056,1,clutter,busy background
+P039_bulb_glare_5,expiry_batch,bulb_glare,4,4.006562454540018,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_bulb_glare_3,warning,bulb_glare,3,2.5570335444203174,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_daylight_4,other,daylight,3,4.80479573154354,1,glare,foil/specular glare
+P039_daylight_0,drug_name,daylight,8,7.078651748720015,2,none,legible
+P039_daylight_1,strength,daylight,1,2.8848161680364877,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_daylight_2,dosage,daylight,2,1.643108013120089,0,weight,stroke too thin
+P039_daylight_3,warning,daylight,2,3.0760224090304518,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_daylight_5,expiry_batch,daylight,4,4.24306496582192,1,glare,foil/specular glare
+P039_indoor_5,expiry_batch,indoor,4,3.678965091138372,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_indoor_4,other,indoor,4,5.057306637048164,1,glare,foil/specular glare
+P039_indoor_3,warning,indoor,3,2.996858261982132,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_indoor_2,dosage,indoor,2,2.151114202156136,0,weight,stroke too thin
+P039_indoor_1,strength,indoor,5,2.6372237100479867,1,size,text too small (x-height < 1.4 mm equivalent)
+P039_indoor_0,drug_name,indoor,8,7.84710704292825,2,none,legible
+P044_bulb_glare_4,other,bulb_glare,2,1.635616069671854,0,weight,stroke too thin
+P044_bulb_glare_3,warning,bulb_glare,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P044_bulb_glare_2,dosage,bulb_glare,0,0.17968118091787583,0,contrast,low contrast (needs >= 4.5:1)
+P044_bulb_glare_1,strength,bulb_glare,3,3.3828056371594406,1,curvature,curved or warped surface
+P044_bulb_glare_0,drug_name,bulb_glare,8,5.885247556991736,2,none,legible
+P044_bulb_glare_5,expiry_batch,bulb_glare,0,0.4883190292079124,0,weight,stroke too thin
+P044_daylight_4,other,daylight,4,3.70943435023361,1,size,text too small (x-height < 1.4 mm equivalent)
+P044_daylight_0,drug_name,daylight,8,7.266705501720003,2,none,legible
+P044_daylight_1,strength,daylight,4,3.8757635478653305,1,size,text too small (x-height < 1.4 mm equivalent)
+P044_daylight_2,dosage,daylight,3,2.639162312627099,1,weight,stroke too thin
+P044_daylight_3,warning,daylight,0,2.682329470581111,1,weight,stroke too thin
+P044_daylight_5,expiry_batch,daylight,0,0.030155632568107646,0,contrast,low contrast (needs >= 4.5:1)
+P044_indoor_5,expiry_batch,indoor,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P044_indoor_3,warning,indoor,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P044_indoor_2,dosage,indoor,2,2.1467313659873493,0,weight,stroke too thin
+P044_indoor_1,strength,indoor,4,4.1297969723737475,1,size,text too small (x-height < 1.4 mm equivalent)
+P044_indoor_0,drug_name,indoor,8,6.134375586008395,2,none,legible
+P044_indoor_4,other,indoor,3,3.2268807827292214,1,size,text too small (x-height < 1.4 mm equivalent)
+P045_bulb_glare_1,strength,bulb_glare,3,6.28751504471223,2,none,legible
+P045_bulb_glare_4,other,bulb_glare,0,0.08800028942869546,0,weight,stroke too thin
+P045_bulb_glare_3,warning,bulb_glare,4,3.9391633566217075,1,size,text too small (x-height < 1.4 mm equivalent)
+P045_bulb_glare_5,expiry_batch,bulb_glare,0,0.07604423608861223,0,contrast,low contrast (needs >= 4.5:1)
+P045_bulb_glare_0,drug_name,bulb_glare,0,2.0389376293414974,0,weight,stroke too thin
+P045_bulb_glare_2,dosage,bulb_glare,2,4.819370123560384,1,contrast,low contrast (needs >= 4.5:1)
+P045_daylight_0,drug_name,daylight,3,1.9016699927009875,0,weight,stroke too thin
+P045_daylight_1,strength,daylight,0,5.657069781495885,2,none,legible
+P045_daylight_2,dosage,daylight,6,5.0951415827218245,1,clutter,busy background
+P045_daylight_3,warning,daylight,4,4.154777812595164,1,size,text too small (x-height < 1.4 mm equivalent)
+P045_daylight_4,other,daylight,0,2.2941889620458484,1,contrast,low contrast (needs >= 4.5:1)
+P045_daylight_5,expiry_batch,daylight,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P045_indoor_5,expiry_batch,indoor,0,0.08629835633058235,0,contrast,low contrast (needs >= 4.5:1)
+P045_indoor_1,strength,indoor,8,6.193833469516675,2,none,legible
+P045_indoor_0,drug_name,indoor,7,3.6659251318337365,1,weight,stroke too thin
+P045_indoor_3,warning,indoor,4,3.9681817447932444,1,size,text too small (x-height < 1.4 mm equivalent)
+P045_indoor_4,other,indoor,0,0.0,0,weight,stroke too thin
+P045_indoor_2,dosage,indoor,5,5.32178590624282,2,none,legible
+P053_bulb_glare_5,expiry_batch,bulb_glare,2,2.7853867546592515,1,size,text too small (x-height < 1.4 mm equivalent)
+P053_bulb_glare_4,other,bulb_glare,3,2.2462010129734167,0,size,text too small (x-height < 1.4 mm equivalent)
+P053_bulb_glare_3,warning,bulb_glare,0,1.6381296398333076,0,contrast,low contrast (needs >= 4.5:1)
+P053_bulb_glare_2,dosage,bulb_glare,3,2.928587088968963,1,size,text too small (x-height < 1.4 mm equivalent)
+P053_bulb_glare_1,strength,bulb_glare,0,1.0391074254864368,0,curvature,curved or warped surface
+P053_bulb_glare_0,drug_name,bulb_glare,8,7.461627530394487,2,none,legible
+P053_daylight_5,expiry_batch,daylight,3,2.686983723582737,1,size,text too small (x-height < 1.4 mm equivalent)
+P053_daylight_3,warning,daylight,0,0.056462803400920386,0,contrast,low contrast (needs >= 4.5:1)
+P053_daylight_4,other,daylight,3,2.6417642396464744,1,size,text too small (x-height < 1.4 mm equivalent)
+P053_daylight_1,strength,daylight,3,3.1464516984929753,1,curvature,curved or warped surface
+P053_daylight_0,drug_name,daylight,8,7.0679377759575095,2,none,legible
+P053_daylight_2,dosage,daylight,4,3.7610934563547707,1,size,text too small (x-height < 1.4 mm equivalent)
+P053_indoor_5,expiry_batch,indoor,3,2.5539810687181452,1,size,text too small (x-height < 1.4 mm equivalent)
+P053_indoor_4,other,indoor,3,2.070942961563909,0,size,text too small (x-height < 1.4 mm equivalent)
+P053_indoor_3,warning,indoor,0,2.6408337681790086,1,contrast,low contrast (needs >= 4.5:1)
+P053_indoor_2,dosage,indoor,3,2.722025450254233,1,contrast,low contrast (needs >= 4.5:1)
+P053_indoor_1,strength,indoor,5,2.3197158506672046,1,curvature,curved or warped surface
+P053_indoor_0,drug_name,indoor,8,8.0,2,none,legible
+P070_bulb_glare_1,strength,bulb_glare,4,5.506005164749524,2,none,legible
+P070_bulb_glare_4,other,bulb_glare,4,3.311907763551343,1,size,text too small (x-height < 1.4 mm equivalent)
+P070_bulb_glare_5,expiry_batch,bulb_glare,0,0.39440403204464924,0,size,text too small (x-height < 1.4 mm equivalent)
+P070_bulb_glare_2,dosage,bulb_glare,3,2.3107051037366246,1,size,text too small (x-height < 1.4 mm equivalent)
+P070_bulb_glare_0,drug_name,bulb_glare,8,8.0,2,none,legible
+P070_bulb_glare_3,warning,bulb_glare,4,4.056921201599214,1,size,text too small (x-height < 1.4 mm equivalent)
+P070_daylight_0,drug_name,daylight,8,7.596482787943502,2,none,legible
+P070_daylight_1,strength,daylight,5,5.092996339044148,1,curvature,curved or warped surface
+P070_daylight_2,dosage,daylight,3,2.075684039237496,0,size,text too small (x-height < 1.4 mm equivalent)
+P070_daylight_3,warning,daylight,4,3.34968658538514,1,size,text too small (x-height < 1.4 mm equivalent)
+P070_daylight_4,other,daylight,3,2.7263209942751745,1,contrast,low contrast (needs >= 4.5:1)
+P070_daylight_5,expiry_batch,daylight,0,0.0,0,size,text too small (x-height < 1.4 mm equivalent)
+P070_indoor_5,expiry_batch,indoor,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P070_indoor_1,strength,indoor,4,4.637014384295265,1,curvature,curved or warped surface
+P070_indoor_0,drug_name,indoor,8,7.863658499798069,2,none,legible
+P070_indoor_3,warning,indoor,4,3.27428739896037,1,size,text too small (x-height < 1.4 mm equivalent)
+P070_indoor_4,other,indoor,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P070_indoor_2,dosage,indoor,2,2.3015718337002613,1,size,text too small (x-height < 1.4 mm equivalent)
+P073_bulb_glare_5,expiry_batch,bulb_glare,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P073_bulb_glare_3,warning,bulb_glare,0,0.6003831694599335,0,size,text too small (x-height < 1.4 mm equivalent)
+P073_bulb_glare_2,dosage,bulb_glare,4,3.2706514290358575,1,size,text too small (x-height < 1.4 mm equivalent)
+P073_bulb_glare_1,strength,bulb_glare,6,5.397629621709809,2,none,legible
+P073_bulb_glare_0,drug_name,bulb_glare,0,2.449904373849212,1,weight,stroke too thin
+P073_bulb_glare_4,other,bulb_glare,1,1.7428495767707366,0,size,text too small (x-height < 1.4 mm equivalent)
+P073_daylight_3,warning,daylight,1,1.1041686828404682,0,size,text too small (x-height < 1.4 mm equivalent)
+P073_daylight_5,expiry_batch,daylight,0,0.2847341296313401,0,contrast,low contrast (needs >= 4.5:1)
+P073_daylight_4,other,daylight,2,2.029334971999103,0,size,text too small (x-height < 1.4 mm equivalent)
+P073_daylight_2,dosage,daylight,4,3.1277999815547655,1,size,text too small (x-height < 1.4 mm equivalent)
+P073_daylight_0,drug_name,daylight,0,3.3542085888470017,1,weight,stroke too thin
+P073_daylight_1,strength,daylight,5,5.327873090192716,2,none,legible
+P073_indoor_5,expiry_batch,indoor,0,0.14925343697943166,0,contrast,low contrast (needs >= 4.5:1)
+P073_indoor_4,other,indoor,2,1.55178724190537,0,size,text too small (x-height < 1.4 mm equivalent)
+P073_indoor_3,warning,indoor,2,0.595394675920289,0,size,text too small (x-height < 1.4 mm equivalent)
+P073_indoor_2,dosage,indoor,4,2.947077184438238,1,size,text too small (x-height < 1.4 mm equivalent)
+P073_indoor_1,strength,indoor,6,5.759934903171386,2,none,legible
+P073_indoor_0,drug_name,indoor,0,2.749584717818266,1,weight,stroke too thin
+P076_bulb_glare_5,expiry_batch,bulb_glare,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P076_bulb_glare_4,other,bulb_glare,4,3.465283252853563,1,size,text too small (x-height < 1.4 mm equivalent)
+P076_bulb_glare_3,warning,bulb_glare,0,2.849750665234168,1,size,text too small (x-height < 1.4 mm equivalent)
+P076_bulb_glare_2,dosage,bulb_glare,0,0.8645242271911023,0,contrast,low contrast (needs >= 4.5:1)
+P076_bulb_glare_1,strength,bulb_glare,0,1.8555068148444493,0,weight,stroke too thin
+P076_bulb_glare_0,drug_name,bulb_glare,4,2.6845113651931247,1,contrast,low contrast (needs >= 4.5:1)
+P076_daylight_5,expiry_batch,daylight,0,0.15889649456226615,0,weight,stroke too thin
+P076_daylight_3,warning,daylight,2,2.946549545191821,1,size,text too small (x-height < 1.4 mm equivalent)
+P076_daylight_4,other,daylight,5,3.6041316293632875,1,size,text too small (x-height < 1.4 mm equivalent)
+P076_daylight_1,strength,daylight,0,2.8891341400402752,1,weight,stroke too thin
+P076_daylight_2,dosage,daylight,1,0.6017067917353317,0,weight,stroke too thin
+P076_daylight_0,drug_name,daylight,5,7.044516359881533,2,none,legible
+P076_indoor_1,strength,indoor,0,2.340627734029444,1,weight,stroke too thin
+P076_indoor_2,dosage,indoor,0,0.6298526477582586,0,weight,stroke too thin
+P076_indoor_0,drug_name,indoor,2,2.7268229331974347,1,contrast,low contrast (needs >= 4.5:1)
+P076_indoor_4,other,indoor,4,3.4673888297188067,1,size,text too small (x-height < 1.4 mm equivalent)
+P076_indoor_5,expiry_batch,indoor,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P076_indoor_3,warning,indoor,3,2.8758060579332136,1,size,text too small (x-height < 1.4 mm equivalent)
+P077_bulb_glare_5,expiry_batch,bulb_glare,2,1.5448267639583582,0,size,text too small (x-height < 1.4 mm equivalent)
+P077_bulb_glare_4,other,bulb_glare,2,1.5718572379766924,0,size,text too small (x-height < 1.4 mm equivalent)
+P077_bulb_glare_3,warning,bulb_glare,3,3.4921763788026747,1,contrast,low contrast (needs >= 4.5:1)
+P077_bulb_glare_2,dosage,bulb_glare,4,3.654732422785334,1,size,text too small (x-height < 1.4 mm equivalent)
+P077_bulb_glare_1,strength,bulb_glare,2,2.7511294890577522,1,contrast,low contrast (needs >= 4.5:1)
+P077_bulb_glare_0,drug_name,bulb_glare,3,2.999449185481228,1,weight,stroke too thin
+P077_daylight_5,expiry_batch,daylight,2,2.4320920588680712,1,size,text too small (x-height < 1.4 mm equivalent)
+P077_daylight_3,warning,daylight,4,4.228720643317093,1,contrast,low contrast (needs >= 4.5:1)
+P077_daylight_4,other,daylight,2,2.1767090225906633,0,size,text too small (x-height < 1.4 mm equivalent)
+P077_daylight_1,strength,daylight,0,2.0557004875718734,0,weight,stroke too thin
+P077_daylight_0,drug_name,daylight,0,4.615830873737682,1,weight,stroke too thin
+P077_daylight_2,dosage,daylight,4,3.9148281354677317,1,size,text too small (x-height < 1.4 mm equivalent)
+P077_indoor_5,expiry_batch,indoor,2,1.9355901397677395,0,size,text too small (x-height < 1.4 mm equivalent)
+P077_indoor_4,other,indoor,2,2.268581069168863,1,size,text too small (x-height < 1.4 mm equivalent)
+P077_indoor_3,warning,indoor,5,4.436990644422915,1,contrast,low contrast (needs >= 4.5:1)
+P077_indoor_2,dosage,indoor,4,4.028854716761971,1,size,text too small (x-height < 1.4 mm equivalent)
+P077_indoor_1,strength,indoor,1,2.139216639960067,0,contrast,low contrast (needs >= 4.5:1)
+P077_indoor_0,drug_name,indoor,4,4.733304115251424,1,weight,stroke too thin
+P080_bulb_glare_4,other,bulb_glare,4,3.670329401059032,1,size,text too small (x-height < 1.4 mm equivalent)
+P080_bulb_glare_3,warning,bulb_glare,4,3.3061086724524382,1,contrast,low contrast (needs >= 4.5:1)
+P080_bulb_glare_2,dosage,bulb_glare,5,2.3304060521607655,1,contrast,low contrast (needs >= 4.5:1)
+P080_bulb_glare_5,expiry_batch,bulb_glare,0,1.0182501358888976,0,contrast,low contrast (needs >= 4.5:1)
+P080_bulb_glare_1,strength,bulb_glare,4,3.039043467184131,1,size,text too small (x-height < 1.4 mm equivalent)
+P080_bulb_glare_0,drug_name,bulb_glare,8,7.200288800419267,2,none,legible
+P080_daylight_4,other,daylight,3,2.6627617478321275,1,size,text too small (x-height < 1.4 mm equivalent)
+P080_daylight_0,drug_name,daylight,8,7.883974921459815,2,none,legible
+P080_daylight_1,strength,daylight,4,2.0470187778121027,0,size,text too small (x-height < 1.4 mm equivalent)
+P080_daylight_2,dosage,daylight,5,4.539391887144306,1,contrast,low contrast (needs >= 4.5:1)
+P080_daylight_3,warning,daylight,1,1.025823932120994,0,contrast,low contrast (needs >= 4.5:1)
+P080_daylight_5,expiry_batch,daylight,0,0.8551955672683804,0,contrast,low contrast (needs >= 4.5:1)
+P080_indoor_3,warning,indoor,0,0.3316444549979759,0,contrast,low contrast (needs >= 4.5:1)
+P080_indoor_4,other,indoor,3,2.8420820694493862,1,size,text too small (x-height < 1.4 mm equivalent)
+P080_indoor_2,dosage,indoor,6,3.1048116101754606,1,contrast,low contrast (needs >= 4.5:1)
+P080_indoor_1,strength,indoor,3,2.0466189084890463,0,size,text too small (x-height < 1.4 mm equivalent)
+P080_indoor_0,drug_name,indoor,8,7.808773957951553,2,none,legible
+P080_indoor_5,expiry_batch,indoor,0,1.421276052354533,0,contrast,low contrast (needs >= 4.5:1)
+P083_bulb_glare_0,drug_name,bulb_glare,0,2.5967150517288307,1,weight,stroke too thin
+P083_bulb_glare_1,strength,bulb_glare,5,2.1886902502809056,0,size,text too small (x-height < 1.4 mm equivalent)
+P083_bulb_glare_2,dosage,bulb_glare,0,0.0,0,contrast,low contrast (needs >= 4.5:1)
+P083_bulb_glare_5,expiry_batch,bulb_glare,0,3.314990893765897,1,contrast,low contrast (needs >= 4.5:1)
+P083_bulb_glare_4,other,bulb_glare,3,3.19999224013837,1,size,text too small (x-height < 1.4 mm equivalent)
+P083_bulb_glare_3,warning,bulb_glare,1,1.3403326961389819,0,size,text too small (x-height < 1.4 mm equivalent)
+P083_daylight_4,other,daylight,2,3.050808882636226,1,size,text too small (x-height < 1.4 mm equivalent)
+P083_daylight_0,drug_name,daylight,8,7.8072243867750775,2,none,legible
+P083_daylight_1,strength,daylight,0,2.563017096098131,1,size,text too small (x-height < 1.4 mm equivalent)
+P083_daylight_2,dosage,daylight,0,0.3876048346938933,0,contrast,low contrast (needs >= 4.5:1)
+P083_daylight_3,warning,daylight,1,0.5738208189257535,0,weight,stroke too thin
+P083_daylight_5,expiry_batch,daylight,0,0.37130300302074354,0,contrast,low contrast (needs >= 4.5:1)
+P083_indoor_1,strength,indoor,0,2.6412635252457806,1,size,text too small (x-height < 1.4 mm equivalent)
+P083_indoor_4,other,indoor,3,3.139744147114545,1,size,text too small (x-height < 1.4 mm equivalent)
+P083_indoor_3,warning,indoor,2,0.5237719855642587,0,size,text too small (x-height < 1.4 mm equivalent)
+P083_indoor_2,dosage,indoor,0,0.060859295009646326,0,contrast,low contrast (needs >= 4.5:1)
+P083_indoor_0,drug_name,indoor,8,7.751049602668847,2,none,legible
+P083_indoor_5,expiry_batch,indoor,0,0.04584932142995599,0,contrast,low contrast (needs >= 4.5:1)
+P090_bulb_glare_5,expiry_batch,bulb_glare,4,4.058599592262349,1,size,text too small (x-height < 1.4 mm equivalent)
+P090_bulb_glare_4,other,bulb_glare,2,2.193832379989448,0,size,text too small (x-height < 1.4 mm equivalent)
+P090_bulb_glare_3,warning,bulb_glare,5,3.705247798545476,1,contrast,low contrast (needs >= 4.5:1)
+P090_bulb_glare_2,dosage,bulb_glare,5,4.792006646459629,1,size,text too small (x-height < 1.4 mm equivalent)
+P090_bulb_glare_1,strength,bulb_glare,7,5.352952710055232,2,none,legible
+P090_bulb_glare_0,drug_name,bulb_glare,8,7.787144766351693,2,none,legible
+P090_daylight_4,other,daylight,2,2.378767188512828,1,size,text too small (x-height < 1.4 mm equivalent)
+P090_daylight_5,expiry_batch,daylight,4,3.9136921223691017,1,size,text too small (x-height < 1.4 mm equivalent)
+P090_daylight_3,warning,daylight,4,3.3855754931893367,1,contrast,low contrast (needs >= 4.5:1)
+P090_daylight_2,dosage,daylight,5,4.72423484332991,1,size,text too small (x-height < 1.4 mm equivalent)
+P090_daylight_1,strength,daylight,6,5.040089543134601,1,glare,foil/specular glare
+P090_daylight_0,drug_name,daylight,7,7.574836717744541,2,none,legible
+P090_indoor_5,expiry_batch,indoor,4,4.060495890523417,1,size,text too small (x-height < 1.4 mm equivalent)
+P090_indoor_4,other,indoor,2,2.1586307105757228,0,size,text too small (x-height < 1.4 mm equivalent)
+P090_indoor_3,warning,indoor,5,3.683408831411195,1,contrast,low contrast (needs >= 4.5:1)
+P090_indoor_2,dosage,indoor,5,4.535252378334734,1,size,text too small (x-height < 1.4 mm equivalent)
+P090_indoor_1,strength,indoor,7,4.943402944933624,1,contrast,low contrast (needs >= 4.5:1)
+P090_indoor_0,drug_name,indoor,7,7.499789700541505,2,none,legible

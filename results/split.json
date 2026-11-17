@@ -1,0 +1,18 @@
+{
+ "train": {
+  "regions": 1224,
+  "products": 68
+ },
+ "val": {
+  "regions": 216,
+  "products": 12
+ },
+ "dev": {
+  "regions": 1440,
+  "products": 80
+ },
+ "test": {
+  "regions": 360,
+  "products": 20
+ }
+}
